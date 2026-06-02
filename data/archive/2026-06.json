@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 1705,
+    "heat": 1706,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2529,
+    "heat": 2530,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/01/MSR-Chat-Promo.png",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 5840,
+    "heat": 5841,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2263,
+    "heat": 2264,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7557,7 +7557,7 @@
       "kimi",
       "Python"
     ],
-    "heat": 1346,
+    "heat": 1347,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1904,
+    "heat": 1905,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10525,7 +10525,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 245,
+    "heat": 246,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11951,7 +11951,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 262,
+    "heat": 263,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12579,7 +12579,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 22,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12981,7 +12981,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 378,
+    "heat": 379,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14833,7 +14833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 76,
+    "heat": 77,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:24:24.981Z",
@@ -15066,5 +15066,20 @@
     "heat": 0,
     "firstSeen": "2026-06-02T12:24:44.017Z",
     "aiNote": "能效比惊人但定价策略成谜，掌机市场或将迎来颠覆性对决。"
+  },
+  {
+    "id": "rss:ithome-ad5326e079",
+    "title": "原华为盘古“90 后少帅”王云鹤离职创业，新公司“基元律动”获 1 亿美元估值融资",
+    "summary": "IT之家 6 月 2 日消息，据新浪科技今日报道，曾在华为主导盘古大模型研发的“90 后少帅”王云鹤，已于近期投身 AI Agent 领域创业，其新成立的公司“基元律动”已完成一轮估值达 1 亿美元的新融资。 王云鹤在今年 3 月末正式告别了工作近 9 年的华为。离职前，他最后的职务为华为诺亚方舟实验室主任、盘古大模型负责人，曾被誉为“盘古大模型少帅”和“天…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/958/952.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:27:23.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/3/a1dba3a1-b9d2-49f2-8802-4e59fc00a2ed.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:27:38.134Z",
+    "aiNote": "顶尖技术人才创业动向，折射AI Agent赛道资本热度与行业新趋势。"
   }
 ]
