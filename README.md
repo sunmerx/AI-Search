@@ -210,13 +210,10 @@ export const CATEGORIES = [
 
 验证：`npm run crawl -- --only=rss:example && npm run dev`，确认能抓到后提 PR。
 
+## 作者
+
+**[@keyuchen-del](https://github.com/keyuchen-del)** · AI Product Manager · 关注 AI 产品与工程的交叉领域
+
 ## License
 
 [MIT](LICENSE)
-
----
-
-<p align="center">
-  <strong>Made by <a href="https://github.com/keyuchen-del">@keyuchen-del</a></strong><br/>
-  <sub>AI Product Manager · 关注 AI 产品与工程的交叉领域</sub>
-</p>
