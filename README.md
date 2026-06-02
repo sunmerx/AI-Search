@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>每天自动聚合全网 AI 资讯 · AI 解读 · 个性化 · 开放 API</strong><br/>
-  <sub>Fork AI 信息提取总结skill、内容还源（金融、医疗等）、一件部署到自己的Agent中</sub>
+  <sub>Fork AI 信息提取总结skill、内容还源（金融、医疗等）、一键部署到自己的Agent中</sub>
 </p>
 
 <p align="center">
