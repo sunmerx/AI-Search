@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2532,
+    "heat": 2533,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1613,
+    "heat": 1615,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/05/Research-Forum-hero_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -7328,7 +7328,7 @@
       "ai-search-engine",
       "TypeScript"
     ],
-    "heat": 313,
+    "heat": 314,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2265,
+    "heat": 2266,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10138,7 +10138,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 214,
+    "heat": 215,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10247,7 +10247,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 229,
+    "heat": 230,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10876,7 +10876,7 @@
   {
     "id": "rss:36kr-c0c37b71a8",
     "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-    "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内…",
+    "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、���准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增…",
     "source": "36氪",
     "sourceUrl": "https://36kr.com/p/3834544830721671?f=rss",
     "category": "ai-products",
@@ -11951,7 +11951,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 265,
+    "heat": 266,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12615,7 +12615,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 83,
+    "heat": 84,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12981,7 +12981,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 381,
+    "heat": 382,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 155,
+    "heat": 159,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -14786,7 +14786,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T11:14:44.531Z",
@@ -14833,7 +14833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 77,
+    "heat": 78,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:24:24.981Z",

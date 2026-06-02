@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-06-02T12:39:20.611Z",
-  "count": 573,
+  "fetchedAt": "2026-06-02T12:42:25.568Z",
+  "count": 572,
   "sources": {
     "hf-papers": 50,
     "github": 80,
     "hackernews": 105,
     "rss:qbitai": 10,
-    "rss:36kr": 8,
+    "rss:36kr": 7,
     "rss:infoq": 13,
     "rss:sspai": 4,
     "rss:ithome": 9,
