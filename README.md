@@ -202,7 +202,7 @@ npm run crawl && npm run dev
 
 ## 👤 作者
 
-**[@keyuchen-del](https://github.com/keyuchen-del)** · AI Product Manager · 关注 AI 产品与工程的交叉领域
+Jacky（北京大学27’）· AI Product Manager · 关注 AI 产品与工程的交叉领域
 
 ## 📄 License
 
