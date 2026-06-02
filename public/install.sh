@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # AI Search SKILL.md installer
-# Usage: curl -fsSL https://keyuchen-del.github.io/AI-Search/install.sh | bash
+# Usage: curl -fsSL https://aisearches.cc/install.sh | bash
 
 set -e
 
-SKILL_URL="https://keyuchen-del.github.io/AI-Search/SKILL.md"
+SKILL_URL="https://aisearches.cc/SKILL.md"
 SKILL_NAME="ai-search"
 
 # Detect target directory

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://keyuchen-del.github.io/AI-Search/">在线访问</a> &nbsp;·&nbsp;
+  <a href="https://aisearches.cc/">在线访问</a> &nbsp;·&nbsp;
   <a href="#-agent-接入一行命令">Agent 接入</a> &nbsp;·&nbsp;
   <a href="#-换源--变成任何领域的资讯站">换源指南</a> &nbsp;·&nbsp;
   <a href="#-快速开始">快速开始</a>
@@ -72,7 +72,7 @@ npm test               # 运行测试
 让 Claude Code / Cursor / Codex / Gemini CLI 等 Agent 直接用自然语言获取 AI 资讯：
 
 ```bash
-curl -fsSL https://keyuchen-del.github.io/AI-Search/install.sh | bash
+curl -fsSL https://aisearches.cc/install.sh | bash
 ```
 
 安装后直接问你的 Agent：

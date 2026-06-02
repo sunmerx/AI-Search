@@ -33,7 +33,7 @@ AI 每日必读
 
 ## API 端点
 
-基础 URL：`https://keyuchen-del.github.io/AI-Search/api/v1`
+基础 URL：`https://aisearches.cc/api/v1`
 
 所有端点返回 JSON，直接 `curl` 或 `fetch` 即可，无需鉴权。
 
@@ -119,10 +119,10 @@ curl -s $BASE/sources.json | jq '.[] | "\(.name): \(.count)条"'
 ## 安装
 
 ```bash
-curl -fsSL https://keyuchen-del.github.io/AI-Search/install.sh | bash
+curl -fsSL https://aisearches.cc/install.sh | bash
 ```
 
-或手动下载 [SKILL.md](https://keyuchen-del.github.io/AI-Search/SKILL.md) 到你的项目根目录。
+或手动下载 [SKILL.md](https://aisearches.cc/SKILL.md) 到你的项目根目录。
 
 ## 跨平台支持
 
@@ -136,6 +136,6 @@ AI Search 是通用资讯聚合模板。Fork 后修改 `scripts/sources/rss.ts` 
 
 ## 链接
 
-- 在线站点：https://keyuchen-del.github.io/AI-Search/
+- 在线站点：https://aisearches.cc/
 - GitHub：https://github.com/keyuchen-del/AI-Search
-- API 基础 URL：https://keyuchen-del.github.io/AI-Search/api/v1/
+- API 基础 URL：https://aisearches.cc/api/v1/
