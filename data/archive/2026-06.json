@@ -839,7 +839,7 @@
       "cli-anything",
       "Python"
     ],
-    "heat": 298,
+    "heat": 299,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 1703,
+    "heat": 1705,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2527,
+    "heat": 2529,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4184,7 +4184,7 @@
       "ai-development",
       "JavaScript"
     ],
-    "heat": 709,
+    "heat": 711,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1607,
+    "heat": 1610,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/01/MSR-Chat-Promo.png",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 5837,
+    "heat": 5840,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2262,
+    "heat": 2263,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10138,7 +10138,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 211,
+    "heat": 213,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1893,
+    "heat": 1904,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10557,7 +10557,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 501,
+    "heat": 502,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10637,7 +10637,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 202,
+    "heat": 203,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11104,7 +11104,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 96,
+    "heat": 97,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11934,7 +11934,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 433,
+    "heat": 438,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -11951,7 +11951,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 260,
+    "heat": 262,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12615,7 +12615,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 78,
+    "heat": 80,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12981,7 +12981,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 376,
+    "heat": 378,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -13827,7 +13827,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 10,
+    "heat": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -13881,7 +13881,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 8,
+    "heat": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -14214,7 +14214,7 @@
       "model-predictive-control",
       "C++"
     ],
-    "heat": 10,
+    "heat": 11,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 132,
+    "heat": 143,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -14833,7 +14833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 69,
+    "heat": 76,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:24:24.981Z",
@@ -15007,7 +15007,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T12:10:15.095Z",
@@ -15051,5 +15051,20 @@
     "origin": "github",
     "firstSeen": "2026-06-02T12:10:15.095Z",
     "aiNote": "开源AI治理工具，填补了Agent闭环管理的空白，兼顾人类监督与记忆复盘，实用性很强。"
+  },
+  {
+    "id": "rss:ithome-e175d7a7d2",
+    "title": "英特尔锐炫 G3 Extreme 掌机芯片只用一半功耗追平 AMD 锐龙 Z2 Extreme 性能，但价格也“疯狂”",
+    "summary": "IT之家 6 月 2 日消息，英特尔高管 Tom Peterson 昨日在接受 Gamers Nexus 的采访中，谈到了其专为掌机设计的锐炫 G3 与 G3 Extreme 平台。 这两款芯片均基于 Panther Lake 架构，采用 Intel 18A 工艺制造，CPU 部分采用 14 核设计（2P+8E+4LPE），二者的区别在于 GPU 配置 ——…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/958/950.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:20:10.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/ca5f7ba6-6fb4-418a-8eaa-1d5b9794ea1b.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:24:44.017Z",
+    "aiNote": "能效比惊人但定价策略成谜，掌机市场或将迎来颠覆性对决。"
   }
 ]
