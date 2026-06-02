@@ -136,15 +136,59 @@ export const CATEGORIES = [
 
 ## 📡 数据来源
 
-当前覆盖 20+ 公开 RSS / API：
+当前覆盖 20+ 公开 RSS / API，每条保留原始链接可溯源：
 
-**模型实验室** OpenAI · Google AI · DeepMind · HuggingFace · NVIDIA
-**学术** arXiv · Lil'Log · Ahead of AI · The Gradient · BAIR · Microsoft Research
-**科技媒体** The Verge · TechCrunch · VentureBeat · Ars Technica · MIT Tech Review
-**社区** Hacker News · GitHub · Simon Willison
-**中文** 量子位 · 36氪 · IT之家 · 少数派 · InfoQ
+| 类别 | 来源 | 类型 |
+|------|------|------|
+| **模型实验室** | OpenAI | RSS |
+| | Google AI Blog | RSS |
+| | Google DeepMind | RSS |
+| | HuggingFace Blog | RSS |
+| | HuggingFace Daily Papers | API |
+| | NVIDIA Blog | RSS |
+| **学术 / 深度** | arXiv (cs.AI / cs.CL / cs.LG) | API |
+| | Lil'Log (Lilian Weng) | RSS |
+| | Ahead of AI (Sebastian Raschka) | RSS |
+| | The Gradient | RSS |
+| | Berkeley AI Research (BAIR) | RSS |
+| | Microsoft Research | RSS |
+| | MIT News AI | RSS |
+| **科技媒体** | The Verge AI | RSS |
+| | TechCrunch AI | RSS |
+| | VentureBeat AI | RSS |
+| | Ars Technica AI | RSS |
+| | MIT Technology Review | RSS |
+| | AWS ML Blog | RSS |
+| **社区** | Hacker News | API |
+| | GitHub Trending | API |
+| | Simon Willison | RSS |
+| **中文** | 量子位 | RSS |
+| | 36氪 | RSS |
+| | IT之家 | RSS |
+| | 少数派 | RSS |
+| | InfoQ 中文 | RSS |
 
 > 加一个源只需在 `scripts/sources/rss.ts` 加一行。
+
+---
+
+## 📁 项目结构
+
+| 目录 / 文件 | 说明 |
+|-------------|------|
+| `app/` | Next.js 页面路由 — 首页、日报、周报、趋势、话题、时间线、关于、隐私 |
+| `components/` | 30+ React 组件 — UI 展示层，含图表、搜索、个性化、移动端导航等 |
+| `lib/` | 核心逻辑 — 类型定义、筛选排序、国际化、趋势计算、周报生成等 |
+| `scripts/` | 构建脚本 — 数据抓取编排、源适配器、API 生成、OG 图片生成 |
+| `scripts/sources/` | 数据源适配器 — RSS 通用解析、GitHub、Hacker News、arXiv、HF Papers |
+| `data/` | 数据快照 — items.json + meta.json + digest.json + 月度归档（自动维护） |
+| `tests/` | 单元测试 — Vitest，覆盖筛选和趋势计算核心逻辑 |
+| `worker/` | Cloudflare Worker — AI 问答代理，隐藏 API Key + IP 限流 |
+| `public/` | 静态资源 — OG 图片、Service Worker、SKILL.md、安装脚本 |
+| `SKILL.md` | Agent 技能描述 — API 端点、触发词、数据结构，供 Agent 平台识别 |
+| `README.md` | 项目说明 |
+| `LICENSE` | MIT 开源协议 |
+| `.github/` | CI/CD — GitHub Actions 每日自动抓取 + 测试 + 构建 + 部署 |
 
 ---
 
@@ -168,10 +212,11 @@ export const CATEGORIES = [
 
 ## License
 
-[MIT](LICENSE) © [keyuchen-del](https://github.com/keyuchen-del)
+[MIT](LICENSE)
 
 ---
 
 <p align="center">
-  <sub>Follow me on GitHub <a href="https://github.com/keyuchen-del">@keyuchen-del</a> for all project updates</sub>
+  <strong>Made by <a href="https://github.com/keyuchen-del">@keyuchen-del</a></strong><br/>
+  <sub>AI Product Manager · 关注 AI 产品与工程的交叉领域</sub>
 </p>
