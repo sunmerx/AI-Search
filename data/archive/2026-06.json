@@ -1764,7 +1764,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 518,
+    "heat": 519,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T04:55:40.586Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 1706,
+    "heat": 1707,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5210,7 +5210,7 @@
       "ai-scientists",
       "Python"
     ],
-    "heat": 438,
+    "heat": 439,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1611,
+    "heat": 1612,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -10431,7 +10431,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 436,
+    "heat": 437,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1907,
+    "heat": 1910,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10637,7 +10637,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 205,
+    "heat": 206,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11951,7 +11951,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 263,
+    "heat": 264,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12981,7 +12981,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 379,
+    "heat": 380,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -13899,7 +13899,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 144,
+    "heat": 148,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -15007,7 +15007,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 2,
+    "heat": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T12:10:15.095Z",
@@ -15081,5 +15081,35 @@
     "heat": 0,
     "firstSeen": "2026-06-02T12:27:38.134Z",
     "aiNote": "顶尖技术人才创业动向，折射AI Agent赛道资本热度与行业新趋势。"
+  },
+  {
+    "id": "rss:techcrunch-ai-ce28044b95",
+    "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:32:59.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:33:15.827Z",
+    "aiNote": "融资千万美元，在AI输出端拦截违规内容，开辟模型安全新赛道。"
+  },
+  {
+    "id": "rss:techcrunch-ai-5c441427ce",
+    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:33:15.827Z",
+    "aiNote": "火箭发动机初创公司重金押注人才而非AI，凸显实体工程领域对顶尖技术人员的迫切需求。"
   }
 ]
