@@ -839,7 +839,7 @@
       "cli-anything",
       "Python"
     ],
-    "heat": 299,
+    "heat": 301,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -1374,7 +1374,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 321,
+    "heat": 322,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T04:55:40.586Z",
@@ -3532,7 +3532,7 @@
       "cli",
       "TypeScript"
     ],
-    "heat": 658,
+    "heat": 659,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2533,
+    "heat": 2534,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5379,7 +5379,7 @@
       "memory",
       "TypeScript"
     ],
-    "heat": 120,
+    "heat": 121,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1616,
+    "heat": 1619,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Azure-AI-Foundry_1600x900.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Episode7-PeterBillSebastien-AIRevolution_Hero_Feature_River_No_Text_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 406,
+    "heat": 407,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6708,7 +6708,7 @@
       "economics",
       "journal"
     ],
-    "heat": 612,
+    "heat": 613,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7307,7 +7307,7 @@
       "files",
       "TypeScript"
     ],
-    "heat": 1181,
+    "heat": 1182,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7328,7 +7328,7 @@
       "ai-search-engine",
       "TypeScript"
     ],
-    "heat": 314,
+    "heat": 315,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2266,
+    "heat": 2267,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10138,7 +10138,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 215,
+    "heat": 217,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10247,7 +10247,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 230,
+    "heat": 231,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10431,7 +10431,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 437,
+    "heat": 438,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1912,
+    "heat": 1927,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10525,7 +10525,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 246,
+    "heat": 247,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10637,7 +10637,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 206,
+    "heat": 208,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10747,7 +10747,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 101,
+    "heat": 102,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11070,7 +11070,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 92,
+    "heat": 94,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11298,7 +11298,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 220,
+    "heat": 221,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11722,7 +11722,7 @@
       "ai-agent",
       "TypeScript"
     ],
-    "heat": 804,
+    "heat": 805,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -11934,7 +11934,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 442,
+    "heat": 451,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -11951,7 +11951,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 266,
+    "heat": 273,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12495,7 +12495,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 7,
+    "heat": 8,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12615,7 +12615,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 85,
+    "heat": 87,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12981,7 +12981,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 382,
+    "heat": 383,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -13881,7 +13881,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 9,
+    "heat": 10,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -13953,7 +13953,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 40,
+    "heat": 41,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -13989,7 +13989,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 4,
+    "heat": 5,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -14082,7 +14082,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 15,
+    "heat": 16,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -14250,7 +14250,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 47,
+    "heat": 48,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T09:24:49.775Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 161,
+    "heat": 174,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -14833,7 +14833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 78,
+    "heat": 83,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:24:24.981Z",
@@ -15025,7 +15025,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 0,
+    "heat": 1,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T12:10:15.095Z",
@@ -15159,5 +15159,20 @@
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T12:39:19.138Z",
     "aiNote": "评估视觉基础模型的对象理解能力。"
+  },
+  {
+    "id": "rss:ithome-d075320a24",
+    "title": "全球首条 S+C+L 三波段超低损多芯光缆线路在我国青岛建成开通",
+    "summary": "IT之家 6 月 2 日消息，据科技日报今日报道，近日，由中国移动联合产业合作伙伴自主设计的 全球首条 S+C+L 三波段（短波段 + 常规通信波段 + 长波段）超低损多芯光缆线路 在山东青岛正式建成开通。 IT之家注：三波段指通信光信号的 S 波段（短波段）+ C 波段（常规通信波段）+ L 波段（长波段）， 是 AI 算力、全光网络、5G-A / 6G…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/958/959.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:58:01.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/d0860b59-2f16-4f2b-8598-2c509d23a638.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-02T13:01:49.100Z",
+    "aiNote": "多波段复用突破传输瓶颈，标志我国下一代光通信技术迈入商用验证新阶段。"
   }
 ]

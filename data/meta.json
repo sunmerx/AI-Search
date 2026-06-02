@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-02T12:43:31.596Z",
-  "count": 572,
+  "fetchedAt": "2026-06-02T13:01:50.174Z",
+  "count": 573,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -9,7 +9,7 @@
     "rss:36kr": 7,
     "rss:infoq": 13,
     "rss:sspai": 4,
-    "rss:ithome": 9,
+    "rss:ithome": 10,
     "rss:nvidia": 17,
     "rss:openai": 20,
     "rss:google-ai": 20,
