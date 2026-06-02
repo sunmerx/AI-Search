@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2530,
+    "heat": 2531,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1610,
+    "heat": 1611,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 5841,
+    "heat": 5842,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10431,7 +10431,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 435,
+    "heat": 436,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1905,
+    "heat": 1907,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10557,7 +10557,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 502,
+    "heat": 503,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10637,7 +10637,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 203,
+    "heat": 205,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10798,7 +10798,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 756,
+    "heat": 757,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11934,7 +11934,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 438,
+    "heat": 440,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12615,7 +12615,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 80,
+    "heat": 81,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 143,
+    "heat": 144,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -15034,7 +15034,7 @@
   {
     "id": "gh-finewood2008-centaurloop",
     "title": "finewood2008/centaurloop",
-    "summary": "半人马环 Centaur Loop：面向 AI Agent 反馈闭环、人类治理和记忆复盘的开源工作台 / Human-governed AI feedback loop workbench.",
+    "summary": "半人马环 Centaur Loop：AI 员工的最小工作单元框架。把复杂岗位拆解为可由 AI 接管、由人类治理、由反馈和记忆持续进化的循环工作流 / The smallest work unit for building AI employees.",
     "source": "GitHub",
     "sourceUrl": "https://github.com/finewood2008/centaurloop",
     "category": "ai-products",
