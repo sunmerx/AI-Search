@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f6f7fb;
+  --panel: #ffffff;
+  --text: #1c2434;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+}
+
+.dark {
+  --bg: #0f1219;
+  --panel: #1a1f2e;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --border: #2d3548;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "PingFang SC",
+    "Microsoft YaHei", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.card:hover {
+  box-shadow: 0 6px 20px rgba(20, 30, 60, 0.06);
+  transform: translateY(-1px);
+}
+
+.dark .card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Keyboard accessibility: a visible focus ring on interactive elements. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid #2453ee;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Skip-to-content link, revealed on keyboard focus. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  background: #2453ee;
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 0 0 8px 0;
+}
+.skip-link:focus {
+  left: 0;
+}
+
+/* Card list fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.25s ease-out both;
+}
+
+/* Smooth content transitions */
+section, main {
+  transition: opacity 0.15s ease;
+}
+
+/* Mobile bottom nav safe area + content padding */
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (max-width: 767px) {
+  body { padding-bottom: 60px; }
+}
+
+/* Honor the user's reduced-motion preference. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
