@@ -3532,7 +3532,7 @@
       "cli",
       "TypeScript"
     ],
-    "heat": 656,
+    "heat": 658,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4184,7 +4184,7 @@
       "ai-development",
       "JavaScript"
     ],
-    "heat": 711,
+    "heat": 712,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1612,
+    "heat": 1613,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/EP2-AI-TE_Hero_Feature_River_No_Text_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 405,
+    "heat": 406,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2264,
+    "heat": 2265,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10138,7 +10138,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 213,
+    "heat": 214,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -10478,7 +10478,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1910,
+    "heat": 1912,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -11934,7 +11934,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 440,
+    "heat": 442,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12579,7 +12579,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 23,
+    "heat": 24,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 149,
+    "heat": 155,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -15111,5 +15111,53 @@
     "heat": 0,
     "firstSeen": "2026-06-02T12:33:15.827Z",
     "aiNote": "火箭发动机初创公司重金押注人才而非AI，凸显实体工程领域对顶尖技术人员的迫切需求。"
+  },
+  {
+    "id": "rss:ithome-44fda306d5",
+    "title": "联发科表态：下一代芯片独家采用英特尔 EMIB-T 封装，预计 2027 年 Q4 量产",
+    "summary": "IT之家 6 月 2 日消息，在 COMPUTEX 2026 期间举行的高盛日活动上，联发科宣布其下一代芯片将仅采用英特尔的 EMIB-T 先进封装技术，不再使用台积电的 CoWoS 方案。 联发科在会议中透露，该下一代芯片项目的流片（tape-out）目标定于 2026 年第四季度，并计划在 2027 年第四季度进入量产阶段。 高盛指出，联发科企业级 AS…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/958/954.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:38:31.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/714d8816-b695-432a-af0e-d69682d03237.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:39:19.138Z",
+    "aiNote": "打破台积电封装垄断，联发科选择英特尔，预示先进封装格局或将重写。"
+  },
+  {
+    "id": "rss:theverge-ai-a983a21ac4",
+    "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+    "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent /…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+    "category": "industry",
+    "publishedAt": "2026-06-02T12:38:08.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-02T12:39:19.138Z",
+    "aiNote": "演示效果惊艳，但揭示出AI自主规划能力已逼近人类，引发对技术失控的深层担忧。"
+  },
+  {
+    "id": "hf-2605.31597",
+    "title": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
+    "summary": "Measuring structured object understanding in vision foundation models remains challenging due to inconsistent evaluation protocols and limited part-level supervision. Semantic correspondence (SC) eval…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.31597",
+    "category": "paper",
+    "publishedAt": "2026-05-28T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 3,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-02T12:39:19.138Z",
+    "aiNote": "评估视觉基础模型的对象理解能力。"
   }
 ]
