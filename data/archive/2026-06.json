@@ -839,7 +839,7 @@
       "cli-anything",
       "Python"
     ],
-    "heat": 310,
+    "heat": 312,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 1750,
+    "heat": 1751,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2603,
+    "heat": 2605,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4184,7 +4184,7 @@
       "ai-development",
       "JavaScript"
     ],
-    "heat": 727,
+    "heat": 728,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4723,7 +4723,7 @@
       "diffusion-models",
       "Python"
     ],
-    "heat": 60,
+    "heat": 61,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1704,
+    "heat": 1706,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Episode7-PeterBillSebastien-AIRevolution_Hero_Feature_River_No_Text_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 428,
+    "heat": 429,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6708,7 +6708,7 @@
       "economics",
       "journal"
     ],
-    "heat": 617,
+    "heat": 618,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 5897,
+    "heat": 5899,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7521,7 +7521,7 @@
       "deep-learning",
       "Python"
     ],
-    "heat": 2381,
+    "heat": 2386,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -10816,7 +10816,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 153,
+    "heat": 154,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T23:44:43.010Z",
@@ -13434,8 +13434,8 @@
     "aiSelected": true,
     "origin": "rss:qbitai",
     "heat": 0,
-    "firstSeen": "2026-06-02T11:28:00.269Z",
-    "aiNote": "打通仿真与真机鸿沟，LiOS为家庭柔性操作提供全链路解决方案，是具身智能落地的关键突破。"
+    "firstSeen": "2026-06-03T02:51:41.203Z",
+    "aiNote": null
   },
   {
     "id": "arxiv-2606.02578v1",
@@ -14768,7 +14768,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 627,
+    "heat": 630,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T11:06:17.941Z",
@@ -15342,7 +15342,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 144,
+    "heat": 151,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15419,7 +15419,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 241,
+    "heat": 247,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15436,7 +15436,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 60,
+    "heat": 62,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15513,7 +15513,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 47,
+    "heat": 48,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15530,7 +15530,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 396,
+    "heat": 398,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15547,7 +15547,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 175,
+    "heat": 176,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15765,7 +15765,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "超参数调优是AI模型落地的关键瓶颈，这篇解析兼顾科学与艺术，直击行业实战痛点。"
   },
   {
     "id": "rss:aws-ml-56821d772f",
@@ -15780,7 +15780,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "用亚马逊新模型快速实现物体检测，降低AI应用门槛。"
   },
   {
     "id": "rss:theverge-ai-b29e52a94a",
@@ -15795,7 +15795,7 @@
     "origin": "rss:theverge-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "微软专为AI智能体硬件打造操作系统，标志从软件到硬件生态的关键一步。"
   },
   {
     "id": "hn-e320f26261",
@@ -15812,7 +15812,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "探讨2018年获取报酬的三种模式，揭示早期数字经济的变现思路。"
   },
   {
     "id": "hn-2db70eedb6",
@@ -15825,11 +15825,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 200,
+    "heat": 202,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "Windows原生支持GNU核心工具，降低跨平台开发门槛。"
   },
   {
     "id": "hn-c5720ed0e5",
@@ -15842,11 +15842,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 178,
+    "heat": 179,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "政令反复折射AI监管博弈，科技政策风向标意义显著。"
   },
   {
     "id": "hn-1537e2cb96",
@@ -15863,7 +15863,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "搜索领域新范式，将搜索转化为代码生成，有望突破现有检索瓶颈。"
   },
   {
     "id": "rss:theverge-ai-88f776c85a",
@@ -15878,7 +15878,7 @@
     "origin": "rss:theverge-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "微软自研迷你开发套件，打破高通垄断，为开发者提供全新ARM平台选择。"
   },
   {
     "id": "rss:techcrunch-ai-ec28701a10",
@@ -15893,7 +15893,7 @@
     "origin": "rss:techcrunch-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "删减监管力度，转向自愿审查，反映特朗普政府向产业妥协的务实态度。"
   },
   {
     "id": "hn-dcb309cfbc",
@@ -15910,7 +15910,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "用视觉索引突破文本限制，为多模态检索提供新路径。"
   },
   {
     "id": "rss:techcrunch-ai-31f39eabff",
@@ -15925,7 +15925,7 @@
     "origin": "rss:techcrunch-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "瞄准六大白领岗位，OpenAI插件化AI工具，职场自动化进入细分赛道。"
   },
   {
     "id": "rss:theverge-ai-2333031986",
@@ -15940,7 +15940,7 @@
     "origin": "rss:theverge-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "微软Build 2026展示AI助手Scout与Majorana 2，开发者工具成焦点。"
   },
   {
     "id": "rss:qbitai-15320aab2e",
@@ -15955,7 +15955,7 @@
     "origin": "rss:qbitai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "实测展现多任务处理能力，验证复杂场景下的AI实用性。"
   },
   {
     "id": "rss:aws-ml-ac28a0c362",
@@ -15970,7 +15970,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "亚马逊Bedrock AgentCore让Baz的AI代码审查精度提升，展示云服务与AI结合的实际应"
   },
   {
     "id": "hn-b9b1ee517c",
@@ -15983,11 +15983,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 114,
+    "heat": 115,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "数据中心的争议暴露了公众对AI技术认知的断层。"
   },
   {
     "id": "hn-22f265c53d",
@@ -16004,7 +16004,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "用工作量证明链构建去中心化社交网络，探索区块链社交新路径，技术实验价值高。"
   },
   {
     "id": "rss:qbitai-95e2584210",
@@ -16019,7 +16019,7 @@
     "origin": "rss:qbitai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "天才少年加入，彰显OpenAI对顶尖AI人才的极致吸引力。"
   },
   {
     "id": "rss:qbitai-a92287675e",
@@ -16034,7 +16034,7 @@
     "origin": "rss:qbitai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "AI原生达人营销平台规模化爆发，头部厂商采购验证商业价值。"
   },
   {
     "id": "rss:techcrunch-ai-dcf96489a3",
@@ -16049,7 +16049,7 @@
     "origin": "rss:techcrunch-ai",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "Anthropic将AI安全项目扩展至全球关键基础设施，展示大模型防护从理论走向实际应用。"
   },
   {
     "id": "rss:hf-blog-440b7646f5",
@@ -16064,7 +16064,7 @@
     "origin": "rss:hf-blog",
     "heat": 0,
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "开源本地AI代理，快速执行任务，隐私安全优势显著。"
   },
   {
     "id": "hn-e19664232b",
@@ -16077,11 +16077,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 58,
+    "heat": 59,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "AI投资回报争议本质是长期价值与短期收益的博弈。"
   },
   {
     "id": "hn-a234863afe",
@@ -16098,7 +16098,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
-    "aiNote": null
+    "aiNote": "别在求职帖下滥发垃圾信息，这种冷漠行为暴露了招聘平台缺乏人性化的审核机制。"
   },
   {
     "id": "hn-10594d8522",
@@ -16158,7 +16158,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 103,
+    "heat": 104,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -16817,7 +16817,7 @@
   },
   {
     "id": "hn-0f3fa81964",
-    "title": "I Don't Want My Search Engine to Think for Me",
+    "title": "I don't want my search engine to think for me",
     "summary": null,
     "source": "Hacker News",
     "sourceUrl": "https://searchzee.com/blog/search-without-ai-summaries",
@@ -16826,7 +16826,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 56,
+    "heat": 61,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16843,7 +16843,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 49,
+    "heat": 50,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16875,7 +16875,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 58,
+    "heat": 60,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16892,7 +16892,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 104,
+    "heat": 106,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16909,7 +16909,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 48,
+    "heat": 51,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16926,7 +16926,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 40,
+    "heat": 41,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -16978,7 +16978,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "新评估方法聚焦推理过程，而非仅看答案，能更精准识别模型漏洞。"
   },
   {
     "id": "arxiv-2606.03657v1",
@@ -16996,7 +16996,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "评估大模型调用新API的能力，填补实用知识缺口，推动智能体从记忆转向推理。"
   },
   {
     "id": "arxiv-2606.03655v1",
@@ -17014,7 +17014,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "用偏好语义为模态逻辑注入非单调推理，拓展了常识推理的形式化边界。"
   },
   {
     "id": "arxiv-2606.03650v1",
@@ -17032,7 +17032,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "无需标注数据与可信基准，即可为自定义任务自动排序语言模型，突破传统评估瓶颈。"
   },
   {
     "id": "arxiv-2606.03648v1",
@@ -17050,7 +17050,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "微调会削弱大模型安全护栏，揭示能力与安全的深层矛盾，对AI部署至关重要。"
   },
   {
     "id": "arxiv-2606.03647v1",
@@ -17068,7 +17068,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-03T02:36:49.071Z",
-    "aiNote": null
+    "aiNote": "自适应黑盒攻击可精准评估大模型脆弱性，揭示安全防护真实短板，推动防御技术迭代。"
   },
   {
     "id": "arxiv-2606.03641v1",
@@ -17421,7 +17421,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -17475,7 +17475,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 9,
+    "heat": 11,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-03T02:36:49.071Z",
@@ -17497,5 +17497,35 @@
     "origin": "hackernews",
     "firstSeen": "2026-06-03T02:36:49.071Z",
     "aiNote": null
+  },
+  {
+    "id": "rss:36kr-dda83f3490",
+    "title": "微盟内测国内首个“电商AI增长引擎”",
+    "summary": "36氪获悉，微盟正在内测一款名为“微盟星枢”的独立AI产品。该产品定位于面向电商的全平台AI智能增长引擎，商家通过自然语言对话便可一键管理国内主流电商平台。而这也将是国内首个面向电商垂类场景、打通全主流电商平台与流量入口的AI产品。",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/3836847649322369?f=rss",
+    "category": "tip",
+    "publishedAt": "2026-06-03T02:43:15.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-03T02:51:41.203Z",
+    "aiNote": "打通全平台电商，用AI对话简化运营，或为中小商家降本增效。"
+  },
+  {
+    "id": "rss:ithome-613b716377",
+    "title": "高盛 CEO 所罗门谈人工智能：当前市场贪婪多于恐慌",
+    "summary": "IT之家 6 月 3 日消息，高盛首席执行官戴维 · 所罗门表示，只要市场信心维持在高位，人工智能热潮就会持续升温。 所罗门在纽约经济俱乐部当地时间周二举办的访谈活动中称：“倘若全球市场乐观情绪延续，整个金融体系将保有充裕的流动性。”CNBC 记者莱斯利 · 皮克向他提问，如何看待大批巨型人工智能项目扎堆登陆股权市场募资的现状。 所罗门补充道：“当下市场显然…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/959/108.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-03T02:38:49.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-03T02:51:41.203Z",
+    "aiNote": "高盛CEO的警告点明AI投资过热风险，市场情绪或成泡沫关键。"
   }
 ]

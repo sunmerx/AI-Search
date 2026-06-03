@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-06-03T02:36:58.251Z",
+  "fetchedAt": "2026-06-03T02:51:50.933Z",
   "count": 577,
   "sources": {
     "hf-papers": 50,
     "github": 80,
     "hackernews": 108,
     "rss:qbitai": 10,
-    "rss:36kr": 10,
+    "rss:36kr": 11,
     "rss:infoq": 15,
     "rss:sspai": 3,
-    "rss:ithome": 7,
+    "rss:ithome": 6,
     "rss:nvidia": 17,
     "rss:openai": 20,
     "rss:google-ai": 20,
