@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-02",
-  "generatedAt": "2026-06-01T23:44:53.388Z",
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T00:03:22.338Z",
   "picks": [
     {
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
       "sourceUrl": "https://www.anthropic.com/news/confidential-draft-s1-sec",
       "source": "Hacker News",
-      "reason": "Anthropic提交IPO草案，AI赛道重大资本事件"
+      "reason": "Anthropic秘密提交S-1，AI独角兽上市关键动向"
     },
     {
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "sourceUrl": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "sourceUrl": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
       "source": "Hacker News",
-      "reason": "Anthropic估值超越OpenAI，AI格局生变"
-    },
-    {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "sourceUrl": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "source": "Hacker News",
-      "reason": "Meta AI被黑客利用，安全漏洞引关注"
-    },
-    {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "sourceUrl": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "source": "Hacker News",
-      "reason": "ChatGPT插件窃取数据，隐私风险警示"
+      "reason": "Alphabet 800亿加码AI基建，巨头重注信号"
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "sourceUrl": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
       "source": "Hacker News",
-      "reason": "佛罗里达起诉OpenAI，AI监管升级信号"
+      "reason": "佛罗里达起诉OpenAI，AI监管法律战升级"
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "sourceUrl": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "source": "Hacker News",
+      "reason": "股市能否容纳AI巨头？估值与市场博弈"
+    },
+    {
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "sourceUrl": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "source": "Hacker News",
+      "reason": "Red Hat云服务现恶意npm包，供应链安全警钟"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在模型突破与实用工具：Claude新版本发布，OpenAI模型破解数学难题，同时涌现出训练GPT、智能体实践、效率工具等多项开源项目。"
+  "trendSummary": "本周AI圈热点聚焦于模型能力突破与开源生态活跃，Claude新版本引发关注，OpenAI模型推翻数学猜想，同时多款开源工具和项目持续涌现，推动应用落地。"
 }
