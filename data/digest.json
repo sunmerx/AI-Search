@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-04",
-  "generatedAt": "2026-06-04T00:03:54.107Z",
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-04T23:39:15.525Z",
   "picks": [
     {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "sourceUrl": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "sourceUrl": "https://www.anthropic.com/institute/recursive-self-improvement",
       "source": "Hacker News",
-      "reason": "Anthropic秘密提交IPO文件，AI独角兽上市信号强烈。"
+      "reason": "AI自我递归改进，里程碑式进展"
     },
     {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "sourceUrl": "https://blog.ammaraskar.com/github-token-stealing/",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "sourceUrl": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
       "source": "Hacker News",
-      "reason": "VSCode漏洞可一键窃取GitHub令牌，安全风险极高。"
+      "reason": "AI冲击教育，数学能力下滑警示"
     },
     {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "sourceUrl": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "sourceUrl": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
       "source": "Hacker News",
-      "reason": "佛罗里达州起诉OpenAI，AI监管法律战升级。"
+      "reason": "数学家集体警告AI过快发展"
     },
     {
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "sourceUrl": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "source": "Hacker News",
-      "reason": "特朗普签署缩减版AI行政令，政策风向突变。"
+      "reason": "Google新多模态模型，无编码器"
     },
     {
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
       "sourceUrl": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
       "source": "Hacker News",
-      "reason": "DDR5内存因AI短缺涨价，影响PC硬件市场。"
+      "reason": "AI短缺推高硬件成本，现实影响"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在模型突破与应用工具并进：Claude新版本发布、OpenAI模型攻克数学难题，同时多款开源工具与个人项目引发关注，行业持续活跃。"
+  "trendSummary": "本周AI圈热点集中在模型能力突破与开源工具爆发，Claude新版本、OpenAI数学证明、Anthropic人才动态及多个高效开源项目共同推动行业加速演进。"
 }
