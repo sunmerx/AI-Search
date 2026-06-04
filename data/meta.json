@@ -1,28 +1,28 @@
 {
-  "fetchedAt": "2026-06-03T02:51:50.933Z",
-  "count": 577,
+  "fetchedAt": "2026-06-04T00:03:51.095Z",
+  "count": 493,
   "sources": {
-    "hf-papers": 50,
+    "hf-papers": 0,
     "github": 80,
     "hackernews": 108,
     "rss:qbitai": 10,
-    "rss:36kr": 11,
+    "rss:36kr": 14,
     "rss:infoq": 15,
-    "rss:sspai": 3,
-    "rss:ithome": 6,
+    "rss:sspai": 2,
+    "rss:ithome": 11,
     "rss:nvidia": 17,
     "rss:openai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
-    "rss:hf-blog": 20,
+    "rss:hf-blog": 0,
     "rss:bair": 10,
     "rss:mit-news-ai": 20,
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
     "rss:venturebeat-ai": 7,
-    "rss:arstechnica-ai": 20,
+    "rss:arstechnica-ai": 0,
     "rss:techreview-ai": 10,
-    "rss:simonwillison": 13,
+    "rss:simonwillison": 14,
     "rss:aws-ml": 20,
     "rss:msr": 8,
     "rss:lilianweng": 20,
@@ -30,5 +30,9 @@
     "rss:thegradient": 14,
     "arxiv": 20
   },
-  "errors": {}
+  "errors": {
+    "hf-papers": "HTTP 429 Too Many Requests <- https://huggingface.co/api/daily_papers",
+    "rss:hf-blog": "HTTP 429 Too Many Requests <- https://huggingface.co/blog/feed.xml",
+    "rss:arstechnica-ai": "HTTP 403 Forbidden <- https://arstechnica.com/ai/feed/"
+  }
 }

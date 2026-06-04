@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-03",
-  "generatedAt": "2026-06-03T00:03:22.338Z",
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T00:03:54.107Z",
   "picks": [
     {
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
       "sourceUrl": "https://www.anthropic.com/news/confidential-draft-s1-sec",
       "source": "Hacker News",
-      "reason": "Anthropic秘密提交S-1，AI独角兽上市关键动向"
+      "reason": "Anthropic秘密提交IPO文件，AI独角兽上市信号强烈。"
     },
     {
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "sourceUrl": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "sourceUrl": "https://blog.ammaraskar.com/github-token-stealing/",
       "source": "Hacker News",
-      "reason": "Alphabet 800亿加码AI基建，巨头重注信号"
+      "reason": "VSCode漏洞可一键窃取GitHub令牌，安全风险极高。"
     },
     {
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "sourceUrl": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
       "source": "Hacker News",
-      "reason": "佛罗里达起诉OpenAI，AI监管法律战升级"
+      "reason": "佛罗里达州起诉OpenAI，AI监管法律战升级。"
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "sourceUrl": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "sourceUrl": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
       "source": "Hacker News",
-      "reason": "股市能否容纳AI巨头？估值与市场博弈"
+      "reason": "特朗普签署缩减版AI行政令，政策风向突变。"
     },
     {
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "sourceUrl": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "sourceUrl": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
       "source": "Hacker News",
-      "reason": "Red Hat云服务现恶意npm包，供应链安全警钟"
+      "reason": "DDR5内存因AI短缺涨价，影响PC硬件市场。"
     }
   ],
-  "trendSummary": "本周AI圈热点聚焦于模型能力突破与开源生态活跃，Claude新版本引发关注，OpenAI模型推翻数学猜想，同时多款开源工具和项目持续涌现，推动应用落地。"
+  "trendSummary": "本周AI圈热点集中在模型突破与应用工具并进：Claude新版本发布、OpenAI模型攻克数学难题，同时多款开源工具与个人项目引发关注，行业持续活跃。"
 }
