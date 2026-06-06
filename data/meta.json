@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-06-05T23:39:55.351Z",
-  "count": 542,
+  "fetchedAt": "2026-06-06T23:18:25.379Z",
+  "count": 564,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 100,
+    "hackernews": 101,
     "rss:qbitai": 10,
-    "rss:36kr": 8,
+    "rss:36kr": 7,
     "rss:infoq": 15,
-    "rss:sspai": 3,
-    "rss:ithome": 6,
+    "rss:sspai": 2,
+    "rss:ithome": 10,
     "rss:nvidia": 17,
     "rss:openai": 20,
     "rss:google-ai": 20,
@@ -20,7 +20,7 @@
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
     "rss:venturebeat-ai": 7,
-    "rss:arstechnica-ai": 0,
+    "rss:arstechnica-ai": 20,
     "rss:techreview-ai": 10,
     "rss:simonwillison": 14,
     "rss:aws-ml": 20,
@@ -30,7 +30,5 @@
     "rss:thegradient": 14,
     "arxiv": 20
   },
-  "errors": {
-    "rss:arstechnica-ai": "This operation was aborted"
-  }
+  "errors": {}
 }

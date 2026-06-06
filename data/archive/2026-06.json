@@ -839,7 +839,7 @@
       "cli-anything",
       "Python"
     ],
-    "heat": 421,
+    "heat": 432,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -914,7 +914,7 @@
       "vue",
       "Python"
     ],
-    "heat": 85,
+    "heat": 89,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -1391,7 +1391,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 221,
+    "heat": 223,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-01T04:55:40.586Z",
@@ -2235,7 +2235,7 @@
       "guardrails-ai",
       "Go"
     ],
-    "heat": 13,
+    "heat": 14,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -2970,7 +2970,7 @@
       "multimodal",
       "Python"
     ],
-    "heat": 42,
+    "heat": 43,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3532,7 +3532,7 @@
       "cli",
       "TypeScript"
     ],
-    "heat": 729,
+    "heat": 739,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 2420,
+    "heat": 3021,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 2953,
+    "heat": 3016,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4184,7 +4184,7 @@
       "ai-development",
       "JavaScript"
     ],
-    "heat": 791,
+    "heat": 806,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4682,7 +4682,7 @@
       "ai-agents",
       "TypeScript"
     ],
-    "heat": 759,
+    "heat": 770,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4702,7 +4702,7 @@
       "gemini",
       "gemini-omni"
     ],
-    "heat": 16,
+    "heat": 17,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4723,7 +4723,7 @@
       "diffusion-models",
       "Python"
     ],
-    "heat": 75,
+    "heat": 76,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4765,7 +4765,7 @@
       "claude-code",
       "Python"
     ],
-    "heat": 76,
+    "heat": 78,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5210,7 +5210,7 @@
       "ai-scientists",
       "Python"
     ],
-    "heat": 540,
+    "heat": 549,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5261,7 +5261,7 @@
       "doubao",
       "Python"
     ],
-    "heat": 25,
+    "heat": 27,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1825,
+    "heat": 1844,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/MFST_feature_SecondThought_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/05/Research-Forum-hero_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 528,
+    "heat": 539,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6671,7 +6671,7 @@
       "ai-video",
       "claude-code"
     ],
-    "heat": 64,
+    "heat": 66,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6708,7 +6708,7 @@
       "economics",
       "journal"
     ],
-    "heat": 642,
+    "heat": 646,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6729,7 +6729,7 @@
       "agents",
       "Rust"
     ],
-    "heat": 1142,
+    "heat": 1205,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6962,7 +6962,7 @@
       "pgvector",
       "Java"
     ],
-    "heat": 1003,
+    "heat": 1010,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 6155,
+    "heat": 6209,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7059,7 +7059,7 @@
       "generative-ai",
       "Python"
     ],
-    "heat": 13,
+    "heat": 14,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7138,7 +7138,7 @@
       "ai-employee",
       "Python"
     ],
-    "heat": 323,
+    "heat": 333,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -7159,7 +7159,7 @@
       "aisecurity",
       "MDX"
     ],
-    "heat": 566,
+    "heat": 580,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7271,11 +7271,11 @@
       "codex",
       "Python"
     ],
-    "heat": 267,
+    "heat": 273,
     "aiSelected": true,
     "origin": "github",
-    "firstSeen": "2026-06-02T11:44:38.426Z",
-    "aiNote": "集成多款AI工具令牌监控，实时成本分析和速率限制追踪，提升本地代理管理效率。"
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
   },
   {
     "id": "rss:bair-b63023bfb9",
@@ -7307,7 +7307,7 @@
       "files",
       "TypeScript"
     ],
-    "heat": 1210,
+    "heat": 1216,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7328,7 +7328,7 @@
       "ai-search-engine",
       "TypeScript"
     ],
-    "heat": 351,
+    "heat": 353,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -8139,7 +8139,7 @@
     "heat": 393,
     "aiSelected": true,
     "origin": "hackernews",
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10049,7 +10049,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10156,7 +10156,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10265,7 +10265,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10372,7 +10372,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10402,7 +10402,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -10784,7 +10784,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -11722,7 +11722,7 @@
       "ai-agent",
       "TypeScript"
     ],
-    "heat": 899,
+    "heat": 925,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -11934,7 +11934,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 717,
+    "heat": 718,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-02T02:55:09.653Z",
@@ -12477,7 +12477,7 @@
       "large-scale-dataset",
       "Python"
     ],
-    "heat": 38,
+    "heat": 39,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -12816,8 +12816,8 @@
     "heat": 5,
     "aiSelected": true,
     "origin": "github",
-    "firstSeen": "2026-06-02T11:44:38.426Z",
-    "aiNote": "游戏手柄引导的多模态数据采集方案，大幅降低机器人示教门槛。"
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
   },
   {
     "id": "rss:nvidia-b731c214f4",
@@ -14010,7 +14010,7 @@
       "long-video-generation",
       "Python"
     ],
-    "heat": 48,
+    "heat": 50,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14193,7 +14193,7 @@
       "local-first",
       "TypeScript"
     ],
-    "heat": 136,
+    "heat": 173,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -15405,7 +15405,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -15419,7 +15419,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 483,
+    "heat": 484,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-03T00:03:11.885Z",
@@ -15597,7 +15597,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -15657,7 +15657,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -16461,7 +16461,7 @@
       "copilot-chat",
       "copilot-studio"
     ],
-    "heat": 37,
+    "heat": 39,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -18055,7 +18055,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 134,
+    "heat": 135,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T00:03:42.509Z",
@@ -18363,7 +18363,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 612,
+    "heat": 617,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T00:03:42.509Z",
@@ -19132,7 +19132,7 @@
       "ai-governance",
       "Python"
     ],
-    "heat": 212,
+    "heat": 230,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T00:03:42.509Z",
@@ -19255,8 +19255,8 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
-    "aiNote": "人形机器人走红网络，但演示视频可能误导公众对真实技术水平的认知。"
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
   },
   {
     "id": "rss:techcrunch-ai-e2bf1cd7a6",
@@ -19285,8 +19285,8 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
-    "aiNote": "爱沙尼亚政府最新基准测试揭示大模型对抗信息战的能力差异，为AI安全评估提供新视角。"
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
   },
   {
     "id": "hn-775b2e9a43",
@@ -19299,7 +19299,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 90,
+    "heat": 91,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19316,7 +19316,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 83,
+    "heat": 86,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19333,7 +19333,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 515,
+    "heat": 532,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19366,8 +19366,8 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
-    "aiNote": "马斯克再拒FTC审计，X用户隐私保护信任危机升级。"
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
   },
   {
     "id": "rss:techcrunch-ai-de6475a399",
@@ -19605,7 +19605,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 502,
+    "heat": 520,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19686,7 +19686,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 117,
+    "heat": 120,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19797,7 +19797,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 97,
+    "heat": 103,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19830,7 +19830,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -20251,7 +20251,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 397,
+    "heat": 399,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20364,7 +20364,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 109,
+    "heat": 110,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20399,7 +20399,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -20414,7 +20414,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -20432,7 +20432,7 @@
       "docker",
       "Go"
     ],
-    "heat": 437,
+    "heat": 469,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20450,7 +20450,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -20485,7 +20485,7 @@
       "cli",
       "JavaScript"
     ],
-    "heat": 22,
+    "heat": 29,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20503,7 +20503,7 @@
     "aiSelected": true,
     "origin": "rss:arstechnica-ai",
     "heat": 0,
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -21162,7 +21162,7 @@
       "chinese",
       "Markdown"
     ],
-    "heat": 131,
+    "heat": 150,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21273,7 +21273,7 @@
       "harness",
       "TypeScript"
     ],
-    "heat": 330,
+    "heat": 408,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21492,7 +21492,7 @@
       "ai-engineering",
       "Python"
     ],
-    "heat": 41,
+    "heat": 51,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21531,7 +21531,7 @@
       "architecture-decision-records",
       "Vue"
     ],
-    "heat": 1177,
+    "heat": 1205,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21540,7 +21540,7 @@
   {
     "id": "gh-ather-techie-rag-interview-questions",
     "title": "ather-techie/rag-interview-questions",
-    "summary": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 100 questions across 10 types, from Naive RAG…",
+    "summary": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 140 questions across 12 types, from Naive RAG…",
     "source": "GitHub",
     "sourceUrl": "https://github.com/ather-techie/rag-interview-questions",
     "category": "ai-products",
@@ -21551,7 +21551,7 @@
       "deep-learning",
       "generative-ai"
     ],
-    "heat": 47,
+    "heat": 49,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21575,7 +21575,7 @@
     "heat": 10,
     "aiSelected": true,
     "origin": "github",
-    "firstSeen": "2026-06-04T23:39:02.731Z",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   },
   {
@@ -21590,7 +21590,7 @@
       "ai-agent",
       "sdd"
     ],
-    "heat": 1018,
+    "heat": 1019,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21667,7 +21667,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 42,
+    "heat": 68,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21684,7 +21684,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 123,
+    "heat": 179,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21731,7 +21731,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 105,
+    "heat": 125,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21754,7 +21754,7 @@
   },
   {
     "id": "hn-a40c145245",
-    "title": "Transformers Are Inherently Succinct",
+    "title": "Transformers are inherently succinct",
     "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.",
     "source": "Hacker News",
     "sourceUrl": "https://openreview.net/pdf?id=Yxz92UuPLQ",
@@ -21763,7 +21763,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 68,
+    "heat": 140,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21795,7 +21795,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 55,
+    "heat": 69,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21842,7 +21842,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 230,
+    "heat": 391,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21859,7 +21859,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 95,
+    "heat": 110,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21876,7 +21876,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 273,
+    "heat": 459,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21893,7 +21893,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 65,
+    "heat": 66,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -21955,7 +21955,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 341,
+    "heat": 417,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22083,16 +22083,16 @@
   },
   {
     "id": "hn-3c062248d4",
-    "title": "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
-    "summary": null,
+    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+    "summary": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=... PDF: https://cdn.coverstand.com/61061/865273/2c88ea662e2b57478723... (article is on page 62) Related: https://www.40…",
     "source": "Hacker News",
-    "sourceUrl": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
+    "sourceUrl": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
     "category": "industry",
     "publishedAt": "2026-06-05T12:56:44Z",
     "tags": [
       "Hacker News"
     ],
-    "heat": 43,
+    "heat": 110,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22124,7 +22124,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 257,
+    "heat": 494,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22291,7 +22291,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 100,
+    "heat": 144,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22330,7 +22330,7 @@
   {
     "id": "rss:36kr-a1e893b467",
     "title": "Token大战中，华为云选择了第三条路｜最前线",
-    "summary": "作者 | 邓咏仪 编辑 | 张雨忻 “在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来无事…",
+    "summary": "作者 | 邓咏仪 编辑 | 张雨忻 “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来…",
     "source": "36氪",
     "sourceUrl": "https://36kr.com/p/3840016255126016?f=rss",
     "category": "industry",
@@ -22353,7 +22353,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 174,
+    "heat": 200,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22430,7 +22430,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 172,
+    "heat": 189,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22477,7 +22477,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 106,
+    "heat": 118,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22554,7 +22554,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 258,
+    "heat": 272,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22601,7 +22601,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 205,
+    "heat": 261,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22618,7 +22618,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 48,
+    "heat": 82,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22635,7 +22635,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 61,
+    "heat": 62,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23011,7 +23011,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23029,7 +23029,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 44,
+    "heat": 63,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23065,7 +23065,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23119,7 +23119,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 12,
+    "heat": 15,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23173,7 +23173,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 32,
+    "heat": 36,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23209,7 +23209,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 15,
+    "heat": 16,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23227,7 +23227,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 40,
+    "heat": 42,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23263,7 +23263,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 16,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23317,7 +23317,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 2,
+    "heat": 5,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23406,7 +23406,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 196,
+    "heat": 219,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23442,7 +23442,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 36,
+    "heat": 38,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23460,7 +23460,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23478,7 +23478,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 15,
+    "heat": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23496,7 +23496,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23532,7 +23532,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 31,
+    "heat": 34,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23550,7 +23550,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 17,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23568,7 +23568,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 6,
+    "heat": 8,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23586,7 +23586,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23604,7 +23604,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 22,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23675,7 +23675,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 12,
+    "heat": 14,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23711,7 +23711,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23729,7 +23729,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 3,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23747,7 +23747,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 0,
+    "heat": 1,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23768,7 +23768,7 @@
       "ground-truth",
       "Python"
     ],
-    "heat": 876,
+    "heat": 943,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23804,7 +23804,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23876,7 +23876,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 5,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23885,7 +23885,7 @@
   {
     "id": "gh-nexu-io-html-video",
     "title": "nexu-io/html-video",
-    "summary": "Programmatic video for coding agents — turn HTML, CSS & data into real MP4s on your laptop. Pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, n…",
+    "summary": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundt…",
     "source": "GitHub",
     "sourceUrl": "https://github.com/nexu-io/html-video",
     "category": "ai-products",
@@ -23897,7 +23897,7 @@
       "css",
       "HTML"
     ],
-    "heat": 1356,
+    "heat": 1703,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23915,7 +23915,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23958,6 +23958,745 @@
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:ithome-d8fc6bff91",
+    "title": "iFixit 拆解华强北山寨 Apple Watch Ultra 3、AirPods Max 2、AirPods Pro 3：内部做工粗劣，核心功能缺失",
+    "summary": "IT之家 6 月 7 日消息，维修拆解网站 iFixit 近日探访了中国深圳华强北商圈，在这里购入了高仿版 Apple Watch Ultra 3 智能手表、AirPods Max 2 以及 AirPods Pro 3，随后带回工作室进行拆解测试。 iFixit 在视频中介绍，华强北是全球绝大多数电子产品维修配件的集散中心。这里也售卖各类仿冒产品，这类产品外…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/992.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T22:56:54.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/72ddfa4f-3658-4b6c-9608-7139b8660557.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "拆解揭露山寨品粗制滥造，提醒消费者警惕低价陷阱。"
+  },
+  {
+    "id": "rss:techcrunch-ai-7140b07582",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "category": "ai-models",
+    "publishedAt": "2026-06-06T20:32:24.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "锁定模式是防御提示注入的新手段，虽非万全，但降低了敏感数据泄露风险。"
+  },
+  {
+    "id": "rss:hf-blog-47468f27f9",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "summary": null,
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "category": "tip",
+    "publishedAt": "2026-06-06T19:02:33.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:hf-blog",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "用小模型搭建多智能体金融剧，开辟低成本AI叙事新路径。"
+  },
+  {
+    "id": "hn-edd455e432",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T18:35:27Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 312,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "滥用AI聊天机器人漏洞，暴露社交平台安全机制脆弱性。"
+  },
+  {
+    "id": "rss:techcrunch-ai-0be181f790",
+    "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T18:13:36.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "Siri重大升级与苹果AI战略更新，预示智能助手竞争格局或将改写。"
+  },
+  {
+    "id": "rss:techcrunch-ai-a8cf56fd75",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T17:42:15.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "白宫AI顾问离职创办新机构，显示特朗普政府AI政策走向独立智库化。"
+  },
+  {
+    "id": "rss:techcrunch-ai-39923ab840",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T16:17:21.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "政府拟入股OpenAI，标志AI领域公私合作模式重大突破，或重塑行业监管与利益分配格局。"
+  },
+  {
+    "id": "rss:ithome-11d5b67145",
+    "title": "马斯克将出席阿斯麦 ASML 闭门技术研讨会，讨论 TeraFab 项目",
+    "summary": "IT之家 6 月 6 日消息，据彭博社今日报道，埃隆 · 马斯克将以虚拟形式出席由阿斯麦（ASML）举办的一场闭门技术会议，以讨论他的 TeraFab 项目，阿斯麦将该项目视为一项“认真的尝试”。 阿斯麦公司发言人表示，马斯克将在面向阿斯麦员工的活动中分享他对人工智能、机器人、太空和半导体制造的愿景。 依托 TeraFab 项目，马斯克团队正式跻身全球半导体…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/988.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T15:37:09.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/5/da1e2cc5-c6e4-4a80-b394-369b4ecdfcab.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "马斯克罕见参与半导体闭门会，TeraFab项目或预示跨界颠覆芯片制造的野心。"
+  },
+  {
+    "id": "hn-e1355b2423",
+    "title": "Police in England and Wales told to halt AI use in court statements",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+    "category": "industry",
+    "publishedAt": "2026-06-06T15:35:49Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 143,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "英格兰威尔士警方暂停AI用于法庭陈述，凸显法律与科技碰撞的合规风险。"
+  },
+  {
+    "id": "rss:ithome-c0ce84151e",
+    "title": "消息称百度 MEG 组织架构调整：数字人创新业务部升级独立部门，合并商业部与电商事业部",
+    "summary": "IT之家 6 月 6 日消息，据新浪科技消息，百度 MEG（IT之家注：Mobile Ecosystem Group，移动生态事业群组，是百度的核心业务线）进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部， 数字人创新业务部也升级为独立部门 。 IT之家获悉，在 5 月 13 日举办的 Create 2026 百度 AI 开发者大会上，百度宣…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/985.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T15:20:28.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/409e2eb0-7b2a-4def-a05d-b3c493600f63.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "组织架构重组反映AI战略落地，数字人独立部门预示商业化加速。"
+  },
+  {
+    "id": "rss:ithome-61fb527639",
+    "title": "车规级存储芯片三个月暴涨 180%，新能源车企被迫涨价或收紧优惠",
+    "summary": "IT之家 6 月 6 日消息，国内新能源汽车市场近期迎来一波较为集中的价格调整，多款车型出现了售价上调或终端优惠收紧的情况。据央视今日报道，这一轮价格变动的背后，有着明确的成本推动因素 —— 车规级存储芯片价格在过去三个月内经历了罕见的暴涨。 据央视财经报道，近三个月，车规级存储芯片整体价格涨幅约在 180%。据不完全统计，近期国内共有十余家新能源车企上调售…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/984.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T15:13:30.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/93826fb3-4c3a-4f78-877e-e01297ab0c46.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "芯片成本飙升正挤压车企利润，揭示供应链脆弱性可能引发行业洗牌。"
+  },
+  {
+    "id": "rss:theverge-ai-28f2c98bc5",
+    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scot…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "category": "industry",
+    "publishedAt": "2026-06-06T15:05:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "市长贬低反对者言论激化矛盾，暴露数据中心选址背后的阶层对立与公共决策争议。"
+  },
+  {
+    "id": "rss:ithome-af73ae10ca",
+    "title": "体育主播暂时不用担心失业了：研究称 AI 模型分析球赛“几乎靠猜”",
+    "summary": "IT之家 6 月 6 日消息，据外媒 Futurism 今天（6 日）晚间报道，北卡罗来纳大学教堂山分校和美国东北大学研究人员的一项新研究发现，主流 AI 模型在分析职业体育比赛时 表现很差 。这项研究目标是考察热门 AI 模型在感知、推理、模拟和自主行动能力四个方面的表现，现有测试方法很难准确评估这些能力。不过需要注意的是，其尚未经过同行评审。 为测试 A…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/983.htm",
+    "category": "paper",
+    "publishedAt": "2026-06-06T15:03:58.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "AI分析球赛尚处“盲猜”阶段，体育主播的不可替代性获实证。"
+  },
+  {
+    "id": "rss:ithome-d5d3756721",
+    "title": "无核显移动处理器：英特尔酷睿 7 230H 与酷睿 5 205H 获确认，隶属 Raptor Lake 系列",
+    "summary": "IT之家 6 月 6 日消息，VideoCardz 发现，英特尔官网已经为上个月曝光的两款酷睿 200H 系列处理器添加了产品页面，正式确认酷睿 7 230H 和酷睿 5 205H 的存在。 这两款芯片上个月已随铭瑄新款 MoDT 主板而曝光。虽然命名为酷睿 200 系列，但它们并非 Arrow Lake 架构的产品，而是隶属于 Raptor Lake 家族…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/982.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T14:54:36.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/ca7bf785-5ebf-4152-8272-8d0c1068d962.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "英特尔Raptor Lake架构无核显移动芯片的确认，表明其正强化细分市场布局，值得关注性能与功耗平"
+  },
+  {
+    "id": "rss:ithome-eb88453e5b",
+    "title": "俄罗斯：太空游客乘坐联盟号前往国际空间站的费用约为 20 亿卢布，须两名专业人员陪同",
+    "summary": "IT之家 6 月 6 日消息，俄罗斯国家航天集团公司总经理德米特里 · 巴卡诺夫 6 月 4 日在圣彼得堡国际经济论坛期间透露，太空游客乘坐俄罗斯联盟号载人飞船前往国际空间站的费用目前约为 20 亿卢布（IT之家注：现汇率约合 1.85 亿元人民币）。 他解释称，由于联盟号飞船在执行太空旅游任务时必须有两名专业人士陪同 —— 即经过严格训练的宇航员来保障飞行…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/981.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-06T14:39:46.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/daa5a366-9058-40a8-93de-7ae07cd470af.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "太空旅游定价透明化，专业护航揭示商业航天服务新门槛。"
+  },
+  {
+    "id": "rss:ithome-da42e57aad",
+    "title": "为 Nova Lake 而来：英特尔 LGA 1954 商用平台 Q970 主板首曝",
+    "summary": "IT之家 6 月 6 日消息，随着英特尔下一代 Nova Lake 处理器发布时间的临近，更多关于其配套平台的信息正在浮出水面。 继 Computex 2026 期间多款 Z990、Z970 主板先行亮相之后，@momomo_us 今天又曝光了一款基于 Q970 芯片组的 LGA 1954 主板。 此次曝光的 Q970 主板明确标示了 LGA 1954 插槽…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/979.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T14:19:05.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/19019e73-c752-4cad-b3bc-0051b811fa1f.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "首次曝光Q970商用平台，预示Nova Lake配套生态加速完善。"
+  },
+  {
+    "id": "rss:theverge-ai-a661c048b4",
+    "title": "Meta made its own AI-generated clickbait news feed",
+    "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "category": "industry",
+    "publishedAt": "2026-06-06T14:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "Meta亲自下场用AI生成点击诱饵，暴露平台内容策略的深层矛盾。"
+  },
+  {
+    "id": "rss:ithome-21e2cc2b9b",
+    "title": "微软想让用户对自家智能体 Scout 上瘾？CEO 纳德拉否认",
+    "summary": "IT之家 6 月 6 日消息，微软在 Build 2026 上与高通联合发布 Project Solara。Project Solara 主打“智能体优先计算”，系统内部运行 Agent Shell，并能动态加载、调整多个基于云端的 AI 智能体。 微软 CEO 萨提亚 · 纳德拉表示：AI 智能体已经 不再只是普通 AI 助手 。“真正的平台转变正在发生。…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/975.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T13:49:46.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "微软新项目争议背后，揭示AI从“助手”到“智能体”的平台级变革。"
+  },
+  {
+    "id": "hn-6b4d507be9",
+    "title": "US House lawmakers release draft bill to prohibit state AI rules",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T13:40:22Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 105,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "跨州统一AI监管标准，联邦立法或影响科技企业合规成本。"
+  },
+  {
+    "id": "rss:ithome-5771bd724f",
+    "title": "联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%",
+    "summary": "IT之家 6 月 6 日消息，据中国科学报昨日报道，联合国大学水、环境与健康研究所（UNU-INWEH）近日发布的一份报告显示， 精简提示中的礼貌用语，可让 ChatGPT 能耗降低 25% 。 报告测算，删掉指令中“请”“谢谢”等不必要的礼貌用语， 每年可节约 87 至 98 吉瓦时的电能 。这相当于撒哈拉以南非洲地区 76 万人全年的生活用电总量。 IT…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/960/974.htm",
+    "category": "ai-models",
+    "publishedAt": "2026-06-06T13:29:06.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "AI能耗优化新发现：礼貌用语的隐藏成本竟如此惊人。"
+  },
+  {
+    "id": "hn-5147bb8861",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://twitter.com/lemire/status/2062880075117113739",
+    "category": "industry",
+    "publishedAt": "2026-06-06T12:52:18Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 216,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "英伟达进军CPU市场，或将颠覆PC性能格局，重塑Windows生态竞争。"
+  },
+  {
+    "id": "hn-c3ac5a9828",
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "category": "industry",
+    "publishedAt": "2026-06-06T12:15:59Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 60,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "Meta推迟发布AI模型，折射出巨头在安全与竞争间的艰难平衡。"
+  },
+  {
+    "id": "rss:theverge-ai-efc7f0aa58",
+    "title": "Here comes new Siri again",
+    "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be get…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "category": "industry",
+    "publishedAt": "2026-06-06T12:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "苹果AI战略逆袭，Siri升级或成WWDC最大看点，后发优势值得期待。"
+  },
+  {
+    "id": "rss:raschka-f3d1448df6",
+    "title": "LLM Research Papers: The 2026 List (January to May)",
+    "summary": "A curated roundup of notable LLM research papers that came out this year",
+    "source": "Sebastian Raschka",
+    "sourceUrl": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "category": "paper",
+    "publishedAt": "2026-06-06T11:16:22.000Z",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/8630eb02-eeac-4411-bef3-1865c1920b03_2912x1632.png",
+    "aiSelected": true,
+    "origin": "rss:raschka",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "半年LLM研究精粹合集，快速掌握前沿动态与关键进展。"
+  },
+  {
+    "id": "hn-b6a172b6c4",
+    "title": "Introduction – Rust for Python Programmers",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://microsoft.github.io/RustTraining/python-book/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T10:52:25Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 66,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "面向Python开发者，Rust语言入门指南填补了性能与安全需求的空白。"
+  },
+  {
+    "id": "rss:qbitai-f83e256fd7",
+    "title": "马斯克是SpaceX面子，她才是里子",
+    "summary": "造火箭的正在批量造巨富",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/431371.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T10:14:54.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "揭秘SpaceX成功背后的关键女性，打破马斯克个人光环的固有认知。"
+  },
+  {
+    "id": "rss:infoq-547a74c1e7",
+    "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
+    "category": "tip",
+    "publishedAt": "2026-06-06T10:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "聚焦书安智能体操作系统实践，胡侠的分享将揭示AI系统底层架构的前沿突破。"
+  },
+  {
+    "id": "hn-de9c6c36d8",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "category": "industry",
+    "publishedAt": "2026-06-06T09:17:49Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 194,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "智能电视正成为AI数据采集终端，揭示隐私与商业变现的新博弈。"
+  },
+  {
+    "id": "rss:infoq-07569d63cb",
+    "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T09:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "性能翻倍且直指AI开发痛点，Next.js这次更新对全栈开发者极具吸引力。"
+  },
+  {
+    "id": "rss:36kr-130dadddba",
+    "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+    "summary": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实现绿电就地100%消纳；集成化方案使项目综合造价下降20%、…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/3841455348746496?f=rss",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T08:50:27.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": "用电成本降低30%是关键突破，算电协同AI平台将成智算中心节能新标杆。"
+  },
+  {
+    "id": "rss:qbitai-dcd89a02f6",
+    "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+    "summary": "观众投币定前十！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/431287.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T07:15:13.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-b71400bdb5",
+    "title": "Hinton吹哨了：AI已经有意识！",
+    "summary": "人类得接受自己不再是唯一智能生命体",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/431349.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T07:08:15.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-c7546aa8f1",
+    "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
+    "summary": "广东上大分！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/431186.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T07:00:06.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-047550cce1",
+    "title": "Lockdown Mode",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+    "category": "industry",
+    "publishedAt": "2026-06-06T03:36:15Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 83,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-d595e3d306",
+    "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+    "summary": "形成「鞋履+人工智能数据」双主业",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/431056.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T03:35:47.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:36kr-ed81ee831e",
+    "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+    "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/p/3840996342073604?f=rss",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T01:07:19.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:simonwillison-84c6e5c233",
+    "title": "OpenAI Help: Lockdown Mode",
+    "summary": "OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serv…",
+    "source": "Simon Willison",
+    "sourceUrl": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "category": "tip",
+    "publishedAt": "2026-06-05T23:56:40.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:simonwillison",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-15d711b94a",
+    "title": "Nordstjernen 1.0",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
+    "category": "industry",
+    "publishedAt": "2026-06-05T23:42:54Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 53,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-d23a966d95",
+    "title": "Microsoft Compromised Again. Shuts Down Azure Function GitHub Actions",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://opensourcemalware.com/blog/miasma-reaches-azure",
+    "category": "industry",
+    "publishedAt": "2026-06-05T21:08:39Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 41,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-064fbfebbe",
+    "title": "S&#038;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "summary": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "category": "industry",
+    "publishedAt": "2026-06-05T18:45:20.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-1152x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-d577baf09c",
+    "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+    "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+    "category": "industry",
+    "publishedAt": "2026-06-05T18:23:00.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277371061-1024x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-2f92c7684b",
+    "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+    "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+    "category": "industry",
+    "publishedAt": "2026-06-05T15:40:48.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Fitbit-Air-1-1152x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-001e981563",
+    "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
+    "category": "industry",
+    "publishedAt": "2026-06-05T02:54:33Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 43,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-003ebcc189",
+    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "summary": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws. Then ChatGPT hit the scene and again, many of us dismissed it as…",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/item?id=48406174",
+    "category": "industry",
+    "publishedAt": "2026-06-04T23:42:20Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 529,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-1ad0e6d834",
+    "title": "How LLMs work",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "category": "industry",
+    "publishedAt": "2026-06-03T20:15:13Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 832,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-97c0528a79",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+    "summary": "Hi! This is an infinite canvas note-taking tool where notes are laid out in a non-Euclidean, hyperbolic geometric space. As you drag and navigate through the view, you’ll experienc…",
+    "source": "Hacker News",
+    "sourceUrl": "https://uonr.github.io/poincake/",
+    "category": "industry",
+    "publishedAt": "2026-06-02T16:08:26Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 105,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-prithivsakthiur-pid-image-upscaler",
+    "title": "PRITHIVSAKTHIUR/PiD-Image-Upscaler",
+    "summary": "PiD-Image-Upscaler is an experimental, advanced super-resolution and image-to-image refinement application based on the state-of-the-art PiD (Pixel Diffusion De…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/PRITHIVSAKTHIUR/PiD-Image-Upscaler",
+    "category": "ai-products",
+    "publishedAt": "2026-05-28T12:06:55Z",
+    "tags": [
+      "diffusers",
+      "diffusion-models",
+      "gradio",
+      "hydra-core",
+      "Python"
+    ],
+    "heat": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-06-06T23:18:17.378Z",
     "aiNote": null
   }
 ]

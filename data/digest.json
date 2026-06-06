@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-06",
-  "generatedAt": "2026-06-05T23:39:58.011Z",
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-06T23:18:28.347Z",
   "picks": [
-    {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "sourceUrl": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "source": "Hacker News",
-      "reason": "AI使用与成绩下滑直接关联，教育领域热点"
-    },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "sourceUrl": "https://github.com/anthropics/defending-code-reference-harness",
       "source": "Hacker News",
-      "reason": "Anthropic开源AI漏洞发现框架，安全前沿"
+      "reason": "Anthropic开源AI漏洞发现框架，安全领域前沿"
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "sourceUrl": "https://www.anthropic.com/institute/recursive-self-improvement",
       "source": "Hacker News",
-      "reason": "递归自我改进进展，AI核心突破方向"
+      "reason": "递归自我改进进展，AI自主进化关键"
     },
     {
       "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "sourceUrl": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "source": "Hacker News",
-      "reason": "实测LLM黑客能力，结果有参考价值"
+      "reason": "实测LLM黑客能力，结果具警示意义"
     },
     {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "sourceUrl": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "sourceUrl": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "source": "Hacker News",
-      "reason": "Uber定价信号影响AI工具市场趋势"
+      "reason": "Meta证实AI聊天机器人致账户被盗，安全危机"
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "sourceUrl": "https://github.com/microsoft/pg_durable",
+      "source": "Hacker News",
+      "reason": "微软开源数据库内持久执行，提升系统可靠性"
     }
   ],
-  "trendSummary": "本周AI圈聚焦开源工具爆发与前沿突破，Claude新版本发布、Anthropic人事变动，以及OpenAI模型推翻数学猜想成为热议焦点。"
+  "trendSummary": "本周AI圈热点集中在Claude新版本发布、Anthropic人才动态、开源工具创新与AI科研突破，整体呈现技术落地与前沿探索并行的态势。"
 }
