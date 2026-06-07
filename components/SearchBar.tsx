@@ -1,9 +1,9 @@
 "use client";
 
-import { useRouter, useSearchParams } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
 import { OPEN_CMDK_EVENT } from "./CommandPalette";
 import { useLocale } from "./LocaleProvider";
+import { useViewState } from "@/lib/viewState";
 
 const HISTORY_KEY = "ai-search-history";
 const MAX_HISTORY = 6;
@@ -19,15 +19,15 @@ function saveHistory(keyword: string) {
   localStorage.setItem(HISTORY_KEY, JSON.stringify(hist.slice(0, MAX_HISTORY)));
 }
 
-export default function SearchBar({ defaultValue = "" }: { defaultValue?: string }) {
-  const router = useRouter();
-  const params = useSearchParams();
+export default function SearchBar() {
+  const { state, update } = useViewState();
   const { t } = useLocale();
-  const [value, setValue] = useState(defaultValue);
+  const [value, setValue] = useState(state.keyword);
   const [focused, setFocused] = useState(false);
   const [history, setHistory] = useState<string[]>([]);
   const wrapRef = useRef<HTMLDivElement>(null);
 
+  useEffect(() => setValue(state.keyword), [state.keyword]);
   useEffect(() => setHistory(getHistory()), []);
 
   useEffect(() => {
@@ -40,25 +40,20 @@ export default function SearchBar({ defaultValue = "" }: { defaultValue?: string
 
   function submit(e: React.FormEvent) {
     e.preventDefault();
-    const sp = new URLSearchParams(params?.toString() || "");
-    if (value.trim()) {
-      sp.set("keyword", value.trim());
-      saveHistory(value.trim());
+    const keyword = value.trim();
+    if (keyword) {
+      saveHistory(keyword);
       setHistory(getHistory());
-    } else sp.delete("keyword");
-    sp.set("page", "1");
-    router.push(`/?${sp.toString()}`);
+    }
+    update({ keyword });
     setFocused(false);
   }
 
   function pick(word: string) {
     setValue(word);
-    const sp = new URLSearchParams(params?.toString() || "");
-    sp.set("keyword", word);
-    sp.set("page", "1");
     saveHistory(word);
     setHistory(getHistory());
-    router.push(`/?${sp.toString()}`);
+    update({ keyword: word });
     setFocused(false);
   }
 

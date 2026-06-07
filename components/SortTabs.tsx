@@ -1,33 +1,12 @@
 "use client";
 
-import Link from "next/link";
-import type { Mode, CategoryKey } from "@/lib/types";
 import { useLocale } from "./LocaleProvider";
+import { useViewState } from "@/lib/viewState";
+import type { Mode } from "@/lib/types";
 
-interface Props {
-  mode: Mode;
-  since: string;
-  category: CategoryKey | "all";
-  keyword?: string;
-}
-
-function href(params: {
-  mode: Mode;
-  since: string;
-  category: string;
-  keyword?: string;
-}) {
-  const sp = new URLSearchParams();
-  if (params.category !== "all") sp.set("category", params.category);
-  if (params.mode !== "selected") sp.set("mode", params.mode);
-  if (params.since) sp.set("since", params.since);
-  if (params.keyword) sp.set("keyword", params.keyword);
-  sp.set("page", "1");
-  return `/?${sp.toString()}`;
-}
-
-export default function SortTabs({ mode, since, category, keyword }: Props) {
+export default function SortTabs() {
   const { t } = useLocale();
+  const { state, update } = useViewState();
 
   const modeOpts: { key: Mode; label: string }[] = [
     { key: "selected", label: t("cat.selected") },
@@ -46,37 +25,35 @@ export default function SortTabs({ mode, since, category, keyword }: Props) {
       <div className="flex items-center gap-3 flex-wrap">
         <div className="flex items-center gap-1 text-sm">
           {modeOpts.map((o) => (
-            <Link
+            <button
               key={o.key}
-              href={href({ mode: o.key, since, category, keyword })}
-              scroll={false}
+              onClick={() => update({ mode: o.key })}
               className={
                 "px-3 h-8 inline-flex items-center rounded-md transition-colors duration-150 " +
-                (mode === o.key
+                (state.mode === o.key
                   ? "bg-brand-500 text-white"
                   : "text-gray-600 dark:text-gray-300 hover:text-brand-600 hover:bg-brand-50 dark:hover:bg-gray-800")
               }
             >
               {o.label}
-            </Link>
+            </button>
           ))}
         </div>
 
         <div className="flex items-center gap-1 text-sm">
           {sinceOpts.map((o) => (
-            <Link
+            <button
               key={o.key}
-              href={href({ mode, since: o.key, category, keyword })}
-              scroll={false}
+              onClick={() => update({ since: o.key })}
               className={
                 "px-3 h-8 inline-flex items-center rounded-md transition-colors duration-150 " +
-                (since === o.key
+                (state.since === o.key
                   ? "bg-brand-500 text-white"
                   : "text-gray-600 dark:text-gray-300 hover:text-brand-600 hover:bg-brand-50 dark:hover:bg-gray-800")
               }
             >
               {o.label}
-            </Link>
+            </button>
           ))}
         </div>
       </div>

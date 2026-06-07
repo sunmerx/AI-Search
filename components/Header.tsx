@@ -1,9 +1,8 @@
-import { Suspense } from "react";
 import Link from "next/link";
 import SearchBar from "./SearchBar";
 import NavLinks from "./NavLinks";
 
-export default function Header({ defaultKeyword = "" }: { defaultKeyword?: string }) {
+export default function Header() {
   return (
     <header className="sticky top-0 z-40 bg-white/90 dark:bg-gray-900/90 backdrop-blur border-b border-gray-200 dark:border-gray-700">
       <div className="max-w-7xl mx-auto px-4 h-14 flex items-center gap-6">
@@ -15,11 +14,7 @@ export default function Header({ defaultKeyword = "" }: { defaultKeyword?: strin
         </Link>
 
         <div className="flex-1 max-w-xl">
-          <Suspense fallback={
-            <div className="w-full h-9 rounded-full border border-gray-200 bg-gray-50 animate-pulse" />
-          }>
-            <SearchBar defaultValue={defaultKeyword} />
-          </Suspense>
+          <SearchBar />
         </div>
 
         <NavLinks />

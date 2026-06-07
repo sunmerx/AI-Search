@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { CATEGORIES } from "@/lib/categories";
-import { buildHref } from "@/lib/href";
+import { useViewState } from "@/lib/viewState";
 import type { AIItem } from "@/lib/types";
 
 interface Cmd {
@@ -75,8 +75,9 @@ export default function CommandPalette({ items, sources }: { items: AIItem[]; so
     }
   }, [open]);
 
+  const { update } = useViewState();
   const close = () => setOpen(false);
-  const go = (href: string) => {
+  const goPage = (href: string) => {
     router.push(href);
     close();
   };
@@ -91,14 +92,14 @@ export default function CommandPalette({ items, sources }: { items: AIItem[]; so
 
     for (const c of CATEGORIES) {
       if (!q || c.label.toLowerCase().includes(q))
-        out.push({ id: `cat-${c.key}`, label: c.label, hint: "分类", run: () => go(buildHref({ category: c.key })) });
+        out.push({ id: `cat-${c.key}`, label: c.label, hint: "分类", run: () => { update({ category: c.key, source: "" }); close(); } });
     }
     if (!q || "日报".includes(q) || "daily".includes(q))
-      out.push({ id: "daily", label: "今日 AI 资讯日报", hint: "页面", run: () => go("/daily") });
+      out.push({ id: "daily", label: "今日 AI 资讯日报", hint: "页面", run: () => goPage("/daily") });
 
     const srcPool = q ? sources.filter((s) => s.toLowerCase().includes(q)) : sources.slice(0, 6);
     for (const s of srcPool.slice(0, 8))
-      out.push({ id: `src-${s}`, label: s, hint: "来源", run: () => go(buildHref({ source: s })) });
+      out.push({ id: `src-${s}`, label: s, hint: "来源", run: () => { update({ source: s }); close(); } });
 
     if (q) {
       let hits: AIItem[];

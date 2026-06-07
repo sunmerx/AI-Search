@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { memo, useEffect, useMemo, useState, useDeferredValue } from "react";
 import Link from "next/link";
 import ItemList from "./ItemList";
 import PersonalizeModal from "./PersonalizeModal";
@@ -23,7 +23,7 @@ export interface FeedQuery {
   source: string;
 }
 
-export default function FeedSection({
+export default memo(function FeedSection({
   items,
   query,
   now,
@@ -35,6 +35,8 @@ export default function FeedSection({
   const { t } = useLocale();
   const { state, hydrated, toggleBookmark, markRead, toggleFollowSource, toggleMuteSource, toggleTopic, clearAll } =
     useUserStore();
+  const deferredQuery = useDeferredValue(query);
+  const isStale = deferredQuery !== query;
   const [view, setView] = useState<ViewKey>("all");
   const [sort, setSort] = useState<"latest" | "heat">("latest");
   const [page, setPage] = useState(1);
@@ -55,11 +57,11 @@ export default function FeedSection({
 
   useEffect(() => {
     setPage(1);
-  }, [query.mode, query.category, query.since, query.keyword, query.source, view, sort]);
+  }, [deferredQuery.mode, deferredQuery.category, deferredQuery.since, deferredQuery.keyword, deferredQuery.source, view, sort]);
 
   const base = useMemo(
-    () => filterItems(items, { ...query, sort }),
-    [items, query.mode, query.category, query.since, query.keyword, query.source, sort],
+    () => filterItems(items, { ...deferredQuery, sort }),
+    [items, deferredQuery, sort],
   );
   const personalized = useMemo(
     () => (hydrated ? personalize(base, state) : base),
@@ -100,18 +102,18 @@ export default function FeedSection({
 
   return (
     <>
-      <div className="flex items-center justify-between gap-3 flex-wrap mb-4">
+      <div className={"flex items-center justify-between gap-3 flex-wrap mb-4" + (isStale ? " opacity-60 transition-opacity" : "")}>
         <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400 flex-wrap">
           <span>
             {t("feed.showing")} <span className="text-gray-800 dark:text-gray-200 font-medium">{viewed.length}</span> {t("feed.items")}
           </span>
-          {query.source && (
+          {deferredQuery.source && (
             <Link
-              href={buildHref({ category: query.category, mode: query.mode, since: query.since, keyword: query.keyword })}
+              href={buildHref({ category: deferredQuery.category, mode: deferredQuery.mode, since: deferredQuery.since, keyword: deferredQuery.keyword })}
               scroll={false}
               className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-brand-50 dark:bg-brand-500/20 text-brand-700 dark:text-brand-500 border border-brand-100 dark:border-brand-500/30 hover:bg-brand-100 dark:hover:bg-brand-500/30"
             >
-              {t("feed.source")}：{query.source.split(",").length > 1 ? `${query.source.split(",").length} 个` : query.source} <span className="text-brand-400">✕</span>
+              {t("feed.source")}：{deferredQuery.source.split(",").length > 1 ? `${deferredQuery.source.split(",").length} 个` : deferredQuery.source} <span className="text-brand-400">✕</span>
             </Link>
           )}
         </div>
@@ -158,7 +160,7 @@ export default function FeedSection({
         bookmarks={bookmarks}
         readSet={readSet}
         now={now}
-        keyword={query.keyword}
+        keyword={deferredQuery.keyword}
         onToggleBookmark={toggleBookmark}
         onOpen={markRead}
         emptyHint={
@@ -209,4 +211,4 @@ export default function FeedSection({
       />
     </>
   );
-}
+})

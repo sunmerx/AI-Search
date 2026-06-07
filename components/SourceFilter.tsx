@@ -1,8 +1,8 @@
 "use client";
 
-import { useState, useCallback } from "react";
-import { useRouter } from "next/navigation";
+import { useState, useCallback, useEffect } from "react";
 import { useLocale } from "./LocaleProvider";
+import { useViewState } from "@/lib/viewState";
 
 export default function SourceFilter({
   sources,
@@ -12,37 +12,25 @@ export default function SourceFilter({
   activeSources: string[];
 }) {
   const { t } = useLocale();
-  const router = useRouter();
+  const { update } = useViewState();
   const [selected, setSelected] = useState<Set<string>>(new Set(activeSources));
 
-  function currentParams() {
-    if (typeof window === "undefined") return new URLSearchParams();
-    return new URLSearchParams(window.location.search);
-  }
+  useEffect(() => setSelected(new Set(activeSources)), [activeSources]);
 
   const toggle = useCallback((name: string) => {
     setSelected((prev) => {
       const next = new Set(prev);
       if (next.has(name)) next.delete(name);
       else next.add(name);
-
-      const sp = currentParams();
-      if (next.size > 0) sp.set("source", [...next].join(","));
-      else sp.delete("source");
-      sp.set("page", "1");
-      router.push(`/?${sp.toString()}`, { scroll: false });
-
+      update({ source: [...next].join(",") });
       return next;
     });
-  }, [router]);
+  }, [update]);
 
   const clearAll = useCallback(() => {
     setSelected(new Set());
-    const sp = currentParams();
-    sp.delete("source");
-    sp.set("page", "1");
-    router.push(`/?${sp.toString()}`, { scroll: false });
-  }, [router]);
+    update({ source: "" });
+  }, [update]);
 
   return (
     <>

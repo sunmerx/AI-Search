@@ -1,8 +1,7 @@
 "use client";
 
-import { Suspense, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 import Header from "./Header";
 import CategoryNav from "./CategoryNav";
 import Sidebar from "./Sidebar";
@@ -17,28 +16,12 @@ import { useLocale } from "./LocaleProvider";
 import { filterItems } from "@/lib/filter";
 import { sourceCounts } from "@/lib/personalize";
 import { ENTITY_MAP, entityCounts } from "@/lib/entities";
-import { CATEGORIES, isCategoryKey } from "@/lib/categories";
+import { CATEGORIES } from "@/lib/categories";
 import { formatBJDate } from "@/lib/timeFormat";
+import { ViewStateProvider, useViewState } from "@/lib/viewState";
+import type { ViewState } from "@/lib/viewState";
 import type { StoreMeta } from "@/lib/localStore";
-import type { AIItem, CategoryKey, Digest, Mode } from "@/lib/types";
-
-const ALLOWED_SINCE = ["24h", "3d", "7d", "30d"] as const;
-
-export interface ViewState {
-  category: CategoryKey | "all";
-  keyword: string;
-  mode: Mode;
-  since: string;
-  source: string;
-}
-
-const DEFAULT_STATE: ViewState = {
-  category: "all",
-  keyword: "",
-  mode: "selected",
-  since: "7d",
-  source: "",
-};
+import type { AIItem, Digest } from "@/lib/types";
 
 function HomeLayout({
   items,
@@ -55,6 +38,11 @@ function HomeLayout({
 }) {
   const { t } = useLocale();
   const { category, keyword, mode, since, source } = state;
+
+  const query = useMemo(
+    () => ({ mode, category, since, keyword, source }),
+    [mode, category, since, keyword, source],
+  );
 
   const trending = useMemo(
     () => filterItems(items, { mode: "selected", since: "7d", sort: "heat" }).slice(0, 8),
@@ -99,8 +87,8 @@ function HomeLayout({
 
   return (
     <>
-      <Header defaultKeyword={keyword} />
-      <CategoryNav active={category} mode={mode} since={since} keyword={keyword} />
+      <Header />
+      <CategoryNav />
 
       <main id="main-content" className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-6">
         <section className="min-w-0">
@@ -112,8 +100,8 @@ function HomeLayout({
               {t("search.keyword")}：<span className="text-brand-600 font-medium">{keyword}</span>
             </div>
           )}
-          <SortTabs mode={mode} since={since} category={category} keyword={keyword} />
-          <FeedSection items={items} query={{ mode, category, since, keyword, source }} now={now} />
+          <SortTabs />
+          <FeedSection items={items} query={query} now={now} />
         </section>
 
         <Sidebar
@@ -161,7 +149,7 @@ function HomeLayout({
   );
 }
 
-function HomeInner({
+function HomeContent({
   items,
   meta,
   now,
@@ -172,19 +160,15 @@ function HomeInner({
   now: number;
   digest: Digest | null;
 }) {
-  const params = useSearchParams();
-  const state: ViewState = {
-    category: isCategoryKey(params.get("category") || undefined)
-      ? (params.get("category") as CategoryKey)
-      : "all",
-    keyword: (params.get("keyword") || "").trim(),
-    mode: params.get("mode") === "all" ? "all" : "selected",
-    since: (ALLOWED_SINCE as readonly string[]).includes(params.get("since") || "")
-      ? (params.get("since") as string)
-      : "7d",
-    source: (params.get("source") || "").trim(),
-  };
-  return <HomeLayout items={items} meta={meta} now={now} digest={digest} state={state} />;
+  const { state } = useViewState();
+  const cmdkSources = useMemo(() => sourceCounts(items).map(([s]) => s), [items]);
+  return (
+    <>
+      <HomeLayout items={items} meta={meta} now={now} digest={digest} state={state} />
+      <CommandPalette items={items} sources={cmdkSources} />
+      <AskAI items={items} />
+    </>
+  );
 }
 
 export default function HomeClient({
@@ -199,14 +183,8 @@ export default function HomeClient({
   digest: Digest | null;
 }) {
   return (
-    <>
-      <Suspense
-        fallback={<HomeLayout items={items} meta={meta} now={now} digest={digest} state={DEFAULT_STATE} />}
-      >
-        <HomeInner items={items} meta={meta} now={now} digest={digest} />
-      </Suspense>
-      <CommandPalette items={items} sources={sourceCounts(items).map(([s]) => s)} />
-      <AskAI items={items} />
-    </>
+    <ViewStateProvider>
+      <HomeContent items={items} meta={meta} now={now} digest={digest} />
+    </ViewStateProvider>
   );
 }

@@ -1,9 +1,10 @@
 "use client";
 
+import { memo } from "react";
 import Link from "next/link";
 import type { AIItem } from "@/lib/types";
 import type { StoreMeta } from "@/lib/localStore";
-import type { ViewState } from "./HomeClient";
+import type { ViewState } from "@/lib/viewState";
 import { buildHref } from "@/lib/href";
 import { CATEGORY_MAP } from "@/lib/categories";
 import { formatBJDate } from "@/lib/timeFormat";
@@ -11,7 +12,7 @@ import TrendingList from "./TrendingList";
 import SourceFilter from "./SourceFilter";
 import { useLocale } from "./LocaleProvider";
 
-export default function Sidebar({
+export default memo(function Sidebar({
   trending,
   meta,
   state,
@@ -169,4 +170,4 @@ export default function Sidebar({
 
     </aside>
   );
-}
+})
