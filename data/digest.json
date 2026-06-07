@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-07",
-  "generatedAt": "2026-06-06T23:18:28.347Z",
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-07T23:20:28.173Z",
   "picks": [
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "sourceUrl": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "sourceUrl": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "source": "Hacker News",
-      "reason": "Anthropic开源AI漏洞发现框架，安全领域前沿"
+      "reason": "直击开发者对LLM替代职业的焦虑，共鸣度高"
     },
     {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "sourceUrl": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "source": "Hacker News",
-      "reason": "递归自我改进进展，AI自主进化关键"
-    },
-    {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "sourceUrl": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "source": "Hacker News",
-      "reason": "实测LLM黑客能力，结果具警示意义"
+      "reason": "标普500拒收AI巨头，影响行业资本信心"
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "sourceUrl": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "source": "Hacker News",
-      "reason": "Meta证实AI聊天机器人致账户被盗，安全危机"
+      "reason": "AI聊天机器人成黑客工具，安全事件警示"
     },
     {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "sourceUrl": "https://github.com/microsoft/pg_durable",
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48406174",
       "source": "Hacker News",
-      "reason": "微软开源数据库内持久执行，提升系统可靠性"
+      "reason": "GenAI翻车瞬间合集，真实教训引反思"
+    },
+    {
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "sourceUrl": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "source": "Hacker News",
+      "reason": "智能电视沦为AI数据采集节点，隐私警钟"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在Claude新版本发布、Anthropic人才动态、开源工具创新与AI科研突破，整体呈现技术落地与前沿探索并行的态势。"
+  "trendSummary": "本周AI圈热闹非凡，代码生成工具持续走红，Claude新版本引发热议，而OpenAI模型在数学上打破猜想，同时标普500拒绝SpaceX并封堵OpenAI与Anthropic。"
 }
