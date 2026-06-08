@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1860,
+    "heat": 1862,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/EP2-AI-TE_Hero_Feature_River_No_Text_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Episode7-PeterBillSebastien-AIRevolution_Hero_Feature_River_No_Text_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -14193,7 +14193,7 @@
       "local-first",
       "TypeScript"
     ],
-    "heat": 201,
+    "heat": 202,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -22111,7 +22111,7 @@
     "origin": "rss:36kr",
     "heat": 0,
     "firstSeen": "2026-06-05T23:39:47.939Z",
-    "aiNote": null
+    "aiNote": "日本或抛售美债干预汇市，此举可能影响全球金融市场，值得关注其后续动向。"
   },
   {
     "id": "hn-d0298f32e0",
@@ -23173,7 +23173,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 37,
+    "heat": 38,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23897,7 +23897,7 @@
       "css",
       "HTML"
     ],
-    "heat": 2116,
+    "heat": 2117,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -24504,7 +24504,7 @@
   {
     "id": "rss:36kr-ed81ee831e",
     "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-    "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推��付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年…",
+    "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推…",
     "source": "36氪",
     "sourceUrl": "https://36kr.com/p/3840996342073604?f=rss",
     "category": "ai-products",
@@ -24578,7 +24578,7 @@
     "origin": "rss:arstechnica-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "标普500拒绝SpaceX、OpenAI等巨头，凸显传统指数对非上市公司及高风险企业的谨慎态度。"
   },
   {
     "id": "rss:arstechnica-ai-d577baf09c",
@@ -24593,7 +24593,7 @@
     "origin": "rss:arstechnica-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "抗议迫使数据中心规模砍半，反映出公众对能耗与环保的巨大压力正重塑行业格局。"
   },
   {
     "id": "rss:arstechnica-ai-2f92c7684b",
@@ -24608,7 +24608,7 @@
     "origin": "rss:arstechnica-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "AI健康教练画蛇添足，干扰了极简运动手环的核心体验。"
   },
   {
     "id": "hn-001e981563",
@@ -24727,7 +24727,7 @@
     "origin": "rss:arstechnica-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "AI安防系统失灵致校园枪击，质疑其可靠性标准与法律责任。"
   },
   {
     "id": "rss:ithome-a288412f9c",
@@ -25006,7 +25006,7 @@
       "chatbot",
       "Go"
     ],
-    "heat": 134,
+    "heat": 135,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -25181,7 +25181,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 521,
+    "heat": 524,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25403,7 +25403,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 872,
+    "heat": 873,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25480,7 +25480,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 277,
+    "heat": 278,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25524,7 +25524,7 @@
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
-    "aiNote": null
+    "aiNote": "首个为Windows优化的RunwayML套件，让视频AI工具脱离云端限制，本地高效运行。"
   },
   {
     "id": "hn-5c39f5001d",
@@ -25541,7 +25541,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
-    "aiNote": null
+    "aiNote": "高通布局Linux系统，将推动移动芯片在开源生态中的新应用场景。"
   },
   {
     "id": "hn-3138bc4b76",
@@ -25575,7 +25575,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
-    "aiNote": null
+    "aiNote": "AI逻辑编程经典重现，解读WAM架构设计对现代编译器的启发价值。"
   },
   {
     "id": "hn-545c9a8e76",
@@ -25679,7 +25679,7 @@
       "react",
       "TypeScript"
     ],
-    "heat": 276,
+    "heat": 277,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -26061,7 +26061,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 44,
+    "heat": 45,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26078,7 +26078,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 182,
+    "heat": 183,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26176,7 +26176,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "纯C实现的SQLite，摆脱CGo依赖，提升性能与兼容性，值得开发者关注。"
   },
   {
     "id": "hn-1a6417e1ae",
@@ -26193,7 +26193,7 @@
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "谷歌让用户当免费搜索评估员，暴露了AI训练依赖廉价甚至无偿劳动的新趋势。"
   },
   {
     "id": "arxiv-2606.07515v1",
@@ -26211,7 +26211,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "评测揭示大模型在基础概率推理上存在显著短板，挑战其可靠性。"
   },
   {
     "id": "arxiv-2606.07513v1",
@@ -26229,7 +26229,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "AI社会模拟研究突破：用LLM代理模拟人类长期社交学习，探索机器从社会互动中进化。"
   },
   {
     "id": "arxiv-2606.07512v1",
@@ -26247,7 +26247,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "分层记忆架构破解长视频理解瓶颈，用图记忆与智能检索分离感知推理，显著降低计算成本。"
   },
   {
     "id": "arxiv-2606.07500v1",
@@ -26265,7 +26265,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "稀疏子空间专家共享机制，破解大模型持续学习中的灾难性遗忘难题。"
   },
   {
     "id": "arxiv-2606.07496v1",
@@ -26283,7 +26283,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "加速去中心化随机梯度下降，破解大规模网络学习效率瓶颈，强凸优化领域关键突破。"
   },
   {
     "id": "arxiv-2606.07495v1",
@@ -26301,7 +26301,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "用二阶路径核解释训练数据如何影响预测，为理解深度学习黑箱提供新理论工具。"
   },
   {
     "id": "arxiv-2606.07492v1",
@@ -26319,7 +26319,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "用数学排名法揭示推荐算法在不同数据集上的真实优劣，为选模型提供科学依据。"
   },
   {
     "id": "arxiv-2606.07491v1",
@@ -26337,7 +26337,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "AI驱动HPC工作流设计指南，融合传统科学计算与智能方法，极具实操价值。"
   },
   {
     "id": "arxiv-2606.07489v1",
@@ -26355,7 +26355,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "AI代理将知识工作从辅助变为自主执行，效率与范围迎来质变。"
   },
   {
     "id": "arxiv-2606.07488v1",
@@ -26373,7 +26373,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "用元学习持续优化个性化心脏模拟，大幅降低计算成本，推动精准医疗落地。"
   },
   {
     "id": "arxiv-2606.07483v1",
@@ -26391,7 +26391,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "去偏雅可比方法破解级联数据网络恢复难题，提升复杂系统预测精度。"
   },
   {
     "id": "arxiv-2606.07481v1",
@@ -26409,7 +26409,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "用生成模型替代传统CFD，大幅降低计算成本，加速室内环境优化探索。"
   },
   {
     "id": "arxiv-2606.07479v1",
@@ -26427,7 +26427,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "用监督还是示例学习处理多词表达？土耳其语研究揭示关键差异，影响NLP模型设计。"
   },
   {
     "id": "arxiv-2606.07474v1",
@@ -26445,7 +26445,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "提出无监督持续聚类新方法，用前向后向知识蒸馏克服灾难性遗忘，突破数据无标签与无历史访问限制。"
   },
   {
     "id": "arxiv-2606.07475v1",
@@ -26463,7 +26463,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "高阶标签连接性突破异质图瓶颈，为节点分类难题提供全新解决路径。"
   },
   {
     "id": "arxiv-2606.07473v1",
@@ -26481,7 +26481,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "通过隐藏表征引导与稀疏自编码器，提升Whisper模型抗幻觉能力，是语音识别可靠性突破。"
   },
   {
     "id": "arxiv-2606.07464v1",
@@ -26499,7 +26499,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "长上下文自动驾驶中，用规划对齐的令牌压缩技术，解决计算效率瓶颈，有望提升实时性。"
   },
   {
     "id": "arxiv-2606.07463v1",
@@ -26517,7 +26517,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "神经代理模型加速芯片预布局优化，突破传统仿真耗时瓶颈，提升信号完整性设计效率。"
   },
   {
     "id": "arxiv-2606.07462v1",
@@ -26535,7 +26535,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-08T05:27:58.756Z",
-    "aiNote": null
+    "aiNote": "聚焦前沿模型在科研全流程的自主能力，评测框架填补了现有基准空白。"
   },
   {
     "id": "hf-2606.07508",
@@ -26585,7 +26585,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 5,
+    "heat": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26729,7 +26729,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 4,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26765,7 +26765,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 11,
+    "heat": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26980,5 +26980,20 @@
     "origin": "github",
     "firstSeen": "2026-06-08T05:27:58.756Z",
     "aiNote": null
+  },
+  {
+    "id": "rss:36kr-9b0c0582df",
+    "title": "阶跃星辰最快将于周一提交香港首次公开募股申请",
+    "summary": "消息人士称，中国人工智能初创企业阶跃星辰最快将于周一提交香港首次公开募股（IPO）申请。（新浪财经）",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/3844088551835906?f=rss",
+    "category": "industry",
+    "publishedAt": "2026-06-08T05:29:05.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T05:33:03.242Z",
+    "aiNote": "AI创企赴港上市提速，折射资本对技术商业化潜力的认可，或成行业风向标。"
   }
 ]
