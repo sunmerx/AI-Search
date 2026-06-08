@@ -2,7 +2,7 @@ name: Build & Deploy to GitHub Pages
 
 # Crawls fresh AI data, builds the static site, and publishes it to GitHub Pages.
 # Runs on every push to main, daily on a schedule, and on manual dispatch — so the
-# public site at https://keyuchen-del.github.io/AI-Search/ always serves real data
+# public site at https://aisearches.cc/ always serves real data
 # with zero servers to run.
 on:
   push:
@@ -28,9 +28,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: npm
@@ -60,7 +60,7 @@ jobs:
           fi
 
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           enablement: true # auto-enable Pages (source = GitHub Actions) on first run
 
@@ -71,10 +71,10 @@ jobs:
         run: npm run build
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./out
 
       - name: Deploy to GitHub Pages
         id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
