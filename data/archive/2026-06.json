@@ -839,7 +839,7 @@
       "cli-anything",
       "Python"
     ],
-    "heat": 451,
+    "heat": 506,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -914,7 +914,7 @@
       "vue",
       "Python"
     ],
-    "heat": 93,
+    "heat": 95,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -2235,7 +2235,7 @@
       "guardrails-ai",
       "Go"
     ],
-    "heat": 14,
+    "heat": 15,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3532,7 +3532,7 @@
       "cli",
       "TypeScript"
     ],
-    "heat": 739,
+    "heat": 907,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 3429,
+    "heat": 3524,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4103,7 +4103,7 @@
       "claude-code",
       "HTML"
     ],
-    "heat": 3095,
+    "heat": 3162,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4184,7 +4184,7 @@
       "ai-development",
       "JavaScript"
     ],
-    "heat": 811,
+    "heat": 813,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4204,8 +4204,8 @@
     "heat": 83,
     "aiSelected": true,
     "origin": "hackernews",
-    "firstSeen": "2026-06-01T04:55:40.586Z",
-    "aiNote": "自托管邮件网关填补了VPS应用与邮件服务间的安全集成空白。"
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
   },
   {
     "id": "rss:openai-b36c91942c",
@@ -4330,7 +4330,7 @@
       "ai-orchestration",
       "Python"
     ],
-    "heat": 69,
+    "heat": 71,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4682,7 +4682,7 @@
       "ai-agents",
       "TypeScript"
     ],
-    "heat": 781,
+    "heat": 789,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4702,7 +4702,7 @@
       "gemini",
       "gemini-omni"
     ],
-    "heat": 17,
+    "heat": 18,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -4723,7 +4723,7 @@
       "diffusion-models",
       "Python"
     ],
-    "heat": 79,
+    "heat": 81,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5210,7 +5210,7 @@
       "ai-scientists",
       "Python"
     ],
-    "heat": 559,
+    "heat": 564,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5261,7 +5261,7 @@
       "doubao",
       "Python"
     ],
-    "heat": 29,
+    "heat": 30,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -5833,7 +5833,7 @@
       "training-free-method",
       "Python"
     ],
-    "heat": 8,
+    "heat": 9,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6311,7 +6311,7 @@
       "agentic-workflows",
       "agents"
     ],
-    "heat": 1865,
+    "heat": 1872,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Episode7-PeterBillSebastien-AIRevolution_Hero_Feature_River_No_Text_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/05/Research-Forum-hero_1400x788.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 555,
+    "heat": 568,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6671,7 +6671,7 @@
       "ai-video",
       "claude-code"
     ],
-    "heat": 76,
+    "heat": 83,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6708,7 +6708,7 @@
       "economics",
       "journal"
     ],
-    "heat": 654,
+    "heat": 657,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6729,7 +6729,7 @@
       "agents",
       "Rust"
     ],
-    "heat": 1216,
+    "heat": 1221,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6812,7 +6812,7 @@
       "cli",
       "Rust"
     ],
-    "heat": 121,
+    "heat": 123,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6926,7 +6926,7 @@
       "artificial-intelligence",
       "HTML"
     ],
-    "heat": 87,
+    "heat": 89,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6962,7 +6962,7 @@
       "pgvector",
       "Java"
     ],
-    "heat": 1045,
+    "heat": 1032,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6983,7 +6983,7 @@
       "ai-design",
       "HTML"
     ],
-    "heat": 6298,
+    "heat": 6392,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7002,7 +7002,7 @@
       "world-models",
       "Python"
     ],
-    "heat": 69,
+    "heat": 70,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -7100,7 +7100,7 @@
       "coding-agent",
       "TypeScript"
     ],
-    "heat": 237,
+    "heat": 321,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -11710,7 +11710,7 @@
   {
     "id": "gh-kaelio-ktx",
     "title": "Kaelio/ktx",
-    "summary": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills,…",
+    "summary": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or any other AI agent to query data accurately and with full conte…",
     "source": "GitHub",
     "sourceUrl": "https://github.com/Kaelio/ktx",
     "category": "ai-products",
@@ -11722,7 +11722,7 @@
       "ai-agent",
       "TypeScript"
     ],
-    "heat": 945,
+    "heat": 954,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -12477,11 +12477,11 @@
       "large-scale-dataset",
       "Python"
     ],
-    "heat": 39,
+    "heat": 41,
     "aiSelected": true,
     "origin": "github",
-    "firstSeen": "2026-06-02T11:44:38.426Z",
-    "aiNote": "首个大规模宽松许可图像数据集，突破视觉生成数据瓶颈，开源意义重大。"
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
   },
   {
     "id": "hf-2606.00408",
@@ -12915,7 +12915,7 @@
       "context",
       "Python"
     ],
-    "heat": 565,
+    "heat": 564,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -14010,7 +14010,7 @@
       "long-video-generation",
       "Python"
     ],
-    "heat": 51,
+    "heat": 53,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14193,7 +14193,7 @@
       "local-first",
       "TypeScript"
     ],
-    "heat": 203,
+    "heat": 215,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14343,7 +14343,7 @@
       "proactive-agent",
       "Python"
     ],
-    "heat": 827,
+    "heat": 826,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -16461,7 +16461,7 @@
       "copilot-chat",
       "copilot-studio"
     ],
-    "heat": 41,
+    "heat": 44,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -19132,7 +19132,7 @@
       "ai-governance",
       "Python"
     ],
-    "heat": 244,
+    "heat": 254,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T00:03:42.509Z",
@@ -19333,7 +19333,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 534,
+    "heat": 536,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19605,7 +19605,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 528,
+    "heat": 529,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -19797,7 +19797,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 103,
+    "heat": 104,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20251,7 +20251,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 400,
+    "heat": 401,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20283,7 +20283,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 227,
+    "heat": 229,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -20485,7 +20485,7 @@
       "cli",
       "JavaScript"
     ],
-    "heat": 36,
+    "heat": 45,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21162,7 +21162,7 @@
       "chinese",
       "Markdown"
     ],
-    "heat": 163,
+    "heat": 173,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21273,7 +21273,7 @@
       "harness",
       "TypeScript"
     ],
-    "heat": 448,
+    "heat": 465,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21492,7 +21492,7 @@
       "ai-engineering",
       "Python"
     ],
-    "heat": 69,
+    "heat": 86,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21531,7 +21531,7 @@
       "architecture-decision-records",
       "Vue"
     ],
-    "heat": 1225,
+    "heat": 1228,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21572,7 +21572,7 @@
       "langfuse",
       "TypeScript"
     ],
-    "heat": 10,
+    "heat": 11,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -21590,7 +21590,7 @@
       "ai-agent",
       "sdd"
     ],
-    "heat": 1014,
+    "heat": 945,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-04T23:39:02.731Z",
@@ -21667,7 +21667,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 70,
+    "heat": 71,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22291,7 +22291,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 151,
+    "heat": 154,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -22618,7 +22618,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 90,
+    "heat": 91,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23424,7 +23424,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 2,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23768,7 +23768,7 @@
       "ground-truth",
       "Python"
     ],
-    "heat": 1016,
+    "heat": 1036,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23897,7 +23897,7 @@
       "css",
       "HTML"
     ],
-    "heat": 2126,
+    "heat": 2266,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -23978,7 +23978,7 @@
   {
     "id": "rss:techcrunch-ai-7140b07582",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "summary": "Even with Lockdown Mode, ChatGPT could be vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
     "source": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "category": "ai-models",
@@ -24016,7 +24016,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 692,
+    "heat": 703,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -24093,7 +24093,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 154,
+    "heat": 157,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -24277,7 +24277,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 324,
+    "heat": 329,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -24388,7 +24388,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 227,
+    "heat": 232,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -24638,7 +24638,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 693,
+    "heat": 725,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-06T23:18:17.378Z",
@@ -24815,7 +24815,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 266,
+    "heat": 279,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -24838,7 +24838,7 @@
   },
   {
     "id": "hn-82453498d6",
-    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "title": "How liminalism became the defining aesthetic",
     "summary": null,
     "source": "Hacker News",
     "sourceUrl": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
@@ -24847,7 +24847,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 176,
+    "heat": 194,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -24896,7 +24896,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 46,
+    "heat": 47,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -24947,7 +24947,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 287,
+    "heat": 295,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -24964,7 +24964,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 57,
+    "heat": 62,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -24985,7 +24985,7 @@
       "future-of-work",
       "TypeScript"
     ],
-    "heat": 104,
+    "heat": 103,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -25006,7 +25006,7 @@
       "chatbot",
       "Go"
     ],
-    "heat": 142,
+    "heat": 163,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -25164,7 +25164,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 105,
+    "heat": 116,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25181,7 +25181,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 545,
+    "heat": 878,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25213,7 +25213,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 127,
+    "heat": 142,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25260,7 +25260,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 49,
+    "heat": 55,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25307,7 +25307,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 139,
+    "heat": 144,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25369,7 +25369,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 480,
+    "heat": 523,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25386,7 +25386,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 64,
+    "heat": 65,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25395,7 +25395,7 @@
   {
     "id": "hn-f777a88ddf",
     "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "summary": null,
+    "summary": "https://web.archive.org/web/20260607163135/https://human-in-... https://archive.is/i55Th",
     "source": "Hacker News",
     "sourceUrl": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
     "category": "industry",
@@ -25403,7 +25403,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 883,
+    "heat": 1104,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25480,7 +25480,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 282,
+    "heat": 379,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25588,7 +25588,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 112,
+    "heat": 121,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25605,7 +25605,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 197,
+    "heat": 329,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25643,7 +25643,7 @@
       "docker",
       "Go"
     ],
-    "heat": 500,
+    "heat": 514,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25679,7 +25679,7 @@
       "react",
       "TypeScript"
     ],
-    "heat": 278,
+    "heat": 294,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -25699,7 +25699,7 @@
       "deep-learning",
       "generative-ai"
     ],
-    "heat": 49,
+    "heat": 52,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -26061,7 +26061,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 54,
+    "heat": 146,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26078,7 +26078,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 194,
+    "heat": 387,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26110,7 +26110,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 90,
+    "heat": 162,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26163,7 +26163,7 @@
   },
   {
     "id": "hn-f873b3bbac",
-    "title": "sqlite: A CGo-free port of SQLite/SQLite3",
+    "title": "A CGo-free port of SQLite/SQLite3",
     "summary": null,
     "source": "Hacker News",
     "sourceUrl": "https://gitlab.com/cznic/sqlite",
@@ -26172,7 +26172,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 48,
+    "heat": 55,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26189,7 +26189,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 42,
+    "heat": 43,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26549,7 +26549,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 0,
+    "heat": 1,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26567,7 +26567,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 13,
+    "heat": 24,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26585,7 +26585,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 24,
+    "heat": 39,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26603,7 +26603,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 2,
+    "heat": 4,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26621,7 +26621,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 11,
+    "heat": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26639,7 +26639,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 19,
+    "heat": 69,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26657,7 +26657,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 6,
+    "heat": 8,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26675,7 +26675,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 11,
+    "heat": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26693,7 +26693,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 11,
+    "heat": 13,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26711,7 +26711,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 8,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26729,7 +26729,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 6,
+    "heat": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26747,7 +26747,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 6,
+    "heat": 12,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26765,7 +26765,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 14,
+    "heat": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26783,7 +26783,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 13,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26819,7 +26819,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 5,
+    "heat": 17,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26858,7 +26858,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 0,
+    "heat": 1,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26897,7 +26897,7 @@
       "ai",
       "Python"
     ],
-    "heat": 83,
+    "heat": 89,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26918,7 +26918,7 @@
       "machine-learning",
       "Python"
     ],
-    "heat": 111,
+    "heat": 117,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26936,7 +26936,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 1,
+    "heat": 8,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -26954,7 +26954,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 2,
+    "heat": 3,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T05:27:58.756Z",
@@ -27175,5 +27175,1782 @@
     "heat": 0,
     "firstSeen": "2026-06-08T06:18:54.813Z",
     "aiNote": "用模拟矩阵计算替代数字逻辑，颠覆传统计算机架构，挑战英伟达霸主地位。"
+  },
+  {
+    "id": "rss:ithome-37a29e2c84",
+    "title": "停车可观影，苹果 iOS 27 为 CarPlay 带来视频播放功能",
+    "summary": "IT之家 6 月 9 日消息，早在 2025 年苹果全球开发者大会（WWDC）上，苹果就宣布计划让车载互联系统 CarPlay 用户在车辆静止状态下，通过 AirPlay 在车内观看视频，但这项功能的具体细节直到现在才正式公布。 在 2026 年 WWDC 面向开发者的讲解视频中，苹果表示，CarPlay 视频功能仅适配支持该功能的新款车辆。当你在支持 Ai…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/731.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T23:33:57.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd1bb665-4aed-4247-befe-20fb0fb52a97.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "填补车载娱乐空白，停车观影提升体验，但硬件限制或成普及门槛。"
+  },
+  {
+    "id": "rss:36kr-85de57cf94",
+    "title": "中信建投：市场成交处于高位，盈利韧性与估值低位支撑非银投资价值",
+    "summary": "36氪获悉，中信建投研报指出，本周股票成交额环比出现回落，但继续维持高位，市场交投情绪仍在较高水平。当前保险板块估值具有较高配置价值，当前股价过度反映较高基数带来的潜在业绩增速压力，资产端回暖有望带动二季度利润增速和股价修复。港股非银板块在低估值特征与盈利改善预期共振下中长期配置价值凸显。监管逻辑趋稳、促消费导向明确、AI技术提效的背景下，消费金融行业处于政…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/3845149647620361?f=rss",
+    "category": "industry",
+    "publishedAt": "2026-06-08T23:28:29.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "市场活跃叠加低估值，非银及消费金融板块存修复与配置机遇。"
+  },
+  {
+    "id": "rss:36kr-87e80100ba",
+    "title": "主观策略股票私募加快引入AI，打破“AI只适配量化投资”固有观念",
+    "summary": "当前，人工智能（AI）正深度融入资本市场投资环节，是私募行业转型升级的核心动力。从业内获悉，以往依靠深度调研、经验判断开展操作的主观策略股票私募，如今正加快引入AI技术，提升基金经理的资金管理半径与研究覆盖边界。不少主观策略私募已经打破“AI只适配量化投资”的固有观念。业内人士认为，AI在主观策略私募领域的渗透比例还会持续走高，既能赋能传统私募机构，甚至还将…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/newsflashes/3845149412018434?f=rss",
+    "category": "industry",
+    "publishedAt": "2026-06-08T23:28:15.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "主观策略私募拥抱AI，意味着传统投资范式正被技术颠覆，行业转型信号明确。"
+  },
+  {
+    "id": "rss:ithome-28a59d2717",
+    "title": "从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式",
+    "summary": "IT之家 6 月 9 日消息，2026 年苹果全球开发者大会（WWDC）主题演讲并未推出令人眼前一亮的全新产品，而是主要介绍了一系列优化：修复去年推出的液态玻璃设计问题、全面改版体验糟糕的搜索功能、升级 Playground 功能等等。 其中最受关注的当属智能语音助手 Siri。苹果两年前就承诺推出升级版智能 Siri，却迟迟未能落地，如今终于正式展示了这款…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/727.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T23:13:53.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/f798c697-d00e-4a47-b712-7d7138d7acca.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "看点在于苹果终于从概念走向实机，兑现AI功能承诺，展示诚意与落地能力。"
+  },
+  {
+    "id": "rss:ithome-4fe5c75a21",
+    "title": "赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱",
+    "summary": "IT之家 6 月 9 日消息，赛豆科技品牌发布会定档 6 月 9 日 19:00-20:00 举行。根据官方直播页面，这一新汽车品牌定名 AIVA 。 根据此前爆料信息， 赛力斯正在推进一个全新汽车品牌的筹备工作 ，其法律主体正是刚刚完成工商变更的“赛豆科技”；新品牌定位年轻、运动， 首款车型预计今年内推出 。 爆料还称，赛力斯将与字节跳动旗下的云服务平台火…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/726.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T23:13:44.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/98059dd0-f8aa-409e-8c20-7f3af4db70c0.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "赛力斯联手字节跳动，全系标配豆包大模型，智能座舱或成新卖点。"
+  },
+  {
+    "id": "rss:ithome-294551bdd5",
+    "title": "街未觉醒带来 LS5 迷你主机：前进后出风道，内部推拉结构",
+    "summary": "IT之家 6 月 9 日消息，街未觉醒 (JWAWAKEN) 近日在官网正式上线了 LS5 迷你主机。该型号采用 前进后出风道 散热设计，内部则是 托盘式推拉结构 ，卸下四颗螺丝即可调整存储器配置。 LS5 三维 142×135×50 (mm)， 目前可选 AMD 锐龙 7 H 255 / 锐龙 AI 9 HX 470 处理器 。其内部提供 2 个 DDR5…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/725.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T23:10:31.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/7d1e021c-7c6c-478a-a358-fff318ed5f46.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "迷你主机散热与结构设计的创新结合，推拉式拆装大幅提升维护便利性。"
+  },
+  {
+    "id": "rss:ithome-ec9a675cd0",
+    "title": "Meta 智能眼镜暗藏人脸识别代码，曝光仅一天后被紧急移除",
+    "summary": "IT之家 6 月 9 日消息，据《连线》杂志报道，就在有人在 Meta 智能眼镜配套应用中发现一段疑似人脸识别算法的休眠代码仅一天后，Meta 便推送更新移除了这段代码。该媒体在核查一款负责智能眼镜部分核心功能的 Meta 人工智能应用代码时，首次发现了这段可疑代码。Meta 内部将其命名为“姓名标签”。简单来说，这款用于通过蓝牙将智能眼镜与手机配对的必备应…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/724.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T22:57:19.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/33cfa001-9ed6-4329-a903-24fcce3d78c9.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "隐私与技术的碰撞，Meta快速响应暴露了AI眼镜潜在的隐私风险。"
+  },
+  {
+    "id": "rss:ithome-17eb2c6385",
+    "title": "三星电子全永铉：正与英伟达商讨下一代 Groq LPU 合作事宜",
+    "summary": "IT之家 6 月 9 日消息，据韩媒 Sedaily 消息，三星电子副董事长兼 CEO、设备解决方案部（半导体业务）负责人全永铉昨日在与 NVIDIA（英伟达）联合创始人、总裁兼首席执行官黄仁勋会面后的记者采访中提到， 两家企业正就下代 Groq LPU 系列 AI 加速器芯片上的合作进行商讨 。 IT之家注意到，三星晶圆代工是 NVIDIA 在 4nm 的…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/723.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:53:09.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/3/de46e4b4-4620-48e2-a9e1-d93ce7eeb74d.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "AI芯片竞争白热化，三星与英伟达合作动向直接关乎下一代算力格局。"
+  },
+  {
+    "id": "rss:ithome-74bd145072",
+    "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞”",
+    "summary": "Good morning！又是一年 WWDC，但这应当是咱们最后一次看到蒂姆 · 库克在发布会中发来早安问候了。 就在今天（北京时间 6 月 9 日）凌晨 1 点，苹果 WWDC26 全球开发者大会主题演讲如期而至，这是库克作为主讲人的“最后一舞”。 苹果此前已经官宣，自今年 9 月 1 日起，库克将出任苹果董事会执行董事长，CEO 的位置由约翰 · 特努斯…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/722.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:50:57.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/ff67670e-310a-4975-a632-39564139754e.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "库克谢幕之作，iOS 27与Siri AI成焦点，标志苹果进入新纪元。"
+  },
+  {
+    "id": "rss:ithome-b3b3080cbb",
+    "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+    "summary": "IT之家 6 月 9 日消息，自 OpenAI 推出聊天机器人 ChatGPT、将人工智能带入大众视野至今已有三年半。该公司首席执行官兼联合创始人山姆 · 奥尔特曼表示，企业如今已迈入第三发展阶段：让人工智能普及化、易用化且安全可靠。 IT之家注意到，当地时间本周一，奥尔特曼与 OpenAI 首席科学家雅各布 · 帕霍茨基联合发布博客文章，阐述公司未来发展规…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/721.htm",
+    "category": "ai-models",
+    "publishedAt": "2026-06-08T22:50:42.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "OpenAI从技术突破转向普惠安全，定义AI发展的新标杆。"
+  },
+  {
+    "id": "rss:ithome-6107bf89fb",
+    "title": "苹果 iOS 27 引入 4×6 超大号小组件",
+    "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果公司在引入 Siri AI、搜索改进外， 还加入“超大号小组件”。 IT之家注：在 iPhone 17 等机型上，苹果 iOS 小组件提供 3 种尺寸：小号为 2×2、中号为 4×2、大号为 4×4。 而在 iOS 27 系统中，苹果引…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/720.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:49:20.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/480750e2-dadb-4afd-b34e-3bfd6b9872ed.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "小组件尺寸翻倍，预示iOS桌面布局与交互逻辑重大变革。"
+  },
+  {
+    "id": "rss:techcrunch-ai-212c9c7cd1",
+    "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
+    "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:41:45.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "OpenAI冲刺IPO之际，创始人另一家公司却裁员，反差凸显AI行业泡沫风险。"
+  },
+  {
+    "id": "rss:ithome-ef78e2958d",
+    "title": "苹果回应“套壳 Gemini”猜测：iOS 27 版 Siri AI AFM 自研打造",
+    "summary": "IT之家 6 月 9 日消息，科技媒体 Appleinsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）主题演讲结束后，几位苹果高管接受媒体采访， 强调 Apple Foundation Models 模型并非“Gemini 套壳”，而是完全自主控制。 苹果公司表示 Apple Foundation Models 模…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/718.htm",
+    "category": "ai-models",
+    "publishedAt": "2026-06-08T22:41:39.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/d3d9353f-3735-4388-ae5b-72cf8a0fd387.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "自研模型回应套壳质疑，彰显苹果AI战略独立性与技术掌控力。"
+  },
+  {
+    "id": "rss:techcrunch-ai-650cfbfdb4",
+    "title": "Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement",
+    "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in ha…",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:39:57.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "2500万美元和解费背后，苹果AI首秀的“真实感”才是真正的商业胜利。"
+  },
+  {
+    "id": "rss:theverge-ai-c1f6b5f93f",
+    "title": "Apple is using AI to fix Safari’s extension problem",
+    "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent devel…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+    "category": "industry",
+    "publishedAt": "2026-06-08T22:14:17.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果用AI攻克Safari扩展短板，或重塑浏览器生态竞争格局。"
+  },
+  {
+    "id": "rss:ithome-ca8502d5e0",
+    "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+    "summary": "IT之家 6 月 9 日消息，OpenAI 公司今天（6 月 9 日）发布博文， 宣布已经向美国证券交易委员会递交保密版 S-1 注册草案，为未来上市预留通道。 IT之家注：S-1 是企业向美国证券交易委员会提交的注册声明文件，常见于首次公开募股前。 S-1 文件通常包含公司业务、风险、财务与发行相关信息，提交 S-1 不等于马上上市，但说明企业已为进入公开…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/714.htm",
+    "category": "industry",
+    "publishedAt": "2026-06-08T21:57:25.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/8c5cd21d-632a-4447-931e-f12eba90c50f.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "AI巨头启动上市流程，标志行业进入资本化新阶段。"
+  },
+  {
+    "id": "rss:ithome-c0ab686b26",
+    "title": "苹果 iOS 27 大改 Genmoji 自定义表情功能，可微调描述语言",
+    "summary": "IT之家 6 月 9 日消息，苹果今日正式公布了 iOS 27 系统更新，除了发布会上提到的重要内容，还包括一系列细节改进。 比如， iOS 27 包含了全新改造的 Genmoji 自定义表情体验 。界面更新后，Genmoji 可以根据用户的描述来创建表情符号，可以从现有表情改造，或者从照片中选择图片、选择人物。 上传图片或使用文本短语创建 Genmoji…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/713.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T21:48:25.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/fb82c55c-7baa-42de-ab9d-0e9d4eb0492f.png?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果大幅升级Genmoji，让表情定制更灵活精准，用户体验再进化。"
+  },
+  {
+    "id": "rss:ithome-5fa87e1801",
+    "title": "苹果 iOS 27 升级钱包应用：支持 AI 导入票证",
+    "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果升级钱包（Apple Wallet）应用， 引入创建票证和用 Apple Cash 分摊账单功能。 创建票证方面，用户在 iOS 27 的 Wallet 应用内点击“＋”按钮后，可以通过以下 2 种方式创建： 通过 iPhone 相机扫…",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/0/961/712.htm",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T21:47:21.000Z",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/6/2f96a4bd-477f-4e19-9a37-ae5aaaf47c42.jpg?x-bce-process=image/format,f_auto",
+    "aiSelected": true,
+    "origin": "rss:ithome",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果借AI升级钱包，让票证创建智能化，有望提升用户日常支付与出行体验。"
+  },
+  {
+    "id": "rss:theverge-ai-1b020e8417",
+    "title": "OpenAI files for IPO, following Anthropic",
+    "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confi…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+    "category": "industry",
+    "publishedAt": "2026-06-08T21:38:29.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "AI赛道竞争白热化，OpenAI启动IPO标志着行业进入资本化新阶段。"
+  },
+  {
+    "id": "rss:techcrunch-ai-d30cd67f8b",
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T21:29:57.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "OpenAI与Anthropic竞相IPO，AI巨头资本角逐加剧，预示行业进入上市快车道。"
+  },
+  {
+    "id": "rss:techcrunch-ai-2d7ba1a8c4",
+    "title": "Apple plays catch-up at WWDC",
+    "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the com…",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T21:15:42.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果WWDC聚焦修复与AI升级，Siri进化揭示其追赶AI浪潮的决心。"
+  },
+  {
+    "id": "rss:techcrunch-ai-ea8730e943",
+    "title": "Apple bets cheaper AI will woo small developers",
+    "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T20:53:55.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果为小开发者免云API费，降低AI门槛，利好生态创新。"
+  },
+  {
+    "id": "hn-e73da26c01",
+    "title": "FrontierCode",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://cognition.ai/blog/frontier-code",
+    "category": "industry",
+    "publishedAt": "2026-06-08T20:45:03Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 68,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "前沿编程模型，有望重塑AI与代码交互方式，值得开发者关注。"
+  },
+  {
+    "id": "rss:techcrunch-ai-6cd9f8f60e",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T19:41:32.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果WWDC 2026聚焦Siri AI升级，标志其全面押注AI生态，或重塑智能助手竞争格局。"
+  },
+  {
+    "id": "rss:arstechnica-ai-ce12734ae0",
+    "title": "Say hi to \"Siri AI\"&#8212;Apple announces new, more \"conversational\" voice assistant",
+    "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T19:30:05.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-6-1152x648.png",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果Siri升级为对话式AI助手，结合谷歌双轨模型，秋季功能革新值得期待。"
+  },
+  {
+    "id": "hn-eaec986713",
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T19:14:47Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 304,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果选择谷歌模型构建AI架构，标志两大科技巨头合作新动向。"
+  },
+  {
+    "id": "hn-c09cea44ee",
+    "title": "Why are cells small?",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://burrito.bio/essays/what-limits-a-cells-size",
+    "category": "industry",
+    "publishedAt": "2026-06-08T19:10:27Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 96,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "细胞大小谜题揭示生命基本物理限制，关乎代谢效率与进化奥秘。"
+  },
+  {
+    "id": "rss:arstechnica-ai-63c5e86206",
+    "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+    "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T19:00:30.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-notebooklm-1152x630.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "谷歌升级NotebookLM，仅限高端用户，彰显AI工具分层服务新趋势。"
+  },
+  {
+    "id": "rss:techcrunch-ai-9b66388247",
+    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:48:45.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果将AI融入核心应用，让手机学习用户行为，提升日常操作效率与便捷性。"
+  },
+  {
+    "id": "hn-41ee9134ec",
+    "title": "Apple Core AI Framework",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://developer.apple.com/documentation/coreai/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:47:38Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 136,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": "苹果自研AI框架，或重塑移动端AI生态格局。"
+  },
+  {
+    "id": "rss:techcrunch-ai-36fd20c474",
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:45:12.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-5e3631eec9",
+    "title": "Apple&#8217;s Image Playground doesn&#8217;t suck anymore",
+    "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:38:07.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-7e9ea5b4db",
+    "title": "Apple&#8217;s Photos app is getting new AI editing features",
+    "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:36:04.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-ced3a6ddb2",
+    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:34:23.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-42c7495a91",
+    "title": "Apple gives Siri its own dedicated app",
+    "summary": "Siri is finally getting its own app.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:33:42.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-b733558021",
+    "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:29:19.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-7319f31895",
+    "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+    "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebas…",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:23:04.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-f8c15dd2f9",
+    "title": "Siri AI",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.apple.com/apple-intelligence/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:17:53Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 339,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-f62f68e20c",
+    "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T18:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-17d6a2014c",
+    "title": "Apple&#8217;s long-awaited AI Siri overhaul is finally here",
+    "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:56:21.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:theverge-ai-b4443b1f7a",
+    "title": "Amazon is launching AI-generated custom merch",
+    "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use t…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:52:51.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-fd09e454b8",
+    "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:48:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-272757baa5",
+    "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://siraben.github.io/ti84p-re/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:41:33Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 127,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:theverge-ai-98bd4d609d",
+    "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+    "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smart…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:34:24.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-20cd758104",
+    "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T17:07:56.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-9b5288dd2a",
+    "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+    "summary": "What works now: user signups, org creations, private/public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create,…",
+    "source": "Hacker News",
+    "sourceUrl": "https://gitdot.io/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T16:52:11Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 108,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-541fc572e8",
+    "title": "云知声U2，重新计算通用大模型的商业价值",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T16:43:44.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-7509095e46",
+    "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
+    "summary": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T16:40:34.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/ML-20090-image-1.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-b6138f2266",
+    "title": "It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
+    "summary": "Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so yo…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T16:35:02.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/05/biker_image_higher_resolution-1024x768.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-5f0832a6fd",
+    "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
+    "category": "paper",
+    "publishedAt": "2026-06-08T16:34:49.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-6f4309f86c",
+    "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
+    "summary": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has p…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T16:31:17.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/20177-1.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-3ce13b6ddc",
+    "title": "腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T16:20:52.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-bbbf10920f",
+    "title": "End-to-end encrypted ML inference with Amazon SageMaker AI and FHE",
+    "summary": "This blog has previously discussed FHE for ML inference in the post Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, real-time inferencing, but this…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T16:14:14.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/19/ML-18990-1.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-f628e7fdd0",
+    "title": "Amazon Quick ARNs: Cross-account migration and namespace permissions",
+    "summary": "In this post, we cover the structure of Amazon Quick ARNs and provide a practical mental model for working with them. By the end, you can look at an ARN and immediately understand…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T16:07:29.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/02/ML-20693-1.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:theverge-ai-c7d8691f04",
+    "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+    "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"mor…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+    "category": "industry",
+    "publishedAt": "2026-06-08T16:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:aws-ml-bc7820b0fe",
+    "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required",
+    "summary": "In this post, we walk you through the Nova Sonic Test Harness, an open source framework that we built to solve both problems. It serves as a rapid iteration tool for tuning system…",
+    "source": "AWS ML",
+    "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T15:57:45.000Z",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/ML-21086-1.png",
+    "aiSelected": true,
+    "origin": "rss:aws-ml",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:infoq-f329745542",
+    "title": "Claude Code 引入动态工作流，用于并行代理协调",
+    "summary": null,
+    "source": "InfoQ",
+    "sourceUrl": "https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article",
+    "category": "industry",
+    "publishedAt": "2026-06-08T15:56:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:infoq",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-090fc40da0",
+    "title": "Amazon now lets you design custom merch using AI",
+    "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T15:49:12.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-54b180388d",
+    "title": "Why are so many young people getting cancer?",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.nature.com/articles/d41586-026-01780-6",
+    "category": "industry",
+    "publishedAt": "2026-06-08T15:48:00Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 157,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-cba1043982",
+    "title": "AI is slowing down",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T15:46:37Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 341,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:techcrunch-ai-b9b60c913d",
+    "title": "WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple Intelligence and iOS 27",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T15:34:59.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:techcrunch-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-3c417a6e96",
+    "title": "Show HN: Performative-UI – A react component library of design tropes",
+    "summary": "hope you enjoy",
+    "source": "Hacker News",
+    "sourceUrl": "https://vorpus.github.io/performativeUI/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T14:05:16Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 716,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-61bda8fb55",
+    "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/convictional/souls-only",
+    "category": "industry",
+    "publishedAt": "2026-06-08T14:00:22Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 45,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:openai-41e74c1497",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-submits-confidential-s-1",
+    "category": "ai-models",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:openai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:theverge-ai-1524533dc3",
+    "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+    "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll s…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "category": "industry",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-f86dded647",
+    "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+    "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T13:51:16.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-095063f65b",
+    "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+    "summary": "Hey HN, we're Faisal and Ahmad from Intuned ( https://intunedhq.com ). We’re building a platform for building, deploying, and maintaining browser automations. Customers primarily u…",
+    "source": "Hacker News",
+    "sourceUrl": "https://intunedhq.com",
+    "category": "industry",
+    "publishedAt": "2026-06-08T13:35:27Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 96,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:36kr-d27666e127",
+    "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+    "summary": "大公司： 热门中概股美股盘前多数上涨，哔哩哔哩涨超5% 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。 天娱数科：目前无物理AI业务，未形成相关业务收入 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/p/3844559758936582?f=rss",
+    "category": "industry",
+    "publishedAt": "2026-06-08T13:29:53.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-3ae6311c95",
+    "title": "Zig by Example",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/boringcollege/zig-by-example",
+    "category": "industry",
+    "publishedAt": "2026-06-08T13:06:19Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 211,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:arstechnica-ai-2404b7c4b9",
+    "title": "The weather and climate science AI revolution isn’t revolutionary",
+    "summary": "Machine learning has its limits—how is it being used?",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+    "category": "industry",
+    "publishedAt": "2026-06-08T11:00:58.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-1152x648.jpg",
+    "aiSelected": true,
+    "origin": "rss:arstechnica-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:theverge-ai-fe5bbfa447",
+    "title": "WWDC 2026: How to watch and what to expect",
+    "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, an…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+    "category": "tip",
+    "publishedAt": "2026-06-08T11:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-46efd3b1e0",
+    "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+    "summary": "协助用户与商家判断智能体可信赖程度",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/432587.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T10:40:55.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-4e5ac0b85f",
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+    "summary": "https://web.archive.org/web/20260608100644/https://human-in-...",
+    "source": "Hacker News",
+    "sourceUrl": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "category": "tip",
+    "publishedAt": "2026-06-08T09:52:03Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 130,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:36kr-52e4124ad4",
+    "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+    "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/p/3844018911889924?f=rss",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T09:01:03.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-80a0c2f7f5",
+    "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+    "summary": "ABot-Earth0.5正式开放内测",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/432489.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T09:00:20.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-b7015d0edd",
+    "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+    "summary": "豆包硬刚ChatGPT",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/432425.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T08:28:48.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-ac3cf228ae",
+    "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+    "summary": null,
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/432581.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T08:09:25.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-15fc51ae66",
+    "title": "GitHub Is Down",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.githubstatus.com/incidents/m7n7sm0sr1pz",
+    "category": "industry",
+    "publishedAt": "2026-06-08T07:53:57Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 75,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:36kr-ee7d509c09",
+    "title": "改变全球速度的AI，付款却卡在上一个时代",
+    "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，…",
+    "source": "36氪",
+    "sourceUrl": "https://36kr.com/p/3844199957236227?f=rss",
+    "category": "industry",
+    "publishedAt": "2026-06-08T07:30:56.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:36kr",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:qbitai-38f6c4d077",
+    "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+    "summary": "轻视它就会错过整个时代",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/06/432417.html",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T06:30:23.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:qbitai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-a82b4d32f1",
+    "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+    "category": "industry",
+    "publishedAt": "2026-06-08T03:24:44Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 52,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:openai-e26a6d5259",
+    "title": "Built to benefit everyone: our plan",
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "category": "ai-models",
+    "publishedAt": "2026-06-08T01:30:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:openai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:openai-63685f8063",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/economic-research-exchange",
+    "category": "ai-models",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:openai",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "rss:hf-blog-fbaf22fcf6",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "summary": null,
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/openenv-agentic-rl",
+    "category": "tip",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:hf-blog",
+    "heat": 0,
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06843",
+    "title": "Empirical Study on the Characteristics and Evolution of AI-usage in GitHub Repositories: Evidence from Code Comments",
+    "summary": "Developers increasingly use AI tools such as ChatGPT, Copilot, and Claude in everyday software workflows, but prior studies often evaluate LLM outputs in isolation rather than examining how developers…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06843",
+    "category": "paper",
+    "publishedAt": "2026-06-04T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2603.20990",
+    "title": "ECI_{sem}: Semantic Residual Effective Contrastive Information for Evaluating Hard Negatives",
+    "summary": "Hard-negative source selection for dense retrieval is usually decided only after fine-tuning and downstream evaluation. We propose ECI_{sem}, a semantic residual variant of Effective Contrastive Infor…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2603.20990",
+    "category": "paper",
+    "publishedAt": "2026-06-04T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06880",
+    "title": "Towards Retrieving Interaction Spaces for Agentic Search",
+    "summary": "Retrieval for search agents is still inherited from non-agentic information retrieval: a retriever ranks the corpus and the agent reads a small set of returned documents. Recent direct corpus interact…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06880",
+    "category": "paper",
+    "publishedAt": "2026-06-04T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.07334",
+    "title": "How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling",
+    "summary": "Harmony is a compact symbolic layer where mathematical pitch relations, acoustic consonance, and musical convention meet. This report treats chord-symbol sequences not as a complete representation of…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.07334",
+    "category": "paper",
+    "publishedAt": "2026-06-04T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.07207",
+    "title": "Entropy as a Structural Prior: How a Log-Barrier on DiT Belief Space Drives Musical Diversity and Development",
+    "summary": "Confidence-based loss weighting is usually avoided in generative models because it accelerates errors when the model is confidently wrong, but this intuition breaks down in supervised diffusion traini…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.07207",
+    "category": "paper",
+    "publishedAt": "2026-06-04T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-1a13397c14",
+    "title": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+    "summary": "NoSuggest is a quiet act of resistance against YouTube algorithms always trying to pull you into a loop of unlimited videos in turn into unlimited screen time. With unending side c…",
+    "source": "Hacker News",
+    "sourceUrl": "https://www.nosuggest.com/",
+    "category": "industry",
+    "publishedAt": "2026-06-03T21:14:36Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 56,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.05531",
+    "title": "Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models",
+    "summary": "Despite the rapid progress of Vision-Language Models (VLMs), the field lacks benchmarks that rigorously diagnose their true reasoning abilities and chart meaningful progress toward human-like multimod…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.05531",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06622",
+    "title": "UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs",
+    "summary": "We introduce UnpredictaBench, an evaluation that tests the ability of large language models (LLMs) to capture true underlying distributions. As LLMs are increasingly used as substitutes for other enti…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06622",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 13,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06712",
+    "title": "Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
+    "summary": "We study the transformation of autoregressive models (ARLMs) into diffusion language models (DLMs). Rather than pretraining from scratch, prior work replaces the causal attention in ARLMs with bidirec…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06712",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.05988",
+    "title": "Compress-Distill: Reasoning Trace Compression for Efficient Knowledge Distillation",
+    "summary": "Reasoning models produce long chain-of-thought traces that are costly to distill and encourage verbose student outputs. We study post-hoc compression of such traces before knowledge distillation. Two…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.05988",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06556",
+    "title": "Robots Need More than VLA and World Models",
+    "summary": "Generalist robot intelligence is often framed as a policy-scaling problem: collect more robot demonstrations, train larger Vision-Language-Action (VLA) models, and expect broader generalisation. In th…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06556",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 20,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06361",
+    "title": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
+    "summary": "Image-to-Video diffusion models leverage input images to generate visually stunning content, yet frequently produce motion that violates physical laws. We reveal a surprising finding: a 2-step generat…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06361",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 12,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.05563",
+    "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
+    "summary": "Evaluating LLM mediators remains challenging, as mediation unfolds as a real-time trajectory shaped by disputants' shifting emotions, intentions, and context. Existing testbeds rely on a few expert-au…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.05563",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 42,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.06601",
+    "title": "Direct 3D-Aware Object Insertion via Decomposed Visual Proxies",
+    "summary": "Object insertion aims to seamlessly composite a reference object into a specified region of a background image. Recent diffusion-based methods achieve high visual quality but formulate insertion as a…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.06601",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 22,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.05972",
+    "title": "LLM Explainability with Counterfactual Chains and Causal Graphs",
+    "summary": "Causal graphs provide a high-level language for making mechanisms transparent. Recent work uses Large Language Models (LLMs) to recover causal graphs of external-world processes. Instead, in this pape…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.05972",
+    "category": "paper",
+    "publishedAt": "2026-06-03T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 12,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.03988",
+    "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
+    "summary": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.03988",
+    "category": "paper",
+    "publishedAt": "2026-06-02T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.04767",
+    "title": "Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical Guarantees, and Practical Algorithms",
+    "summary": "The robustness of deep neural networks is crucial for safety-critical deployments, yet existing evaluation methods are often attack-dependent and lack interpretability. We propose a principled, attack…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.04767",
+    "category": "paper",
+    "publishedAt": "2026-06-02T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.05152",
+    "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
+    "summary": "Reasoning models have advanced rapidly, but the dominant reinforcement learning from verifiable rewards (RLVR) recipe remains surprisingly narrow: sample many responses and reward each with a single b…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.05152",
+    "category": "paper",
+    "publishedAt": "2026-06-02T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 3,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.04525",
+    "title": "GENEB: Why Genomic Models Are Hard to Compare",
+    "summary": "Progress in genomic foundation models is difficult to assess due to fragmented benchmarks, incompatible evaluation protocols, and task-specific reporting. As a result, claims of superiority or general…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.04525",
+    "category": "paper",
+    "publishedAt": "2026-06-02T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 42,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.04291",
+    "title": "A Cookbook of 3D Vision: Data, Learning Paradigms, and Application",
+    "summary": "3D vision has rapidly evolved, driven by increasingly diverse data representations, learning paradigms, and modeling strategies. Yet the field remains fragmented across representations and benchmarks,…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.04291",
+    "category": "paper",
+    "publishedAt": "2026-06-01T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.01779",
+    "title": "HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems",
+    "summary": "LLM agents are increasingly expected to operate across heterogeneous task regimes that require distinct execution paradigms. This challenges fixed agent systems and motivates system-level meta-adaptat…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.01779",
+    "category": "paper",
+    "publishedAt": "2026-06-01T03:00:35.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2606.01838",
+    "title": "LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models",
+    "summary": "Agentic language model systems alternate between two structurally distinct step types: structured tool calls (short, deterministic, low perplexity) and open-ended planning/reasoning steps (long, compl…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2606.01838",
+    "category": "paper",
+    "publishedAt": "2026-05-31T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2605.22737",
+    "title": "The Distillation Game: Adaptive Attacks & Efficient Defenses",
+    "summary": "Distillation attacks create a deployment trade-off for model providers: the same outputs that make a model more useful can also make it easier to imitate. We study this trade-off through a minimax gam…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.22737",
+    "category": "paper",
+    "publishedAt": "2026-05-28T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2605.29430",
+    "title": "Towards Human-Like Interactive Speech Recognition With Agentic Correction and Semantic Evaluation",
+    "summary": "Automatic speech recognition (ASR) is a core component of human--computer interaction and an increasingly important front-end for LLM-based assistants and agents. However, most current ASR systems sti…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.29430",
+    "category": "paper",
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2605.28742",
+    "title": "CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning",
+    "summary": "Language models can use verifiable rewards to improve at a wide variety of reasoning tasks. However, both parametric (e.g. RLVR) and non-parametric (e.g. prompt optimization) approaches to doing so ty…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.28742",
+    "category": "paper",
+    "publishedAt": "2026-05-26T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2605.28640",
+    "title": "Augmenting Attention with Exponentially Decaying Memory Improves Query-Aware KV Sparsity",
+    "summary": "Efficient inference is critical for long-context language models, where attention computation and KV-cache access dominate the cost. Recent work RAT+, introduces a recurrence-augmented attention backb…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.28640",
+    "category": "paper",
+    "publishedAt": "2026-05-26T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
+  },
+  {
+    "id": "hf-2605.23898",
+    "title": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
+    "summary": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers ap…",
+    "source": "HuggingFace Papers",
+    "sourceUrl": "https://huggingface.co/papers/2605.23898",
+    "category": "paper",
+    "publishedAt": "2026-05-21T20:00:00.000Z",
+    "tags": [
+      "论文",
+      "arXiv"
+    ],
+    "heat": 5,
+    "aiSelected": true,
+    "origin": "hf-papers",
+    "firstSeen": "2026-06-08T23:38:29.309Z",
+    "aiNote": null
   }
 ]
