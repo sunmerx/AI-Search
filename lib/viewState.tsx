@@ -53,6 +53,15 @@ interface Ctx {
 
 const ViewStateCtx = createContext<Ctx | null>(null);
 
+const FALLBACK: Ctx = {
+  state: DEFAULT,
+  update: (patch: Partial<ViewState>) => {
+    const next = { ...DEFAULT, ...patch };
+    const qs = toQueryString(next);
+    window.location.href = qs ? `${BASE}/?${qs}` : `${BASE}/`;
+  },
+};
+
 export function ViewStateProvider({ children }: { children: React.ReactNode }) {
   const [state, setState] = useState(DEFAULT);
 
@@ -83,6 +92,5 @@ export function ViewStateProvider({ children }: { children: React.ReactNode }) {
 
 export function useViewState() {
   const ctx = useContext(ViewStateCtx);
-  if (!ctx) throw new Error("useViewState must be used within ViewStateProvider");
-  return ctx;
+  return ctx ?? FALLBACK;
 }

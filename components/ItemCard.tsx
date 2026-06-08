@@ -9,6 +9,21 @@ import { useLocale } from "./LocaleProvider";
 
 const NEW_WINDOW_MS = 48 * 60 * 60 * 1000;
 
+const PLACEHOLDER_GRADIENTS: Record<string, string> = {
+  llm: "from-blue-500/20 to-indigo-500/20",
+  agents: "from-violet-500/20 to-purple-500/20",
+  vision: "from-amber-500/20 to-orange-500/20",
+  coding: "from-emerald-500/20 to-teal-500/20",
+  research: "from-cyan-500/20 to-sky-500/20",
+  product: "from-pink-500/20 to-rose-500/20",
+  infra: "from-slate-500/20 to-gray-500/20",
+  robot: "from-lime-500/20 to-green-500/20",
+};
+
+function getPlaceholderClass(category?: string) {
+  return PLACEHOLDER_GRADIENTS[category || ""] || "from-gray-200/60 to-gray-300/60";
+}
+
 export default function ItemCard({
   item,
   bookmarked = false,
@@ -34,7 +49,7 @@ export default function ItemCard({
 
   return (
     <article className={"card p-4 flex flex-col gap-3" + (read ? " opacity-60" : "")}>
-      {item.image && (
+      {item.image ? (
         <img
           src={item.image}
           alt=""
@@ -42,10 +57,17 @@ export default function ItemCard({
           decoding="async"
           referrerPolicy="no-referrer"
           onError={(e) => {
-            e.currentTarget.style.display = "none";
+            (e.currentTarget as HTMLImageElement).style.display = "none";
+            const placeholder = e.currentTarget.nextElementSibling;
+            if (placeholder) (placeholder as HTMLElement).style.display = "flex";
           }}
           className="w-full h-40 object-cover rounded-lg bg-gray-100 dark:bg-gray-700"
         />
+      ) : null}
+      {!item.image && (
+        <div className={`w-full h-24 rounded-lg bg-gradient-to-br ${getPlaceholderClass(item.category ?? undefined)} flex items-center justify-center`}>
+          <span className="text-2xl opacity-40">📰</span>
+        </div>
       )}
       <div className="flex items-center justify-between text-xs gap-2">
         <div className="flex items-center gap-1.5 min-w-0">
