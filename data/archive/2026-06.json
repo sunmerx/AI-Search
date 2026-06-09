@@ -2970,7 +2970,7 @@
       "multimodal",
       "Python"
     ],
-    "heat": 44,
+    "heat": 45,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3532,7 +3532,7 @@
       "cli",
       "TypeScript"
     ],
-    "heat": 961,
+    "heat": 964,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -3612,7 +3612,7 @@
       "codex-skill",
       "handdrawn"
     ],
-    "heat": 3556,
+    "heat": 3557,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -6585,7 +6585,7 @@
       "android",
       "TypeScript"
     ],
-    "heat": 569,
+    "heat": 570,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -14193,7 +14193,7 @@
       "local-first",
       "TypeScript"
     ],
-    "heat": 221,
+    "heat": 222,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-02T11:44:38.426Z",
@@ -23897,7 +23897,7 @@
       "css",
       "HTML"
     ],
-    "heat": 2323,
+    "heat": 2325,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-05T23:39:47.939Z",
@@ -25006,7 +25006,7 @@
       "chatbot",
       "Go"
     ],
-    "heat": 171,
+    "heat": 172,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T11:51:00.074Z",
@@ -25588,7 +25588,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 121,
+    "heat": 122,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -27564,7 +27564,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 473,
+    "heat": 477,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -27581,7 +27581,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 127,
+    "heat": 128,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -27628,7 +27628,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 244,
+    "heat": 246,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -27750,11 +27750,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 505,
+    "heat": 508,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "苹果语音助手升级，或开启智能交互新篇章，值得关注其AI技术突破。"
   },
   {
     "id": "rss:infoq-f62f68e20c",
@@ -27769,7 +27769,7 @@
     "origin": "rss:infoq",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "事件反转揭示AI行业竞争激烈，用户需警惕模型性能差异。"
   },
   {
     "id": "rss:techcrunch-ai-17d6a2014c",
@@ -27784,7 +27784,7 @@
     "origin": "rss:techcrunch-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "苹果Siri重大升级，从语音助手转型为全能AI伴侣，标志着智能交互进入新阶段。"
   },
   {
     "id": "rss:theverge-ai-b4443b1f7a",
@@ -27799,7 +27799,7 @@
     "origin": "rss:theverge-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "亚马逊将AI融入按需定制，降低设计门槛，或颠覆电商个性化购物体验。"
   },
   {
     "id": "rss:infoq-fd09e454b8",
@@ -27814,7 +27814,7 @@
     "origin": "rss:infoq",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "华为云转向提升token生产力，标志AI云竞争从规模转向效率与智能应用。"
   },
   {
     "id": "hn-272757baa5",
@@ -27827,11 +27827,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 136,
+    "heat": 137,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "逆向工程经典计算器系统，展现硬件与软件深度交互的底层技术细节。"
   },
   {
     "id": "rss:theverge-ai-98bd4d609d",
@@ -27846,7 +27846,7 @@
     "origin": "rss:theverge-ai",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "苹果AI终落地，Siri大升级看点十足，智能体验能否超预期。"
   },
   {
     "id": "rss:infoq-20cd758104",
@@ -27861,7 +27861,7 @@
     "origin": "rss:infoq",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "科学智能赛推动AI与科研融合，吸引近两万参赛者，展示前沿技术竞争态势。"
   },
   {
     "id": "hn-9b5288dd2a",
@@ -27874,11 +27874,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 204,
+    "heat": 205,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "开源Rust实现GitHub替代品，支持仓库导入与迁移，挑战平台垄断。"
   },
   {
     "id": "rss:infoq-541fc572e8",
@@ -27893,7 +27893,7 @@
     "origin": "rss:infoq",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "通用大模型落地需直面商业回报，云知声U2用“重新计算”挑战行业泡沫。"
   },
   {
     "id": "rss:aws-ml-7509095e46",
@@ -27908,7 +27908,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "AWS指南助欧盟企业跨区域调用AI模型，兼顾数据合规与算力灵活获取。"
   },
   {
     "id": "rss:aws-ml-b6138f2266",
@@ -27923,7 +27923,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "亚马逊推出隔离微虚拟机托管编码代理，兼顾安全与可观测性，或重塑云上AI开发流程。"
   },
   {
     "id": "rss:infoq-5f0832a6fd",
@@ -27938,7 +27938,7 @@
     "origin": "rss:infoq",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "算力争夺白热化，人才流向揭示GPU资源已成AI竞争关键。"
   },
   {
     "id": "rss:aws-ml-6f4309f86c",
@@ -27953,7 +27953,7 @@
     "origin": "rss:aws-ml",
     "heat": 0,
     "firstSeen": "2026-06-08T23:38:29.309Z",
-    "aiNote": null
+    "aiNote": "用数学优化解决直觉盲区，在复杂场景中实现精准决策，是AI落地的关键突破。"
   },
   {
     "id": "rss:infoq-3ce13b6ddc",
@@ -28071,7 +28071,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 169,
+    "heat": 170,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -28088,7 +28088,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 469,
+    "heat": 474,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -28749,7 +28749,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 26,
+    "heat": 27,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-08T23:38:29.309Z",
@@ -29294,7 +29294,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 43,
+    "heat": 44,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-09T05:38:09.727Z",
@@ -29316,7 +29316,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "无需从头训练策略，巧妙迁移智能体，大幅降低强化学习成本。"
   },
   {
     "id": "arxiv-2606.09822v1",
@@ -29334,7 +29334,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "用因果框架量化任务学习所需数据量，为评估大模型能力边界提供新方法。"
   },
   {
     "id": "arxiv-2606.09821v1",
@@ -29352,7 +29352,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "反思大模型强化学习中的散度正则化，揭示当前方法缺陷，为提升训练效率提供新视角。"
   },
   {
     "id": "arxiv-2606.09820v1",
@@ -29370,7 +29370,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "证明神经网络可同时逼近无限维流形上的映射及其导数，为物理仿真等科学计算提供理论支撑。"
   },
   {
     "id": "arxiv-2606.09816v1",
@@ -29388,7 +29388,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "突破标准扩散模型局限，用流形感知与周期终端定律，为高维数据生成提供更精准的几何约束。"
   },
   {
     "id": "arxiv-2606.09806v1",
@@ -29406,7 +29406,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "用拓扑结构统一处理点、边、面的算子学习，突破传统神经算子局限，为复杂几何数据建模开辟新方向。"
   },
   {
     "id": "arxiv-2606.09802v1",
@@ -29424,7 +29424,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "多臂老虎机算法应对用户偏好漂移，拓宽在线实验与推荐系统应用边界。"
   },
   {
     "id": "arxiv-2606.09800v1",
@@ -29442,7 +29442,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "提出自适应语义熵指标，精准衡量代码质量，突破多智能体编程可靠性瓶颈。"
   },
   {
     "id": "arxiv-2606.09787v1",
@@ -29460,7 +29460,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "零接触预测编排突破云边网络波动瓶颈，实现自动化时序模型管理，降低运维复杂度。"
   },
   {
     "id": "arxiv-2606.09778v1",
@@ -29478,7 +29478,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "安全归因机制首次量化了AI控制器的安全贡献，为验证可信AI系统提供关键评估工具。"
   },
   {
     "id": "arxiv-2606.09774v1",
@@ -29496,7 +29496,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "用代码生成适配器降低科研模拟门槛，让科学家专注研究而非编程。"
   },
   {
     "id": "arxiv-2606.09770v1",
@@ -29514,7 +29514,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "利用深度多模态模型揭示大脑功能分区，为理解脑认知机制和AI神经架构提供新视角。"
   },
   {
     "id": "arxiv-2606.09767v1",
@@ -29532,7 +29532,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "低资源语言NMT结合数据合成与参数高效微调，为保护原住民语言数据主权提供了新思路。"
   },
   {
     "id": "arxiv-2606.09764v1",
@@ -29550,7 +29550,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "首个衡量手机智能体个性化推理能力的基准，填补了当前AI助手忽略用户身份与历史数据的评测空白。"
   },
   {
     "id": "arxiv-2606.09762v1",
@@ -29568,7 +29568,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "动态等距理论突破持续学习瓶颈，为保持模型可塑性提供数学基础。"
   },
   {
     "id": "arxiv-2606.09758v1",
@@ -29586,7 +29586,7 @@
     "origin": "arxiv",
     "heat": 0,
     "firstSeen": "2026-06-09T05:38:09.727Z",
-    "aiNote": null
+    "aiNote": "提出差异感知检索策略，提升模仿学习在分布外场景的泛化能力，解决误差累积难题。"
   },
   {
     "id": "hf-2606.09811",
@@ -29618,7 +29618,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 4,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-09T05:38:09.727Z",
@@ -30071,7 +30071,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 51,
+    "heat": 53,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-06-09T05:38:09.727Z",
