@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%94%8D_AI_Search-AI_%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88-2453ee?style=for-the-badge&labelColor=0f172a" />
-    <img src="https://img.shields.io/badge/%F0%9F%94%8D_AI_Search-AI_%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88-2453ee?style=for-the-badge&labelColor=0f172a" alt="AI Search" />
-  </picture>
-</p>
+<h1 align="center">🔍 AI Search</h1>
 
 <p align="center">
   <strong>每天自动聚合全网 AI 资讯 · AI 解读 · 个性化 · 开放 API</strong><br/>
