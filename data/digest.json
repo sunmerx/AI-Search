@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-08",
-  "generatedAt": "2026-06-07T23:20:28.173Z",
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T05:38:23.619Z",
   "picks": [
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "sourceUrl": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "source": "Hacker News",
-      "reason": "直击开发者对LLM替代职业的焦虑，共鸣度高"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "source": "Hacker News",
-      "reason": "标普500拒收AI巨头，影响行业资本信心"
+      "reason": "AI对软件工程师职业的冲击，引发深层焦虑"
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "sourceUrl": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "source": "Hacker News",
-      "reason": "AI聊天机器人成黑客工具，安全事件警示"
+      "reason": "Meta确认AI聊天机器人漏洞致账号被黑"
     },
     {
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48406174",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "sourceUrl": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "source": "Hacker News",
-      "reason": "GenAI翻车瞬间合集，真实教训引反思"
+      "reason": "苹果AI架构转向采用谷歌Gemini模型"
+    },
+    {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "sourceUrl": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "source": "Hacker News",
+      "reason": "DeepSeek V4 Pro在精度上超越GPT-5.5 Pro"
     },
     {
       "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
       "sourceUrl": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
       "source": "Hacker News",
-      "reason": "智能电视沦为AI数据采集节点，隐私警钟"
+      "reason": "揭示智能电视沦为AI数据抓取节点的新风险"
     }
   ],
-  "trendSummary": "本周AI圈热闹非凡，代码生成工具持续走红，Claude新版本引发热议，而OpenAI模型在数学上打破猜想，同时标普500拒绝SpaceX并封堵OpenAI与Anthropic。"
+  "trendSummary": "本周AI圈热点集中在开源项目爆发与模型能力突破，Claude新版本引发关注，同时AI在数学领域实现理论证明，开发者工具和实战指南持续升温。"
 }
