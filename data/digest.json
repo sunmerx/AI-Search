@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-10",
-  "generatedAt": "2026-06-09T23:44:07.666Z",
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-10T23:51:30.473Z",
   "picks": [
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "source": "Hacker News",
+      "reason": "德国裁定谷歌对AI概览虚假回答担责，影响AI责任边界"
+    },
     {
       "title": "Claude Fable 5",
       "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Hacker News",
-      "reason": "Anthropic发布Claude系统卡，揭秘前沿AI安全细节"
+      "reason": "Claude Fable 5系统卡发布，安全细节值得关注"
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "sourceUrl": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "sourceUrl": "https://github.com/anthropics/claude-code/issues/29045",
       "source": "Hacker News",
-      "reason": "苹果AI架构整合Gemini，巨头生态重大变革"
+      "reason": "Claude桌面版启动即占1.8GB，性能问题引热议"
     },
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "sourceUrl": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "sourceUrl": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
       "source": "Hacker News",
-      "reason": "LLM冲击软件工程职业，引发从业者深度焦虑"
+      "reason": "苹果因豁免被拒不在欧盟推Siri，涉及监管博弈"
     },
     {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "sourceUrl": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "sourceUrl": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
       "source": "Hacker News",
-      "reason": "DeepSeek V4 Pro性能超越GPT-5.5，国产模型里程碑"
-    },
-    {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "source": "Hacker News",
-      "reason": "微软开源工具遭黑客利用，AI开发者密码泄露风险"
+      "reason": "FCC拟强制运营商收集用户ID，隐私争议大"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在多模态内容生成、智能体实践与前沿推理突破，同时人才流动与模型迭代持续推动行业变革。"
+  "trendSummary": "本周AI圈热点集中在多模态创作工具、智能体实践、Claude新动态和OpenAI的数学突破，技术应用与基础研究齐头并进。"
 }
