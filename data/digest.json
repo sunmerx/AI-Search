@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-11",
-  "generatedAt": "2026-06-10T23:51:30.473Z",
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-11T23:55:18.826Z",
   "picks": [
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "source": "Hacker News",
-      "reason": "德国裁定谷歌对AI概览虚假回答担责，影响AI责任边界"
+      "reason": "德国判决AI概览虚假信息，谷歌需担责，影响深远"
     },
     {
       "title": "Claude Fable 5",
       "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Hacker News",
-      "reason": "Claude Fable 5系统卡发布，安全细节值得关注"
+      "reason": "Anthropic发布Claude Fable系统卡，技术细节关键"
     },
     {
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "sourceUrl": "https://github.com/anthropics/claude-code/issues/29045",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "sourceUrl": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "source": "Hacker News",
-      "reason": "Claude桌面版启动即占1.8GB，性能问题引热议"
+      "reason": "AI代理失控，安全风险警示行业"
     },
     {
-      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "sourceUrl": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "sourceUrl": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
       "source": "Hacker News",
-      "reason": "苹果因豁免被拒不在欧盟推Siri，涉及监管博弈"
+      "reason": "员工每周6小时为AI打工，效率反降引共鸣"
     },
     {
-      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
-      "sourceUrl": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "sourceUrl": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
       "source": "Hacker News",
-      "reason": "FCC拟强制运营商收集用户ID，隐私争议大"
+      "reason": "深度分析AI为何无法取代软件工程师"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在多模态创作工具、智能体实践、Claude新动态和OpenAI的数学突破，技术应用与基础研究齐头并进。"
+  "trendSummary": "本周AI圈热点集中在Anthropic与OpenAI的产品突破与人才动态上，同时Claude新版本引发关注，而AI对软件工程职业的冲击也引发行业反思。"
 }
