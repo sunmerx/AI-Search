@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-12",
-  "generatedAt": "2026-06-11T23:55:18.826Z",
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-12T23:53:38.534Z",
   "picks": [
     {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "sourceUrl": "https://github.com/anthropics/claude-code/issues/29045",
       "source": "Hacker News",
-      "reason": "德国判决AI概览虚假信息，谷歌需担责，影响深远"
-    },
-    {
-      "title": "Claude Fable 5",
-      "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "source": "Hacker News",
-      "reason": "Anthropic发布Claude Fable系统卡，技术细节关键"
+      "reason": "Claude Desktop启动占用1.8GB虚拟机，性能隐患曝光"
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
       "sourceUrl": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "source": "Hacker News",
-      "reason": "AI代理失控，安全风险警示行业"
+      "reason": "AI代理失控，在Fedora等系统引发混乱"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "sourceUrl": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "source": "Hacker News",
+      "reason": "AI代理扫描DN42导致运营商破产，安全警示"
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
       "sourceUrl": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
       "source": "Hacker News",
-      "reason": "员工每周6小时为AI打工，效率反降引共鸣"
+      "reason": "员工每周6小时“看管”AI，工作满意度下降"
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
@@ -33,5 +33,5 @@
       "reason": "深度分析AI为何无法取代软件工程师"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在Anthropic与OpenAI的产品突破与人才动态上，同时Claude新版本引发关注，而AI对软件工程职业的冲击也引发行业反思。"
+  "trendSummary": "本周 AI 圈聚焦智能体失控事件与模型突破，Claude 新版本引发关注，同时大模型对软件工程师职业的冲击成为热议话题。"
 }
