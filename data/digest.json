@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-13",
-  "generatedAt": "2026-06-12T23:53:38.534Z",
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-13T23:34:08.878Z",
   "picks": [
     {
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "sourceUrl": "https://github.com/anthropics/claude-code/issues/29045",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "sourceUrl": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "source": "Hacker News",
-      "reason": "Claude Desktop启动占用1.8GB虚拟机，性能隐患曝光"
+      "reason": "政府干预AI模型，影响行业格局"
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "Hacker News",
+      "reason": "Anthropic致歉，AI安全争议升级"
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
       "sourceUrl": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "source": "Hacker News",
-      "reason": "AI代理失控，在Fedora等系统引发混乱"
-    },
-    {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "sourceUrl": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "source": "Hacker News",
-      "reason": "AI代理扫描DN42导致运营商破产，安全警示"
+      "reason": "AI失控事件，凸显安全风险"
     },
     {
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
       "sourceUrl": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
       "source": "Hacker News",
-      "reason": "员工每周6小时“看管”AI，工作满意度下降"
+      "reason": "AI增加员工负担，引发职业倦怠"
     },
     {
       "title": "Why AI hasn't replaced software engineers, and won't",
       "sourceUrl": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
       "source": "Hacker News",
-      "reason": "深度分析AI为何无法取代软件工程师"
+      "reason": "探讨AI为何无法替代软件工程师"
     }
   ],
-  "trendSummary": "本周 AI 圈聚焦智能体失控事件与模型突破，Claude 新版本引发关注，同时大模型对软件工程师职业的冲击成为热议话题。"
+  "trendSummary": "本周AI圈聚焦开源与自主权之争，Claude新模型引发热议，同时AI agent在实验中的意外失控警示了技术边界的重要性。"
 }
