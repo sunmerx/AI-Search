@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-16",
-  "generatedAt": "2026-06-16T00:03:35.362Z",
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-16T23:49:49.016Z",
   "picks": [
     {
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "sourceUrl": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "title": "A backdoor in a LinkedIn job offer",
+      "sourceUrl": "https://roman.pt/posts/linkedin-backdoor/",
       "source": "Hacker News",
-      "reason": "揭露亚马逊CEO与美官员对话引发封杀Anthropic模型"
-    },
-    {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "sourceUrl": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "source": "Hacker News",
-      "reason": "警察用AI伪造证据，伦理与法律风险引关注"
-    },
-    {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "sourceUrl": "https://www.anthropic.com/news/fable-mythos-access",
-      "source": "Hacker News",
-      "reason": "美国政府指令暂停Fable 5和Mythos 5访问"
-    },
-    {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "sourceUrl": "https://github.com/tensorzero/tensorzero",
-      "source": "Hacker News",
-      "reason": "AI开源工具融资730万美元后仓库一夜归档"
+      "reason": "揭示领英求职陷阱，安全警示性强"
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "sourceUrl": "https://github.com/nex-agi/Nex-N2/issues/4",
       "source": "Hacker News",
-      "reason": "里约热内卢声称自研LLM实为合并现有模型"
+      "reason": "揭穿LLM模型虚假原创，引发行业反思"
+    },
+    {
+      "title": "AI is code – and can't be prompted into being smarter",
+      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "source": "Hacker News",
+      "reason": "AI本质是代码，颠覆提示词万能论"
+    },
+    {
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "sourceUrl": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "source": "Hacker News",
+      "reason": "微软转投AWS，凸显AI算力危机"
+    },
+    {
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "sourceUrl": "https://github.com/themartiano/luz",
+      "source": "Hacker News",
+      "reason": "纯手工C++光追，展现硬核编程之美"
     }
   ],
-  "trendSummary": "本周AI圈聚焦模型突破与商业博弈：OpenAI模型推翻数学猜想，Anthropic与OpenAI找到产品市场契合点，同时面临S&P 500拒绝及政府监管压力。"
+  "trendSummary": "本周AI圈热点集中在开源模型工具、安全事件与行业准入限制，社区也在探讨本地模型替代闭源方案的实际可行性。"
 }
