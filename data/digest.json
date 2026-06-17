@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-17",
-  "generatedAt": "2026-06-16T23:49:49.016Z",
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-17T23:51:49.048Z",
   "picks": [
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "sourceUrl": "https://roman.pt/posts/linkedin-backdoor/",
+      "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+      "sourceUrl": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
       "source": "Hacker News",
-      "reason": "揭示领英求职陷阱，安全警示性强"
+      "reason": "OpenAI巨额亏损曝光，揭示AI行业真实成本"
     },
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "sourceUrl": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "sourceUrl": "https://wpvip.com/future-of-the-web-2026/",
       "source": "Hacker News",
-      "reason": "揭穿LLM模型虚假原创，引发行业反思"
+      "reason": "六成消费者反感AI标签，品牌营销警钟"
     },
     {
-      "title": "AI is code – and can't be prompted into being smarter",
-      "sourceUrl": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "sourceUrl": "https://www.wheresyoured.at/exclusive-openai-financials/",
       "source": "Hacker News",
-      "reason": "AI本质是代码，颠覆提示词万能论"
+      "reason": "OpenAI亏损暴增8倍，支出惊人达340亿"
     },
     {
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "sourceUrl": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "sourceUrl": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "source": "Hacker News",
-      "reason": "微软转投AWS，凸显AI算力危机"
+      "reason": "GLM-5.2成为开源模型新标杆，性能领先"
     },
     {
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "sourceUrl": "https://github.com/themartiano/luz",
+      "title": "Stop Using JWTs",
+      "sourceUrl": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
       "source": "Hacker News",
-      "reason": "纯手工C++光追，展现硬核编程之美"
+      "reason": "停止使用JWT，安全实践重要提醒"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在开源模型工具、安全事件与行业准入限制，社区也在探讨本地模型替代闭源方案的实际可行性。"
+  "trendSummary": "本周AI圈聚焦于安全漏洞与行业准入争议，LinkedIn招聘后门、政府限制模型访问及S&P 500拒绝AI企业入指引发热议，同时开源项目与记忆系统创新持续活跃。"
 }
