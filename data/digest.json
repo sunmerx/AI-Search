@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-20",
-  "generatedAt": "2026-06-19T23:16:37.570Z",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-20T23:37:46.366Z",
   "picks": [
     {
-      "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-      "sourceUrl": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "sourceUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "source": "Hacker News",
-      "reason": "OpenAI财务泄露，揭示巨额亏损与算力消耗"
-    },
-    {
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "sourceUrl": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "source": "Hacker News",
-      "reason": "AMD悄然移除消费级CPU内存加密，安全风险"
+      "reason": "挪威小学近乎全面禁AI，教育伦理前沿决策"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "sourceUrl": "https://orchidfiles.com/github-repositories-distributing-malware/",
       "source": "Hacker News",
-      "reason": "发现1万GitHub仓库传播木马，安全警示"
+      "reason": "1万GitHub仓库分发木马，开源安全警钟"
     },
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "sourceUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "sourceUrl": "https://arrowtsx.dev/bigger-models/",
       "source": "Hacker News",
-      "reason": "挪威近乎禁止中小学使用AI，政策风向标"
+      "reason": "GPT-5.5幻觉率超开源模型3倍，模型可靠性对比"
     },
     {
-      "title": "Amateur may have cracked Linear A",
-      "sourceUrl": "https://aiclambake.com/clamtakes/linear-a/",
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "sourceUrl": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
       "source": "Hacker News",
-      "reason": "业余爱好者或破解线形文字A，考古突破"
+      "reason": "AMD悄然移除消费级CPU内存加密，隐私与硬件安全"
+    },
+    {
+      "title": "Is AI ruining our skills? Early results are in – and they're not good",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01947-1",
+      "source": "Hacker News",
+      "reason": "AI是否削弱人类技能？早期实证结果不乐观"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在开源项目爆发与监管收紧，多款新工具亮相，同时美国政策限制AI企业准入，行业面临创新与合规的双重挑战。"
+  "trendSummary": "本周AI圈热点集中在开源项目爆发与政策监管收紧，多模态模型、图像生成工具持续涌现，同时美国对AI企业融资与内容访问的限制引发行业震荡。"
 }
