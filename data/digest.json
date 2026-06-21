@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-21",
-  "generatedAt": "2026-06-20T23:37:46.366Z",
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-21T23:46:13.484Z",
   "picks": [
     {
       "title": "Norway imposes near ban on AI in elementary school",
       "sourceUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "source": "Hacker News",
-      "reason": "挪威小学近乎全面禁AI，教育伦理前沿决策"
-    },
-    {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "sourceUrl": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "source": "Hacker News",
-      "reason": "1万GitHub仓库分发木马，开源安全警钟"
+      "reason": "挪威小学近乎全面禁AI，教育政策重大转向"
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "sourceUrl": "https://arrowtsx.dev/bigger-models/",
       "source": "Hacker News",
-      "reason": "GPT-5.5幻觉率超开源模型3倍，模型可靠性对比"
-    },
-    {
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "sourceUrl": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "source": "Hacker News",
-      "reason": "AMD悄然移除消费级CPU内存加密，隐私与硬件安全"
+      "reason": "GPT-5.5幻觉率比开源模型高3倍，性能争议"
     },
     {
       "title": "Is AI ruining our skills? Early results are in – and they're not good",
       "sourceUrl": "https://www.nature.com/articles/d41586-026-01947-1",
       "source": "Hacker News",
-      "reason": "AI是否削弱人类技能？早期实证结果不乐观"
+      "reason": "早期研究显示AI正在削弱人类技能"
+    },
+    {
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+      "sourceUrl": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "source": "Hacker News",
+      "reason": "Linux内核六年努力终移除strncpy，安全里程碑"
+    },
+    {
+      "title": "AI Engineer Claims to Have Cracked Linear A",
+      "sourceUrl": "https://aiclambake.com/clamtakes/linear-a/",
+      "source": "Hacker News",
+      "reason": "AI工程师声称破解线形文字A，考古突破引关注"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在开源项目爆发与政策监管收紧，多模态模型、图像生成工具持续涌现，同时美国对AI企业融资与内容访问的限制引发行业震荡。"
+  "trendSummary": "本周AI圈争议不断：美国政府要求停用两款模型，标普500拒绝SpaceX并封堵OpenAI与Anthropic，同时多个实用项目如PixelRAG、Memory OS等持续涌现，技术开源与政策博弈并行"
 }
