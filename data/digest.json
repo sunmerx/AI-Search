@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-22",
-  "generatedAt": "2026-06-21T23:46:13.484Z",
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-22T23:44:36.627Z",
   "picks": [
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "sourceUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "source": "Hacker News",
-      "reason": "挪威小学近乎全面禁AI，教育政策重大转向"
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "sourceUrl": "https://arrowtsx.dev/bigger-models/",
-      "source": "Hacker News",
-      "reason": "GPT-5.5幻觉率比开源模型高3倍，性能争议"
-    },
-    {
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "sourceUrl": "https://www.nature.com/articles/d41586-026-01947-1",
-      "source": "Hacker News",
-      "reason": "早期研究显示AI正在削弱人类技能"
-    },
     {
       "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
       "sourceUrl": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
       "source": "Hacker News",
-      "reason": "Linux内核六年努力终移除strncpy，安全里程碑"
+      "reason": "Linux内核重大安全改进，六年打磨终完成"
     },
     {
-      "title": "AI Engineer Claims to Have Cracked Linear A",
-      "sourceUrl": "https://aiclambake.com/clamtakes/linear-a/",
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "sourceUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
       "source": "Hacker News",
-      "reason": "AI工程师声称破解线形文字A，考古突破引关注"
+      "reason": "行业标准开放，降低AI视频处理门槛"
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "sourceUrl": "https://apertvs.ai/",
+      "source": "Hacker News",
+      "reason": "开源主权AI模型，突破技术封锁"
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "sourceUrl": "https://role-confusion.github.io",
+      "source": "Hacker News",
+      "reason": "提示注入新视角，AI安全关键研究"
+    },
+    {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "sourceUrl": "https://oak.space/oak/oak",
+      "source": "Hacker News",
+      "reason": "专为AI代理设计的版本控制创新"
     }
   ],
-  "trendSummary": "本周AI圈争议不断：美国政府要求停用两款模型，标普500拒绝SpaceX并封堵OpenAI与Anthropic，同时多个实用项目如PixelRAG、Memory OS等持续涌现，技术开源与政策博弈并行"
+  "trendSummary": "本周AI圈开源项目密集爆发，涵盖图像生成、智能体协作、视频处理等方向，同时政策干预与记忆系统成为新焦点，技术落地加速分化。"
 }
