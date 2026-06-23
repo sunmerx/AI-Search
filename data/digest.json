@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-23",
-  "generatedAt": "2026-06-22T23:44:36.627Z",
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-23T23:31:51.479Z",
   "picks": [
     {
-      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-      "sourceUrl": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "title": "AI's Affordability Crisis",
+      "sourceUrl": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "source": "Hacker News",
-      "reason": "Linux内核重大安全改进，六年打磨终完成"
-    },
-    {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "sourceUrl": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "source": "Hacker News",
-      "reason": "行业标准开放，降低AI视频处理门槛"
+      "reason": "直击AI行业成本痛点，影响广泛"
     },
     {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "sourceUrl": "https://apertvs.ai/",
       "source": "Hacker News",
-      "reason": "开源主权AI模型，突破技术封锁"
+      "reason": "主权AI开源模型，战略意义重大"
     },
     {
-      "title": "Prompt Injection as Role Confusion",
-      "sourceUrl": "https://role-confusion.github.io",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "sourceUrl": "https://github.com/openai/codex/issues/28224",
       "source": "Hacker News",
-      "reason": "提示注入新视角，AI安全关键研究"
+      "reason": "严重bug威胁硬盘，需紧急关注"
     },
     {
       "title": "Show HN: Oak – Git alternative designed for agents",
       "sourceUrl": "https://oak.space/oak/oak",
       "source": "Hacker News",
-      "reason": "专为AI代理设计的版本控制创新"
+      "reason": "专为智能体设计的Git替代，创新性强"
+    },
+    {
+      "title": "When I reject AI code even if it works",
+      "sourceUrl": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News",
+      "reason": "反思AI代码质量，引发开发者共鸣"
     }
   ],
-  "trendSummary": "本周AI圈开源项目密集爆发，涵盖图像生成、智能体协作、视频处理等方向，同时政策干预与记忆系统成为新焦点，技术落地加速分化。"
+  "trendSummary": "本周AI圈开源项目百花齐放，从图像生成、视频处理到智能体协作与记忆系统，实用工具与创意应用齐头并进，开发者社区活跃度显著提升。"
 }
