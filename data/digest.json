@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-24",
-  "generatedAt": "2026-06-23T23:31:51.479Z",
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-24T23:35:50.368Z",
   "picks": [
     {
-      "title": "AI's Affordability Crisis",
-      "sourceUrl": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "Hacker News",
-      "reason": "直击AI行业成本痛点，影响广泛"
+      "reason": "OpenAI首款自研芯片发布，AI硬件格局重大变化"
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "sourceUrl": "https://apertvs.ai/",
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "sourceUrl": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
       "source": "Hacker News",
-      "reason": "主权AI开源模型，战略意义重大"
+      "reason": "NSA与Anthropic纠纷致失去AI访问权，安全与AI博弈"
     },
     {
       "title": "Codex logging bug may write TBs to local SSDs",
       "sourceUrl": "https://github.com/openai/codex/issues/28224",
       "source": "Hacker News",
-      "reason": "严重bug威胁硬盘，需紧急关注"
+      "reason": "Codex日志bug可写TB数据，开发者需警惕"
     },
     {
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "sourceUrl": "https://oak.space/oak/oak",
+      "title": "AI's Affordability Crisis",
+      "sourceUrl": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "source": "Hacker News",
-      "reason": "专为智能体设计的Git替代，创新性强"
+      "reason": "AI成本危机深度分析，行业可持续性关键议题"
     },
     {
-      "title": "When I reject AI code even if it works",
-      "sourceUrl": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "sourceUrl": "https://www.krea.ai/blog/krea-2-technical-report",
       "source": "Hacker News",
-      "reason": "反思AI代码质量，引发开发者共鸣"
+      "reason": "Krea 2开源12B图像模型，SOTA性能值得关注"
     }
   ],
-  "trendSummary": "本周AI圈开源项目百花齐放，从图像生成、视频处理到智能体协作与记忆系统，实用工具与创意应用齐头并进，开发者社区活跃度显著提升。"
+  "trendSummary": "本周AI圈热点集中在智能体协作、记忆系统与轻量级创作工具，多模态视频处理和像素级RAG也引发关注，整体呈现从单一模型向复合生态演进的趋势。"
 }
