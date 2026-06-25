@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-25",
-  "generatedAt": "2026-06-24T23:35:50.368Z",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-25T23:47:09.214Z",
   "picks": [
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "Hacker News",
-      "reason": "OpenAI首款自研芯片发布，AI硬件格局重大变化"
+      "reason": "OpenAI首款自研芯片发布，AI硬件格局重大变革"
     },
     {
-      "title": "NSA lost access to Mythos amid Anthropic dispute",
-      "sourceUrl": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "sourceUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "source": "Hacker News",
-      "reason": "NSA与Anthropic纠纷致失去AI访问权，安全与AI博弈"
+      "reason": "Anthropic指控阿里窃取模型，AI知识产权争端升级"
     },
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "sourceUrl": "https://github.com/openai/codex/issues/28224",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "sourceUrl": "https://scrollprize.org/firstscroll",
       "source": "Hacker News",
-      "reason": "Codex日志bug可写TB数据，开发者需警惕"
+      "reason": "赫库兰尼姆古卷首次破译，AI考古里程碑"
     },
     {
-      "title": "AI's Affordability Crisis",
-      "sourceUrl": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
       "source": "Hacker News",
-      "reason": "AI成本危机深度分析，行业可持续性关键议题"
+      "reason": "福特AI失误召回老员工，AI可靠性警钟"
     },
     {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "sourceUrl": "https://www.krea.ai/blog/krea-2-technical-report",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "sourceUrl": "https://tikz.dev/editor/",
       "source": "Hacker News",
-      "reason": "Krea 2开源12B图像模型，SOTA性能值得关注"
+      "reason": "TikZ编辑器简化论文绘图，学术写作利器"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在智能体协作、记忆系统与轻量级创作工具，多模态视频处理和像素级RAG也引发关注，整体呈现从单一模型向复合生态演进的趋势。"
+  "trendSummary": "本周AI圈热点集中在多智能体协作、记忆系统、代码生成工具及视觉内容创作等方向，展现了从底层架构到应用层的全面创新活力。"
 }
