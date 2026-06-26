@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-26",
-  "generatedAt": "2026-06-25T23:47:09.214Z",
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-26T23:35:50.587Z",
   "picks": [
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "Hacker News",
-      "reason": "OpenAI首款自研芯片发布，AI硬件格局重大变革"
+      "reason": "OpenAI首款自研芯片发布，AI硬件格局重大变化"
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "sourceUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "source": "Hacker News",
-      "reason": "Anthropic指控阿里窃取模型，AI知识产权争端升级"
+      "reason": "Anthropic指控阿里窃取模型能力，AI安全争议升级"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News",
+      "reason": "美国政府将决定GPT-5.6使用权，AI监管里程碑"
     },
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
       "sourceUrl": "https://scrollprize.org/firstscroll",
       "source": "Hacker News",
-      "reason": "赫库兰尼姆古卷首次破译，AI考古里程碑"
+      "reason": "赫库兰尼姆古卷首次被完整破译，科技考古突破"
     },
     {
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
-      "reason": "福特AI失误召回老员工，AI可靠性警钟"
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "sourceUrl": "https://tikz.dev/editor/",
-      "source": "Hacker News",
-      "reason": "TikZ编辑器简化论文绘图，学术写作利器"
+      "reason": "GPT-5.6预览发布，下一代模型能力首次曝光"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在多智能体协作、记忆系统、代码生成工具及视觉内容创作等方向，展现了从底层架构到应用层的全面创新活力。"
+  "trendSummary": "本周AI圈热点集中在多智能体协作、知识检索增强、记忆系统与考古AI应用，开源项目密集涌现，技术落地加速。"
 }
