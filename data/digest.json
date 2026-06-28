@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-28",
-  "generatedAt": "2026-06-27T23:18:24.147Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-28T23:20:38.533Z",
   "picks": [
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "sourceUrl": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "source": "Hacker News",
-      "reason": "美国政府将决定GPT-5.6使用权，影响全球AI监管格局"
-    },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
-      "reason": "OpenAI发布GPT-5.6预览，系统卡揭示模型能力"
+      "reason": "GPT-5.6预览与系统卡发布，核心模型进展"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News",
+      "reason": "美国政府将决定GPT-5.6使用权，政策影响深远"
     },
     {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
       "sourceUrl": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "source": "Hacker News",
-      "reason": "美国批准Anthropic向可信组织发布Mythos AI，AI出口管控新动向"
-    },
-    {
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "source": "Hacker News",
-      "reason": "福特AI失误重聘老员工，AI替代人类决策的教训"
+      "reason": "Anthropic获准向美国组织发布Mythos AI，监管动态"
     },
     {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "sourceUrl": "https://github.com/bikini/exploitarium",
       "source": "Hacker News",
-      "reason": "匿名GitHub账号批量投放未公开0-day漏洞，安全威胁升级"
+      "reason": "匿名GitHub账号批量泄露0-day漏洞，安全事件"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "sourceUrl": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "reason": "DSpark加速LLM推理，技术效率突破"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于新模型GPT-5.6的发布与监管争议，同时多个开源项目如PixelRAG、Omnigent等推动知识管理、记忆系统和工程效率创新，技术自主与权力博弈并存。"
+  "trendSummary": "本周AI圈聚焦开源项目爆发与模型迭代，同时美国拟监管GPT-5.6使用权引发热议，匿名账户批量泄露零日漏洞加剧安全隐忧。"
 }
