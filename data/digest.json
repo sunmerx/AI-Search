@@ -1,37 +1,37 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-28T23:20:38.533Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-29T23:17:29.000Z",
   "picks": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "sourceUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "source": "Hacker News",
-      "reason": "GPT-5.6预览与系统卡发布，核心模型进展"
+      "reason": "GLM 5.2 在基准测试中击败 Claude，国产模型重大突破"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "sourceUrl": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "sourceUrl": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "source": "Hacker News",
-      "reason": "美国政府将决定GPT-5.6使用权，政策影响深远"
+      "reason": "用 Claude Code 解读 MRI，AI 医疗应用真实案例"
     },
     {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "sourceUrl": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "sourceUrl": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
       "source": "Hacker News",
-      "reason": "Anthropic获准向美国组织发布Mythos AI，监管动态"
+      "reason": "布朗大学教授揭露大规模 AI 作弊，教育伦理热点"
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "sourceUrl": "https://github.com/bikini/exploitarium",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "sourceUrl": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
       "source": "Hacker News",
-      "reason": "匿名GitHub账号批量泄露0-day漏洞，安全事件"
+      "reason": "福特用 AI 裁员反遭失败，企业 AI 部署教训深刻"
     },
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "sourceUrl": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "sourceUrl": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
       "source": "Hacker News",
-      "reason": "DSpark加速LLM推理，技术效率突破"
+      "reason": "央行警告 AI 热潮或引发全球金融风险，权威警示"
     }
   ],
-  "trendSummary": "本周AI圈聚焦开源项目爆发与模型迭代，同时美国拟监管GPT-5.6使用权引发热议，匿名账户批量泄露零日漏洞加剧安全隐忧。"
+  "trendSummary": "本周AI圈聚焦开源项目爆发与模型迭代加速，同时政府介入算力分配引发关注，新模型GLM 5.2在基准测试中超越Claude。"
 }
