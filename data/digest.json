@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-06-30T23:38:25.010Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-01T23:45:23.999Z",
   "picks": [
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "sourceUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "title": "Claude Sonnet 5",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
       "source": "Hacker News",
-      "reason": "GLM 5.2 在基准测试中超越 Claude，国产模型崛起"
+      "reason": "Claude新模型发布，AI领域重磅更新"
     },
     {
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "sourceUrl": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "sourceUrl": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "source": "Hacker News",
-      "reason": "央行警告AI泡沫或引发全球金融危机，影响深远"
-    },
-    {
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "sourceUrl": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "source": "Hacker News",
-      "reason": "布朗教授揭露大规模AI作弊丑闻，教育伦理引热议"
+      "reason": "Godot拒绝AI代码，引发开发社区热议"
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "sourceUrl": "https://github.com/deepreinforce-ai/Ornith-1",
       "source": "Hacker News",
-      "reason": "开源自我改进编码模型Ornith-1.0发布，实用性强"
+      "reason": "开源模型自我改进，Agent编码新突破"
     },
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "sourceUrl": "https://github.com/openai/codex/issues/2847",
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "sourceUrl": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
       "source": "Hacker News",
-      "reason": "OpenAI Codex敏感文件排除问题未解决，安全关切"
+      "reason": "非NVIDIA GPU运行CUDA应用，打破硬件壁垒"
+    },
+    {
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "sourceUrl": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "source": "Hacker News",
+      "reason": "脑机接口新进展，无创通信技术突破"
     }
   ],
-  "trendSummary": "本周开源项目密集涌现，模型竞争白热化，GLM 5.2 在基准测试中超越 Claude，同时 GPT-5.6 的监管与预览引发关注。"
+  "trendSummary": "本周开源项目密集涌现，同时大模型竞争白热化，GPT-5.6与GLM 5.2接连亮相，政府监管也悄然介入。"
 }
