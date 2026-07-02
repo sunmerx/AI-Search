@@ -1,37 +1,37 @@
 {
-  "date": "2026-07-02",
-  "generatedAt": "2026-07-01T23:45:23.999Z",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-02T23:31:13.435Z",
   "picks": [
     {
       "title": "Claude Sonnet 5",
       "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
       "source": "Hacker News",
-      "reason": "Claude新模型发布，AI领域重磅更新"
+      "reason": "Claude Sonnet 5新模型发布，性能提升显著"
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "sourceUrl": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "source": "Hacker News",
+      "reason": "日本最高法院裁定AI不能列为发明人，影响深远"
+    },
+    {
+      "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "source": "Hacker News",
+      "reason": "OpenAI或向美国政府让渡5%股份，地缘博弈关键"
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "sourceUrl": "https://senior-swe-bench.snorkel.ai/",
+      "source": "Hacker News",
+      "reason": "开源基准测试评估AI作为高级工程师的能力"
     },
     {
       "title": "Godot will no longer accept AI-authored code contributions",
       "sourceUrl": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "source": "Hacker News",
-      "reason": "Godot拒绝AI代码，引发开发社区热议"
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "sourceUrl": "https://github.com/deepreinforce-ai/Ornith-1",
-      "source": "Hacker News",
-      "reason": "开源模型自我改进，Agent编码新突破"
-    },
-    {
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "sourceUrl": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "source": "Hacker News",
-      "reason": "非NVIDIA GPU运行CUDA应用，打破硬件壁垒"
-    },
-    {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "sourceUrl": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "source": "Hacker News",
-      "reason": "脑机接口新进展，无创通信技术突破"
+      "reason": "Godot拒绝AI代码，引发开源社区伦理争议"
     }
   ],
-  "trendSummary": "本周开源项目密集涌现，同时大模型竞争白热化，GPT-5.6与GLM 5.2接连亮相，政府监管也悄然介入。"
+  "trendSummary": "本周AI圈聚焦于GPT-5.6与Claude Sonnet 5的激烈竞争，同时开源项目涌现，美国政府介入模型使用权，国产GLM 5.2在基准测试中逆袭。"
 }

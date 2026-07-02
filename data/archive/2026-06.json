@@ -6325,7 +6325,7 @@
     "sourceUrl": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
     "category": "paper",
     "publishedAt": "2026-05-15T18:06:57.000Z",
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/EP2-AI-TE_Hero_Feature_River_No_Text_1400x788.jpg",
+    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Azure-AI-Foundry_1600x900.jpg",
     "aiSelected": true,
     "origin": "rss:msr",
     "heat": 0,
@@ -25640,10 +25640,10 @@
       "ai",
       "ai-agent",
       "dev-environment",
-      "docker",
+      "developer-tools",
       "Go"
     ],
-    "heat": 705,
+    "heat": 706,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-07T23:20:16.520Z",
@@ -38259,7 +38259,7 @@
       "claude-code",
       "JavaScript"
     ],
-    "heat": 70429,
+    "heat": 71674,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-12T23:53:26.987Z",
@@ -40390,7 +40390,7 @@
       "maven-smart-system",
       "TypeScript"
     ],
-    "heat": 908,
+    "heat": 919,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-13T23:33:55.531Z",
@@ -40667,7 +40667,7 @@
       "codex",
       "JavaScript"
     ],
-    "heat": 598,
+    "heat": 600,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-13T23:33:55.531Z",
@@ -40687,7 +40687,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 106,
+    "heat": 107,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-13T23:33:55.531Z",
@@ -41292,7 +41292,7 @@
       "intelligence-report",
       "HTML"
     ],
-    "heat": 414,
+    "heat": 426,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-14T23:38:40.855Z",
@@ -43584,7 +43584,7 @@
       "anthropic",
       "Python"
     ],
-    "heat": 38,
+    "heat": 39,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-16T00:03:19.888Z",
@@ -45924,7 +45924,7 @@
       "edge-ai",
       "Python"
     ],
-    "heat": 43,
+    "heat": 44,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-16T23:49:37.157Z",
@@ -46195,7 +46195,7 @@
       "agents",
       "Python"
     ],
-    "heat": 5944,
+    "heat": 6049,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-16T23:49:37.157Z",
@@ -46215,7 +46215,7 @@
       "ai-architecture",
       "ai-engineering"
     ],
-    "heat": 34,
+    "heat": 36,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-16T23:49:37.157Z",
@@ -46290,7 +46290,7 @@
       "claude-code",
       "Java"
     ],
-    "heat": 445,
+    "heat": 446,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-16T23:49:37.157Z",
@@ -49049,7 +49049,7 @@
       "fiction-writing",
       "Go"
     ],
-    "heat": 281,
+    "heat": 287,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-17T23:51:34.474Z",
@@ -50883,7 +50883,7 @@
       "ai-video",
       "JavaScript"
     ],
-    "heat": 157,
+    "heat": 159,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-19T00:01:19.464Z",
@@ -51155,7 +51155,7 @@
       "chinese-astrology",
       "TypeScript"
     ],
-    "heat": 547,
+    "heat": 550,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-19T00:01:19.464Z",
@@ -51322,7 +51322,7 @@
       "anthropic",
       "JavaScript"
     ],
-    "heat": 4684,
+    "heat": 4885,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-19T00:01:19.464Z",
@@ -55621,7 +55621,7 @@
       "ai-coding",
       "Rust"
     ],
-    "heat": 211,
+    "heat": 216,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-22T23:44:24.245Z",
@@ -55898,7 +55898,7 @@
       "cli",
       "Python"
     ],
-    "heat": 38,
+    "heat": 44,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-22T23:44:24.245Z",
@@ -55991,7 +55991,7 @@
       "llm-observability",
       "TypeScript"
     ],
-    "heat": 24,
+    "heat": 26,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-22T23:44:24.245Z",
@@ -56033,7 +56033,7 @@
       "code-generation",
       "TypeScript"
     ],
-    "heat": 728,
+    "heat": 755,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-22T23:44:24.245Z",
@@ -57199,7 +57199,7 @@
       "embodied-ai",
       "grpo"
     ],
-    "heat": 109,
+    "heat": 111,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-23T23:31:38.783Z",
@@ -58354,7 +58354,7 @@
       "copilot",
       "Python"
     ],
-    "heat": 993,
+    "heat": 1013,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-23T23:31:38.783Z",
@@ -59075,7 +59075,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 828,
+    "heat": 829,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-24T23:35:38.045Z",
@@ -60801,7 +60801,7 @@
       "notes",
       "Python"
     ],
-    "heat": 130,
+    "heat": 140,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-27T23:18:10.906Z",
@@ -61302,7 +61302,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 178,
+    "heat": 179,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-25T23:46:58.236Z",
@@ -62395,7 +62395,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 811,
+    "heat": 812,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-25T23:46:58.236Z",
@@ -63460,7 +63460,7 @@
       "embeddings",
       "Python"
     ],
-    "heat": 56,
+    "heat": 59,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-25T23:46:58.236Z",
@@ -63760,7 +63760,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1182,
+    "heat": 1183,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65354,7 +65354,7 @@
       "local-first",
       "Svelte"
     ],
-    "heat": 136,
+    "heat": 138,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65414,7 +65414,7 @@
       "claude-code",
       "JavaScript"
     ],
-    "heat": 99,
+    "heat": 111,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65453,7 +65453,7 @@
       "backtesting",
       "TypeScript"
     ],
-    "heat": 736,
+    "heat": 1150,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65527,7 +65527,7 @@
       "deepseek",
       "TypeScript"
     ],
-    "heat": 965,
+    "heat": 1294,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65547,7 +65547,7 @@
       "diffusion-models",
       "video-editing"
     ],
-    "heat": 43,
+    "heat": 44,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65609,7 +65609,7 @@
       "credit",
       "Python"
     ],
-    "heat": 506,
+    "heat": 522,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -65630,7 +65630,7 @@
       "codex",
       "TypeScript"
     ],
-    "heat": 1724,
+    "heat": 1791,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-26T23:35:37.585Z",
@@ -66437,7 +66437,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1104,
+    "heat": 1105,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-28T23:20:22.762Z",
@@ -66646,7 +66646,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 161,
+    "heat": 162,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-28T23:20:22.762Z",
@@ -66959,7 +66959,7 @@
       "japan",
       "TypeScript"
     ],
-    "heat": 109,
+    "heat": 111,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-30T23:38:12.001Z",
@@ -67017,7 +67017,7 @@
       "hnsw",
       "Rust"
     ],
-    "heat": 31,
+    "heat": 32,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-28T23:20:22.762Z",
@@ -67231,7 +67231,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 79,
+    "heat": 80,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-29T23:17:15.668Z",
@@ -68197,7 +68197,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 84,
+    "heat": 85,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-29T23:17:15.668Z",
@@ -69538,7 +69538,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 1233,
+    "heat": 1253,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-30T23:38:12.001Z",
@@ -69846,7 +69846,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 55,
+    "heat": 56,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-06-30T23:38:12.001Z",
@@ -71195,7 +71195,7 @@
       "benchmarking",
       "HTML"
     ],
-    "heat": 149,
+    "heat": 151,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-30T23:38:12.001Z",
@@ -71521,7 +71521,7 @@
       "anthropic",
       "HTML"
     ],
-    "heat": 151,
+    "heat": 153,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-30T23:38:12.001Z",
@@ -71584,7 +71584,7 @@
       "anthropic-api",
       "HTML"
     ],
-    "heat": 154,
+    "heat": 157,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-06-30T23:38:12.001Z",
