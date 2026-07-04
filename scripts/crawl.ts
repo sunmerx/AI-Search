@@ -20,6 +20,7 @@ import { arxiv } from "./sources/arxiv";
 import { github } from "./sources/github";
 import { hackernews } from "./sources/hackernews";
 import { hfPapers } from "./sources/hfPapers";
+import { deals } from "./sources/deals";
 import { rssAdapters } from "./sources/rss";
 import type { SourceAdapter } from "./sources/types";
 
@@ -32,7 +33,7 @@ export interface CrawlResult {
 }
 
 function selectAdapters(only: string[]): SourceAdapter[] {
-  const universe: SourceAdapter[] = [hfPapers, github, hackernews, ...rssAdapters, arxiv];
+  const universe: SourceAdapter[] = [deals, hfPapers, github, hackernews, ...rssAdapters, arxiv];
   if (only.length > 0) {
     return universe.filter((a) => only.some((o) => a.id === o || a.id.startsWith(o)));
   }
