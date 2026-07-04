@@ -18,33 +18,25 @@ interface FeedDef {
 // model labs, research blogs, the tech press, and community. Each is fetched
 // independently — a single dead feed never sinks the crawl.
 const FEEDS: FeedDef[] = [
-  // —— 中文 ——
-  { id: "rss:qbitai", label: "量子位", url: "https://www.qbitai.com/feed", source: "量子位", category: "ai-products" },
-  { id: "rss:36kr", label: "36氪", url: "https://36kr.com/feed", source: "36氪", category: "industry", aiOnly: true },
-  { id: "rss:infoq", label: "InfoQ", url: "https://www.infoq.cn/feed", source: "InfoQ", category: "industry", aiOnly: true },
-  { id: "rss:sspai", label: "少数派", url: "https://sspai.com/feed", source: "少数派", category: "ai-products", aiOnly: true },
-  { id: "rss:ithome", label: "IT之家", url: "https://www.ithome.com/rss/", source: "IT之家", category: "industry", aiOnly: true },
-
-  // —— 模型实验室 / 研究机构 ——
-  { id: "rss:nvidia", label: "NVIDIA Blog", url: "https://blogs.nvidia.com/feed/", source: "NVIDIA", category: "ai-models", aiOnly: true },
+  // —— 模型实验室 ——
   { id: "rss:openai", label: "OpenAI News", url: "https://openai.com/news/rss.xml", source: "OpenAI", category: "ai-models" },
   { id: "rss:google-ai", label: "Google AI Blog", url: "https://blog.google/technology/ai/rss/", source: "Google AI", category: "ai-models" },
   { id: "rss:deepmind", label: "Google DeepMind", url: "https://deepmind.google/blog/rss.xml", source: "Google DeepMind", category: "ai-models" },
-  { id: "rss:hf-blog", label: "HuggingFace Blog", url: "https://huggingface.co/blog/feed.xml", source: "HuggingFace Blog", category: "tip" },
+  { id: "rss:anthropic", label: "Anthropic", url: "https://www.anthropic.com/rss/feed.xml", source: "Anthropic", category: "ai-models" },
+  { id: "rss:meta-ai", label: "Meta AI", url: "https://ai.meta.com/blog/rss.xml", source: "Meta AI", category: "ai-models" },
+  { id: "rss:nvidia", label: "NVIDIA Blog", url: "https://blogs.nvidia.com/feed/", source: "NVIDIA", category: "ai-models", aiOnly: true },
+  { id: "rss:hf-blog", label: "HuggingFace Blog", url: "https://huggingface.co/blog/feed.xml", source: "HuggingFace Blog", category: "ai-models" },
+
+  // —— Agent / MCP 公司 ——
+  { id: "rss:anthropic-mcp", label: "Anthropic MCP", url: "https://modelcontextprotocol.io/feed.xml", source: "MCP", category: "ai-products" },
+  { id: "rss:openai-agents", label: "OpenAI Agents", url: "https://openai.com/feed/agents.xml", source: "OpenAI Agents", category: "ai-products" },
+  { id: "rss:cursor", label: "Cursor Blog", url: "https://www.cursor.com/feed.xml", source: "Cursor", category: "ai-products" },
+  { id: "rss:devin", label: "Devin Blog", url: "https://devin.ai/feed.xml", source: "Devin", category: "ai-products" },
+  { id: "rss:claude-code", label: "Claude Code", url: "https://docs.anthropic.com/en/docs/claude-code/rss.xml", source: "Claude Code", category: "ai-products" },
+
+  // —— 研究 / 技术博客 ——
   { id: "rss:bair", label: "BAIR Blog", url: "https://bair.berkeley.edu/blog/feed.xml", source: "Berkeley AI Research", category: "paper" },
-  { id: "rss:mit-news-ai", label: "MIT News AI", url: "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml", source: "MIT News", category: "industry" },
-
-  // —— 科技媒体 AI 频道 ——
-  { id: "rss:theverge-ai", label: "The Verge AI", url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", source: "The Verge", category: "industry" },
-  { id: "rss:techcrunch-ai", label: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", source: "TechCrunch", category: "industry" },
-  { id: "rss:venturebeat-ai", label: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", source: "VentureBeat", category: "industry" },
-  { id: "rss:arstechnica-ai", label: "Ars Technica AI", url: "https://arstechnica.com/ai/feed/", source: "Ars Technica", category: "industry" },
-  { id: "rss:techreview-ai", label: "MIT Tech Review AI", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", source: "MIT Tech Review", category: "industry" },
-
-  // —— 社区 / 个人 ——
   { id: "rss:simonwillison", label: "Simon Willison", url: "https://simonwillison.net/atom/everything/", source: "Simon Willison", category: "tip", aiOnly: true },
-
-  // —— 研究 / 社区扩充 ——
   { id: "rss:aws-ml", label: "AWS ML Blog", url: "https://aws.amazon.com/blogs/machine-learning/feed/", source: "AWS ML", category: "tip" },
   { id: "rss:msr", label: "Microsoft Research", url: "https://www.microsoft.com/en-us/research/feed/", source: "Microsoft Research", category: "paper", aiOnly: true },
   { id: "rss:lilianweng", label: "Lil'Log", url: "https://lilianweng.github.io/index.xml", source: "Lilian Weng", category: "tip" },

@@ -32,6 +32,9 @@ const FREE_TOPICS = [
   "free-llm-api",
   "free-ai-api",
   "free-models",
+  "free-mcp",
+  "free-agent",
+  "free-tools",
 ];
 
 const DAYS = 7; // only last 7 days for fresh deals

@@ -19,7 +19,10 @@ interface GHSearch {
 
 const TOPICS = (
   process.env.GITHUB_TOPICS ||
-  "llm,ai-agent,generative-ai,rag,llmops,agents,diffusion-models,multimodal"
+  "llm,ai-agent,generative-ai,rag,llmops,agents,diffusion-models,multimodal," +
+  "mcp,model-context-protocol,mcp-server,mcp-client," +
+  "ai-skill,agent-skill,agent-framework," +
+  "ai-tool,function-calling,tool-use,agentic"
 )
   .split(",")
   .map((t) => t.trim())
