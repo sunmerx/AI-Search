@@ -6693,7 +6693,7 @@
     "source": "Cursor",
     "sourceUrl": "https://www.cursor.com/changelog",
     "category": "ai-products",
-    "publishedAt": "2026-07-04T07:29:34.431Z",
+    "publishedAt": "2026-07-04T07:31:21.923Z",
     "tags": [
       "cursor",
       "IDE",
@@ -6701,7 +6701,7 @@
     ],
     "aiSelected": true,
     "origin": "deals",
-    "heat": 27,
+    "heat": 29,
     "firstSeen": "2026-07-04T07:29:36.068Z",
     "aiNote": null
   },
@@ -6735,7 +6735,7 @@
       "free",
       "HTML"
     ],
-    "heat": 17,
+    "heat": 24,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6777,7 +6777,7 @@
       "free",
       "HTML"
     ],
-    "heat": 23,
+    "heat": 28,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7048,7 +7048,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 11,
+    "heat": 16,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7103,7 +7103,7 @@
       "free",
       "Python"
     ],
-    "heat": 22,
+    "heat": 25,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7144,7 +7144,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 12,
+    "heat": 29,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7165,7 +7165,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 22,
+    "heat": 16,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7226,7 +7226,7 @@
       "free",
       "Python"
     ],
-    "heat": 10,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7247,7 +7247,7 @@
       "free",
       "Python"
     ],
-    "heat": 25,
+    "heat": 27,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7268,7 +7268,7 @@
       "free",
       "Python"
     ],
-    "heat": 23,
+    "heat": 28,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7310,7 +7310,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 26,
+    "heat": 21,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7331,7 +7331,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 15,
+    "heat": 17,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7461,6 +7461,27 @@
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-07-04T07:29:36.068Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-32a6f05d1e",
+    "title": "🆓 WilliamRamirez3382/lowcost-gpt-api-relay",
+    "summary": "[免费/开源] 低成本 GPT API relay 资源仓库，整理 GPT-5、GPT-4o、Claude、Gemini、DeepSeek、Qwen、Llama、Grok 等 API 中转路线。",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/WilliamRamirez3382/lowcost-gpt-api-relay",
+    "category": "ai-models",
+    "publishedAt": "2026-07-04T06:56:57Z",
+    "tags": [
+      "ai-gateway",
+      "ai-relay",
+      "aigc",
+      "free",
+      "HTML"
+    ],
+    "heat": 27,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:31:24.664Z",
     "aiNote": null
   }
 ]
