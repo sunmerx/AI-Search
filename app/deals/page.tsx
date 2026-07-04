@@ -6,7 +6,7 @@ import { abs } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "AI 平台导航 & 优惠信息",
-  description: "全球 AI 平台目录导航 + 最新免费额度/优惠信息汇总。覆盖大模型、API中转、云平台、Agent/IDE 等。",
+  description: "全球 AI 平台目录导航 + 最新免费额度/优惠信息汇总（已核验）。覆盖大模型、API中转、云平台、Agent/IDE 等。",
   alternates: { canonical: abs("/deals") },
 };
 
@@ -59,7 +59,7 @@ const PLATFORM_CATEGORIES: { title: string; icon: string; items: Platform[] }[] 
   {
     title: "云平台(AI服务)", icon: "☁️",
     items: [
-      { name: "AWS", url: "https://aws.amazon.com/free", free: "新用户 $200(30天)", how: "绑卡→可用于Bedrock" },
+      { name: "AWS", url: "https://aws.amazon.com/free", free: "新用户 $200(6个月)", how: "绑卡→可用于Bedrock" },
       { name: "Azure", url: "https://azure.microsoft.com/free", free: "新用户 $200(30天)", how: "绑卡→可用于OpenAI" },
       { name: "Google Cloud", url: "https://cloud.google.com/free", free: "新用户 $300(90天)", how: "绑卡→可用于Vertex AI" },
       { name: "阿里云", url: "https://aliyun.com", free: "新用户免费额度", how: "含通义千问API" },
