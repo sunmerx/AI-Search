@@ -39,6 +39,11 @@ const PLATFORM_CATEGORIES: { title: string; icon: string; items: Platform[] }[] 
       { name: "百川智能", url: "https://baichuan-ai.com", free: "百川免费API" },
       { name: "MiniMax", url: "https://minimax.com", free: "免费API额度" },
       { name: "Stability AI", url: "https://stability.ai", free: "SD 系列开源免费" },
+      { name: "xAI (Grok)", url: "https://x.ai", free: "Grok 免费使用(X用户)", how: "X平台免费有限次" },
+      { name: "Perplexity AI", url: "https://perplexity.ai", free: "免费版(有限搜索)", how: "Pro $20/月" },
+      { name: "面壁智能 (MiniCPM)", url: "https://modelbest.cn", free: "MiniCPM 开源免费" },
+      { name: "上海AI实验室 (InternLM)", url: "https://internlm.intern-ai.org.cn", free: "书生系列开源免费" },
+      { name: "昆仑万维 (天工)", url: "https://skywork.com", free: "天工免费使用" },
     ],
   },
   {
@@ -82,6 +87,11 @@ const PLATFORM_CATEGORIES: { title: string; icon: string; items: Platform[] }[] 
       { name: "Lovable", url: "https://lovable.dev", free: "免费版" },
       { name: "v0.dev", url: "https://v0.dev", free: "免费版(有限)", how: "Vercel出品" },
       { name: "Manus", url: "https://manus.im", free: "" },
+      { name: "Augment Code", url: "https://augmentcode.com", free: "免费版" },
+      { name: "Continue.dev", url: "https://continue.dev", free: "开源免费", how: "VS Code/JetBrains插件" },
+      { name: "Roo Code", url: "https://github.com/RooVetGit/Roo-Code", free: "开源免费" },
+      { name: "Poe", url: "https://poe.com", free: "免费版(有限)", how: "Quora出品" },
+      { name: "Phind", url: "https://phind.com", free: "免费版(有限)", how: "AI搜索引擎" },
     ],
   },
   {
