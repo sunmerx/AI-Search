@@ -35,6 +35,10 @@ const FREE_TOPICS = [
   "free-mcp",
   "free-agent",
   "free-tools",
+  "free-tier",
+  "ai-free",
+  "free-llm",
+  "free-credits",
 ];
 
 const DAYS = 7; // only last 7 days for fresh deals
@@ -162,6 +166,88 @@ async function fetchHFFreeModels(): Promise<AIItem[]> {
   return out;
 }
 
+/* ── Search for known free-credit / free-tier aggregator repos ── */
+
+async function fetchFreeCreditRepos(): Promise<AIItem[]> {
+  const out: AIItem[] = [];
+  const queries = [
+    "free ai api list",
+    "free llm api collection",
+    "free gpt api",
+    "ai free tier list",
+    "free model api",
+    "free ai credits",
+  ];
+  for (const q of queries) {
+    try {
+      const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=3`;
+      const data = await getJson<GHSearch>(url, ghHeaders());
+      for (const r of data.items || []) {
+        out.push({
+          id: `credit-${hashId("credit", r.full_name)}`,
+          title: `💰 ${r.full_name}`,
+          summary: r.description ? truncate(`[免费额度汇总] ${r.description}`, 160) : "免费 AI 额度/API 汇总",
+          source: "GitHub Free Credits",
+          sourceUrl: r.html_url,
+          category: "ai-products",
+          publishedAt: r.created_at,
+          tags: ["free", "credits", "api", r.language].filter(Boolean) as string[],
+          heat: r.stargazers_count,
+          aiSelected: true,
+          origin: "deals",
+        });
+      }
+    } catch (e) {
+      console.warn(`[deals] Credit search "${q}" failed:`, e);
+    }
+  }
+  return out;
+}
+
+/* ── Fetch known deal/offer pages (lightweight) ── */
+
+async function fetchPricingDeals(): Promise<AIItem[]> {
+  const out: AIItem[] = [];
+  const targets: { id: string; label: string; url: string; source: string }[] = [
+    { id: "cursor-pricing", label: "Cursor Pricing", url: "https://www.cursor.com/pricing", source: "Cursor" },
+    { id: "devin-pricing", label: "Devin Pricing", url: "https://devin.ai/pricing", source: "Devin" },
+    { id: "openrouter-pricing", label: "OpenRouter", url: "https://openrouter.ai/pricing", source: "OpenRouter" },
+    { id: "groq-pricing", label: "Groq", url: "https://console.groq.com/docs/rate-limits", source: "Groq" },
+  ];
+  for (const t of targets) {
+    try {
+      const html = await getText(t.url);
+      // Look for dollar amounts + "free" keywords
+      const amounts = html.match(/\$\d+/g) || [];
+      const hasFree = /free/i.test(html);
+      const hasCredit = /credit/i.test(html);
+      const hasTrial = /trial/i.test(html);
+      const hints = [
+        hasFree ? "免费" : null,
+        hasCredit ? "有额度" : null,
+        hasTrial ? "可试用" : null,
+        amounts.length > 0 ? `价格: ${amounts.slice(0, 3).join(", ")}` : null,
+      ].filter(Boolean).join(" · ") || "价格信息";
+      out.push({
+        id: `deal-pricing-${t.id}`,
+        title: `💳 ${t.label}`,
+        summary: hints,
+        source: t.source,
+        sourceUrl: t.url,
+        category: "ai-products",
+        publishedAt: new Date().toISOString(),
+        tags: ["pricing", "free", "deals"],
+        heat: 15,
+        aiSelected: true,
+        origin: "deals",
+      });
+    } catch (e) {
+      console.warn(`[deals] Pricing fetch "${t.id}" failed:`, e);
+    }
+  }
+  return out;
+}
+
 /* ── Adapter ── */
 
 export const deals: SourceAdapter = {
@@ -172,6 +258,8 @@ export const deals: SourceAdapter = {
       fetchGitHubFreeRepos(),
       fetchCursorChangelog(),
       fetchHFFreeModels(),
+      fetchFreeCreditRepos(),
+      fetchPricingDeals(),
     ]);
     const all: AIItem[] = [];
     for (const r of results) {
