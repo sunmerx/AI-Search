@@ -2559,7 +2559,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 158,
+    "heat": 159,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -4833,7 +4833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 194,
+    "heat": 199,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -4991,7 +4991,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 258,
+    "heat": 261,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5053,7 +5053,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 324,
+    "heat": 329,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5489,7 +5489,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 510,
+    "heat": 512,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6220,7 +6220,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 62,
+    "heat": 63,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6735,7 +6735,7 @@
       "free",
       "HTML"
     ],
-    "heat": 24,
+    "heat": 23,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6777,7 +6777,7 @@
       "free",
       "HTML"
     ],
-    "heat": 28,
+    "heat": 27,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6794,7 +6794,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 53,
+    "heat": 74,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6931,7 +6931,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 60,
+    "heat": 62,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6993,7 +6993,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 118,
+    "heat": 123,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7010,7 +7010,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 50,
+    "heat": 51,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7027,7 +7027,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 191,
+    "heat": 199,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7048,7 +7048,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 16,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7065,7 +7065,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 211,
+    "heat": 218,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7082,7 +7082,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 90,
+    "heat": 91,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7103,7 +7103,7 @@
       "free",
       "Python"
     ],
-    "heat": 25,
+    "heat": 17,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7144,7 +7144,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 29,
+    "heat": 13,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7165,7 +7165,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 16,
+    "heat": 20,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7226,7 +7226,7 @@
       "free",
       "Python"
     ],
-    "heat": 11,
+    "heat": 26,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7247,7 +7247,7 @@
       "free",
       "Python"
     ],
-    "heat": 27,
+    "heat": 21,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7268,7 +7268,7 @@
       "free",
       "Python"
     ],
-    "heat": 28,
+    "heat": 24,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7289,7 +7289,7 @@
       "free",
       "Python"
     ],
-    "heat": 19,
+    "heat": 17,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7310,7 +7310,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 21,
+    "heat": 13,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7331,7 +7331,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 17,
+    "heat": 15,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7478,10 +7478,2299 @@
       "free",
       "HTML"
     ],
-    "heat": 27,
+    "heat": 24,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:31:24.664Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-cursor-cursor-fcc8f5b448",
+    "title": "⚡ Cursor: #Cloud environment setup",
+    "summary": "3.7 Jun 17, 2026 · Changelog",
+    "source": "Cursor",
+    "sourceUrl": "https://www.cursor.com/changelog",
+    "category": "ai-products",
+    "publishedAt": "2026-07-04T07:51:26.881Z",
+    "tags": [
+      "cursor",
+      "IDE",
+      "更新"
+    ],
+    "aiSelected": true,
+    "origin": "deals",
+    "heat": 28,
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-dad02ba622",
+    "title": "🆓 yourhack-ai/yourhack-api",
+    "summary": "[免费/开源] Free, no-auth REST API + machine-readable catalog for yourhack.ai: 568 browser-based tools (calculators, converters, developer, crypto, SEO and more). N…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/yourhack-ai/yourhack-api",
+    "category": "ai-products",
+    "publishedAt": "2026-07-03T13:31:47Z",
+    "tags": [
+      "api",
+      "calculators",
+      "converters",
+      "free",
+      "JavaScript"
+    ],
+    "heat": 29,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-243d23414d",
+    "title": "🆓 eliteandhonor/access-free-tools",
+    "summary": "[免费/开源] Public profile for Access Free Tools, a free online calculators, converters, and practical browser tools library.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/eliteandhonor/access-free-tools",
+    "category": "ai-products",
+    "publishedAt": "2026-07-03T00:19:38Z",
+    "tags": [
+      "browser-tools",
+      "calculators",
+      "converters",
+      "free"
+    ],
+    "heat": 21,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-6d9472c3c3",
+    "title": "🆓 rajivbanik13/fastprivatepdf",
+    "summary": "[免费/开源] Free browser-based PDF tools for Indian users — no upload, no server",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/rajivbanik13/fastprivatepdf",
+    "category": "ai-products",
+    "publishedAt": "2026-07-02T18:57:13Z",
+    "tags": [
+      "aadhaar",
+      "browser-based",
+      "free-tools",
+      "free"
+    ],
+    "heat": 23,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-axiom-of-choice-llama-index-tools-searchapi",
+    "title": "axiom-of-choice/llama-index-tools-searchapi",
+    "summary": "LlamaIndex tool integration for SearchApi.io — multi-engine web search (Google, News, Shopping, YouTube, Bing, Baidu)",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/axiom-of-choice/llama-index-tools-searchapi",
+    "category": "ai-products",
+    "publishedAt": "2026-07-02T14:37:29Z",
+    "tags": [
+      "ai-agents",
+      "llamaindex",
+      "llm",
+      "rag",
+      "Python"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yrris-pro-agent",
+    "title": "yrris/pro-agent",
+    "summary": "多智能体协作应用平台",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yrris/pro-agent",
+    "category": "ai-products",
+    "publishedAt": "2026-07-02T04:11:56Z",
+    "tags": [
+      "agent-skills",
+      "agentic-rag",
+      "agentic-workflow",
+      "autonomous-agents",
+      "Python"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-tormento416-resume-me",
+    "title": "Tormento416/Resume_Me",
+    "summary": "AI-powered resume QA chatbot for the masses- LLM Agnostic(currently using Gemini),  make it your own, conversational memory, deployed on Vercel but any serverle…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Tormento416/Resume_Me",
+    "category": "ai-products",
+    "publishedAt": "2026-07-01T18:31:39Z",
+    "tags": [
+      "ai",
+      "ai-tool",
+      "generative-ai",
+      "javascript",
+      "JavaScript"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-antgroup-napaxi",
+    "title": "antgroup/Napaxi",
+    "summary": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/antgroup/Napaxi",
+    "category": "ai-products",
+    "publishedAt": "2026-07-01T02:45:48Z",
+    "tags": [
+      "agent-framework",
+      "ai",
+      "ai-agent",
+      "android",
+      "Rust"
+    ],
+    "heat": 24,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-rendeverance-toolfunnel",
+    "title": "Rendeverance/toolfunnel",
+    "summary": "A zero-dependency MCP gateway: host your own tools, forward and curate tools from other MCP servers, expose them leanly to cut agent token cost, and gate every…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Rendeverance/toolfunnel",
+    "category": "ai-products",
+    "publishedAt": "2026-06-29T13:31:36Z",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "mcp",
+      "mcp-client",
+      "JavaScript"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-oomol-lab-open-connector",
+    "title": "oomol-lab/open-connector",
+    "summary": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/oomol-lab/open-connector",
+    "category": "ai-products",
+    "publishedAt": "2026-06-29T10:49:36Z",
+    "tags": [
+      "agent-tools",
+      "ai-agents",
+      "api-gateway",
+      "automation",
+      "TypeScript"
+    ],
+    "heat": 66,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yanliudesign-behavior-question-skill",
+    "title": "yanliudesign/behavior-question-skill",
+    "summary": "Claude skill for behavioral interview prep — mine real experiences, structure them with STAR/CAR, and build a reusable bilingual story bank. JD-driven mode reve…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yanliudesign/behavior-question-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-29T02:15:16Z",
+    "tags": [
+      "ai-skill",
+      "behavioral-interview",
+      "behavioral-questions",
+      "career",
+      "HTML"
+    ],
+    "heat": 12,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yanliudesign-resume-builder-skill",
+    "title": "yanliudesign/resume-builder-skill",
+    "summary": "Claude skill for generating and beautifying resumes — 11 print-ready HTML templates, structured data pipeline, three entry flows (beautify / LinkedIn import / c…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yanliudesign/resume-builder-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-29T00:10:07Z",
+    "tags": [
+      "ai-skill",
+      "ats",
+      "career",
+      "claude-skill",
+      "HTML"
+    ],
+    "heat": 9,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-skerry699-agent-symphony",
+    "title": "skerry699/agent-symphony",
+    "summary": "Multi-Agent AI Task Orchestrator 2026",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/skerry699/agent-symphony",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T20:52:33Z",
+    "tags": [
+      "agent-economy",
+      "agent-framework",
+      "agentic-ai-autonomous-agents",
+      "ai-agents-multi-agent-systems",
+      "HTML"
+    ],
+    "heat": 153,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-reunios2024-cortex-sentinel-trading-nexus",
+    "title": "reunios2024/cortex-sentinel-trading-nexus",
+    "summary": "Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/reunios2024/cortex-sentinel-trading-nexus",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T20:34:53Z",
+    "tags": [
+      "agentic",
+      "ai-trading",
+      "algorithmic-trading",
+      "claude",
+      "HTML"
+    ],
+    "heat": 152,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-dhapat3927-mcp-edd-analytics-vantage",
+    "title": "dhapat3927/mcp-edd-analytics-vantage",
+    "summary": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T20:17:31Z",
+    "tags": [
+      "easy-digital-downloads",
+      "ecommerce",
+      "edd",
+      "mcp",
+      "HTML"
+    ],
+    "heat": 151,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-dbf6df9869",
+    "title": "🆓 yv1cs/awesome-free-tools",
+    "summary": "免费 AI 相关开源项目",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/yv1cs/awesome-free-tools",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T19:29:45Z",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "free-tools",
+      "free"
+    ],
+    "heat": 21,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-pakgik01-ask-expert-consult-mcp",
+    "title": "pakgik01/ask-expert-consult-mcp",
+    "summary": "Open Source AI Expert Agent Bridge for Cursor 2026",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/pakgik01/ask-expert-consult-mcp",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T19:24:57Z",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "claude-opus",
+      "coding-agent",
+      "HTML"
+    ],
+    "heat": 151,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-andreilungeanu-cursor-delegate-mcp",
+    "title": "andreilungeanu/cursor-delegate-mcp",
+    "summary": "Use Cursor from inside Claude Code. Delegate a coding task to Cursor's agent, get structured results back, and let Claude stay in the driver's seat.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/andreilungeanu/cursor-delegate-mcp",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T15:09:44Z",
+    "tags": [
+      "acp",
+      "agent-client-protocol",
+      "agents",
+      "claude-code",
+      "JavaScript"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-israriqbal-agent-ecologies",
+    "title": "israriqbal/agent-ecologies",
+    "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/israriqbal/agent-ecologies",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T13:04:32Z",
+    "tags": [
+      "agent-framework",
+      "ai-agent",
+      "ai-simulation",
+      "anthropic",
+      "HTML"
+    ],
+    "heat": 152,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-1f15b4fb85",
+    "title": "🆓 ARNOB01719/ahx",
+    "summary": "[免费/开源] AHX — 27 Free Online Tools (Privacy-First, No Signup). QR generator, password generator, image compressor, PDF merger, and more. https://ahx-tau.vercel.…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/ARNOB01719/ahx",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T10:36:30Z",
+    "tags": [
+      "free-tools",
+      "hash-generator",
+      "image-compressor",
+      "free",
+      "JavaScript"
+    ],
+    "heat": 11,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-burri-ritvik-fastmcp-endpoint-toolsets",
+    "title": "burri-ritvik/fastmcp-endpoint-toolsets",
+    "summary": "One FastMCP server, one port — expose each tool group at its own native MCP URL, so every agent sees only the tools it needs. No proxy, no gateway.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/burri-ritvik/fastmcp-endpoint-toolsets",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T10:26:06Z",
+    "tags": [
+      "agentic-ai",
+      "ai-tools",
+      "context-window",
+      "context-window-optimizer",
+      "HTML"
+    ],
+    "heat": 3,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-1829a8ae2c",
+    "title": "🆓 Massideation/agent-grows-up",
+    "summary": "[免费/开源] The public diary and profile of Ava, an Evo built with FreeAgent. It wakes on a schedule, learns, and posts progress.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/Massideation/agent-grows-up",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T02:42:12Z",
+    "tags": [
+      "free-agent",
+      "free",
+      "HTML"
+    ],
+    "heat": 24,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-jordanaftermidnight-iris-project",
+    "title": "jordanaftermidnight/IRIS_project",
+    "summary": "IRIS — Integrated Runtime Intelligence Service. Multi-provider AI router with MCP server (13 tools), 16 providers (5 native + 11 OpenAI-compatible registry), co…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/jordanaftermidnight/IRIS_project",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T16:57:25Z",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "ai-router",
+      "anthropic",
+      "JavaScript"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-73404c121b",
+    "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "category": "industry",
+    "publishedAt": "2026-06-27T16:16:20Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 41,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-bayway-janusmcp",
+    "title": "Bayway/janusmcp",
+    "summary": "Local, open-source multi-account MCP broker — one endpoint, every account. Add credentials once and switch identity without reconnecting, from any LLM client.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Bayway/janusmcp",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T15:07:15Z",
+    "tags": [
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "Go"
+    ],
+    "heat": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ray-code-svg-supernovaagent",
+    "title": "Ray-Code-Svg/SuperNovaAgent",
+    "summary": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed proto…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T11:58:48Z",
+    "tags": [
+      "agent-framework",
+      "agent-orchestration",
+      "desktop-application",
+      "harness-engineering",
+      "Rust"
+    ],
+    "heat": 129,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-madeval-anglecraft",
+    "title": "MADEVAL/AngleCraft",
+    "summary": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/MADEVAL/AngleCraft",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T10:33:05Z",
+    "tags": [
+      "agent-skill",
+      "ai-skill",
+      "anglecraft",
+      "content-creation"
+    ],
+    "heat": 46,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-kerlenton-mcpsnoop",
+    "title": "kerlenton/mcpsnoop",
+    "summary": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/kerlenton/mcpsnoop",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T10:25:09Z",
+    "tags": [
+      "bubbletea",
+      "claude",
+      "cli",
+      "codex",
+      "Go"
+    ],
+    "heat": 156,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-eli-labz-godcoder",
+    "title": "eli-labz/Godcoder",
+    "summary": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. Th…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/eli-labz/Godcoder",
+    "category": "ai-products",
+    "publishedAt": "2026-06-27T00:56:36Z",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "desktop-app",
+      "llm",
+      "Rust"
+    ],
+    "heat": 278,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-xiaohuailabs-xiaohu-ip-studio",
+    "title": "xiaohuailabs/xiaohu-ip-studio",
+    "summary": "开源中文配图技能 + IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/xiaohuailabs/xiaohu-ip-studio",
+    "category": "ai-products",
+    "publishedAt": "2026-06-26T00:49:42Z",
+    "tags": [
+      "agent-skill",
+      "ai-illustration",
+      "character-design",
+      "chinese",
+      "HTML"
+    ],
+    "heat": 229,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-pattern-ai-labs-swaram-apps",
+    "title": "pattern-ai-labs/swaram-apps",
+    "summary": "Voice applications built using swaram.live — the real-time Malayalam voice API.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/pattern-ai-labs/swaram-apps",
+    "category": "ai-products",
+    "publishedAt": "2026-06-25T14:52:52Z",
+    "tags": [
+      "function-calling",
+      "malayalam",
+      "malayalam-model-api",
+      "malayalam-voice",
+      "TypeScript"
+    ],
+    "heat": 13,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-lidienfu-seven-layer-prompt",
+    "title": "LidienFu/seven-layer-prompt",
+    "summary": "A 7-layer scaffold for production AI agent system prompts. Security-first, multi-tenant by design.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/LidienFu/seven-layer-prompt",
+    "category": "ai-products",
+    "publishedAt": "2026-06-25T04:25:53Z",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "llm",
+      "llm-security",
+      "Python"
+    ],
+    "heat": 10,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-nickalaslight-vibeharness",
+    "title": "NickalasLight/VibeHarness",
+    "summary": "A tiny, dependency-free Ralph-loop agent harness for small local models (VibeThinker-3B via Ollama).",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/NickalasLight/VibeHarness",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T22:44:46Z",
+    "tags": [
+      "agent",
+      "ai-agent",
+      "cli",
+      "coding-agent",
+      "Python"
+    ],
+    "heat": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-badchars-darknet-mcp-server",
+    "title": "badchars/darknet-mcp-server",
+    "summary": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/badchars/darknet-mcp-server",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T18:45:38Z",
+    "tags": [
+      "ai-agent",
+      "breach",
+      "claude",
+      "cybersecurity",
+      "TypeScript"
+    ],
+    "heat": 190,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-code-monkeyzhang-persona-agent-marketplace",
+    "title": "Code-MonkeyZhang/persona-agent-marketplace",
+    "summary": "persona-agent official marketplace",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Code-MonkeyZhang/persona-agent-marketplace",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T10:17:31Z",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "Python"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ggauravj05-build-your-own-agent",
+    "title": "GgauravJ05/build-your-own-agent",
+    "summary": "A step-by-step hands-on guide to building a tool-using AI Agent from scratch in Python with the Google Gemini API. Zero heavy frameworks, just core concepts.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/GgauravJ05/build-your-own-agent",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T07:33:15Z",
+    "tags": [
+      "ai-agents",
+      "education",
+      "function-calling",
+      "gemini-api",
+      "Python"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-tiagomonteiro0715-pessoa",
+    "title": "tiagomonteiro0715/pessoa",
+    "summary": "Pessoa: Local, LLM Agnostic AI Agent Infrastructure",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/tiagomonteiro0715/pessoa",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T05:52:28Z",
+    "tags": [
+      "ai",
+      "api",
+      "api-rest",
+      "attention-mechanism",
+      "Python"
+    ],
+    "heat": 3,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yuuhann1999-codex-storyboard",
+    "title": "Yuuhann1999/codex-storyboard",
+    "summary": "本地多项目 Codex 视频分镜工作台，支持图片/视频生成任务、HyperFrames 与 Remotion 自动回填。Local multi-project storyboard workspace for Codex.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Yuuhann1999/codex-storyboard",
+    "category": "ai-products",
+    "publishedAt": "2026-06-23T02:09:36Z",
+    "tags": [
+      "ai-video",
+      "codex",
+      "mcp",
+      "openai",
+      "JavaScript"
+    ],
+    "heat": 197,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yanliudesign-job-description-skill",
+    "title": "yanliudesign/job-description-skill",
+    "summary": "Claude skill that reads a job description and hands back an HTML report — match score, resume tailor, interview predictor, and a should-I-apply verdict.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yanliudesign/job-description-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T23:00:03Z",
+    "tags": [
+      "ai-skill",
+      "career",
+      "claude-skill",
+      "interview-prep"
+    ],
+    "heat": 50,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-trifillara-moltis-gateway-mcp",
+    "title": "trifillara/moltis-gateway-mcp",
+    "summary": "personal agent server mcp with multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams | mcp server of several socials",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/trifillara/moltis-gateway-mcp",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T22:05:20Z",
+    "tags": [
+      "mcp",
+      "mcp-agent",
+      "mcp-provider",
+      "mcp-server",
+      "Rust"
+    ],
+    "heat": 98,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-skwijeratne-agentix-toolkit",
+    "title": "skwijeratne/agentix-toolkit",
+    "summary": "A generic, batteries-included, async-first agent toolkit — configurable loop, tools, security guards, streaming, persistence, and MCP. Import as 'agentix'.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/skwijeratne/agentix-toolkit",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T18:28:40Z",
+    "tags": [
+      "agent",
+      "agent-framework",
+      "agentic",
+      "agents",
+      "Python"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-luckyonetwothree-harness-all",
+    "title": "LuckyOneTwoThree/harness-all",
+    "summary": "🪢 Multi-Agent framework family for AI-powered product development — PM · Design · Engineering · Growth · Ops | 面向 AI 原生产品开发的多智能体（Multi-Agent）框架家族 — 覆盖产品 · 设计 ·…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/LuckyOneTwoThree/harness-all",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T14:20:02Z",
+    "tags": [
+      "agent-framework",
+      "ai-agent",
+      "contract-driven",
+      "harness",
+      "PowerShell"
+    ],
+    "heat": 18,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-claudiu-deving-workflow-atlas",
+    "title": "claudiu-deving/workflow-atlas",
+    "summary": "Visualize development workflows and animate algorithms as step-by-step storyboards. Zero-dependency local server with MCP bridge to an AI assistant.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/claudiu-deving/workflow-atlas",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T07:17:04Z",
+    "tags": [
+      "ai-agents",
+      "ai-tool",
+      "ai-tooling",
+      "JavaScript"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-aaronnat23-disp8ch",
+    "title": "aaronnat23/disp8ch",
+    "summary": "Self-hosted AI workspace where chat becomes visual workflows, multi-agent operations, and reviewable automations. Local memory; local or cloud models",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/aaronnat23/disp8ch",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T06:12:06Z",
+    "tags": [
+      "agentic-ai",
+      "chatgpt",
+      "claude-code",
+      "codex",
+      "TypeScript"
+    ],
+    "heat": 61,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-notasithlord-peerd",
+    "title": "NotASithLord/peerd",
+    "summary": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed com…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/NotASithLord/peerd",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T05:55:13Z",
+    "tags": [
+      "agentic",
+      "ai-agent",
+      "browser-extension",
+      "chrome-extension",
+      "JavaScript"
+    ],
+    "heat": 295,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-tjdrhs90-flutter-flame-harness",
+    "title": "tjdrhs90/flutter-flame-harness",
+    "summary": "Idea-to-store harness for Flutter/Flame games",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/tjdrhs90/flutter-flame-harness",
+    "category": "ai-products",
+    "publishedAt": "2026-06-22T02:09:06Z",
+    "tags": [
+      "agentic",
+      "ai-agent",
+      "anthropic",
+      "app-store",
+      "Shell"
+    ],
+    "heat": 39,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-bridgeware-dynamics-business-vibebar",
+    "title": "Bridgeware-Dynamics-Business/Vibebar",
+    "summary": "Stop re-explaining your repo to Cursor every session. vibebar:: docks to your screen with prompts, live agent MCP, security scans, and one-click handoffs — buil…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Bridgeware-Dynamics-Business/Vibebar",
+    "category": "ai-products",
+    "publishedAt": "2026-06-21T12:24:15Z",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-tool",
+      "ai-tools",
+      "TypeScript"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-khshanovskyi-mcp-webinar",
+    "title": "khshanovskyi/mcp-webinar",
+    "summary": "Materials for MCP webinar",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/khshanovskyi/mcp-webinar",
+    "category": "ai-products",
+    "publishedAt": "2026-06-20T18:13:55Z",
+    "tags": [
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "Python"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-felixleezd-cold-message-writer",
+    "title": "felixleezd/cold-message-writer",
+    "summary": "A Claude skill for writing cold outreach that actually gets replies — on email, LinkedIn, or X DMs. Short, specific, human, easy to say yes to.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/felixleezd/cold-message-writer",
+    "category": "ai-products",
+    "publishedAt": "2026-06-20T15:56:11Z",
+    "tags": [
+      "ai-skill",
+      "claude",
+      "claude-skill",
+      "cold-email"
+    ],
+    "heat": 22,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-env-kit-envkit-releases",
+    "title": "Env-Kit/envkit-releases",
+    "summary": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Env-Kit/envkit-releases",
+    "category": "ai-products",
+    "publishedAt": "2026-06-20T15:20:52Z",
+    "tags": [
+      "apache",
+      "development-environment",
+      "herd-alternative",
+      "laragon-alternative",
+      "Shell"
+    ],
+    "heat": 214,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-jiayujeff-planbench-xl",
+    "title": "JiayuJeff/PlanBench-XL",
+    "summary": "Official Repository for our paper: PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/JiayuJeff/PlanBench-XL",
+    "category": "ai-products",
+    "publishedAt": "2026-06-20T07:16:03Z",
+    "tags": [
+      "agent",
+      "llm",
+      "long-horizon",
+      "long-horizon-agents",
+      "Python"
+    ],
+    "heat": 36,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-lyra81604-zhengxi-views",
+    "title": "lyra81604/zhengxi-views",
+    "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/lyra81604/zhengxi-views",
+    "category": "ai-products",
+    "publishedAt": "2026-06-20T04:27:07Z",
+    "tags": [
+      "agent-skill",
+      "chinese-funds",
+      "funds",
+      "investing",
+      "Python"
+    ],
+    "heat": 1156,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-modiqo-skillspec",
+    "title": "modiqo/skillspec",
+    "summary": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/modiqo/skillspec",
+    "category": "ai-products",
+    "publishedAt": "2026-06-19T23:42:55Z",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-evals",
+      "ai-tool",
+      "Rust"
+    ],
+    "heat": 781,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-forgewisp-forgewisp-core",
+    "title": "forgewisp/forgewisp-core",
+    "summary": "Forgewisp — safe, function-calling AI agents for the browser. Register your own functions as validated tools, with risk-tier execution, OpenAI-compatible stream…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/forgewisp/forgewisp-core",
+    "category": "ai-products",
+    "publishedAt": "2026-06-19T23:09:23Z",
+    "tags": [
+      "agent-sdk",
+      "ai-agent",
+      "ai-agents",
+      "audit-log",
+      "TypeScript"
+    ],
+    "heat": 3,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-tsouth89-toolport",
+    "title": "tsouth89/toolport",
+    "summary": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keycha…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/tsouth89/toolport",
+    "category": "ai-products",
+    "publishedAt": "2026-06-19T19:42:40Z",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "Rust"
+    ],
+    "heat": 61,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-karovia-fullstack-ai-agent-roadmap",
+    "title": "Karovia/fullstack-ai-agent-roadmap",
+    "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+    "category": "ai-products",
+    "publishedAt": "2026-06-19T06:34:06Z",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "chinese",
+      "claude"
+    ],
+    "heat": 258,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-harzva-chatgpt2localbridge",
+    "title": "Harzva/chatgpt2localbridge",
+    "summary": "Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Harzva/chatgpt2localbridge",
+    "category": "ai-products",
+    "publishedAt": "2026-06-19T02:26:19Z",
+    "tags": [
+      "chatgpt",
+      "chatgpt-connector",
+      "chatgpt-plugin-app",
+      "codex",
+      "Swift"
+    ],
+    "heat": 114,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-amitpatole-verel",
+    "title": "amitpatole/verel",
+    "summary": "Verified agents — nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding memory + a fleet + agent-built tooling + ag…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/amitpatole/verel",
+    "category": "ai-products",
+    "publishedAt": "2026-06-18T20:39:30Z",
+    "tags": [
+      "agent-framework",
+      "agent-run-cicd",
+      "agentvision",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-johnisanerd-n8n-nodes-google-short-videos-api",
+    "title": "johnisanerd/n8n-nodes-google-short-videos-api",
+    "summary": "n8n community node for the Google Short Videos API (Apify-backed): search YouTube Shorts, Reels, and TikTok and return titles, channels, and links. Works as an…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/johnisanerd/n8n-nodes-google-short-videos-api",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T19:34:16Z",
+    "tags": [
+      "ai-tool",
+      "apify",
+      "google-short-videos",
+      "n8n",
+      "TypeScript"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-johnisanerd-n8n-nodes-google-finance-api",
+    "title": "johnisanerd/n8n-nodes-google-finance-api",
+    "summary": "n8n community node for the Google Finance API (Apify-backed): get a quote for a ticker with price, movement, and summary. Works as an AI Agent tool.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/johnisanerd/n8n-nodes-google-finance-api",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T16:55:15Z",
+    "tags": [
+      "ai-tool",
+      "apify",
+      "finance",
+      "google-finance",
+      "TypeScript"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-johnisanerd-n8n-nodes-congress-trades-api",
+    "title": "johnisanerd/n8n-nodes-congress-trades-api",
+    "summary": "n8n community node for the US Congress Financial Disclosures API (Apify-backed): search disclosed congressional stock trades by member, ticker, or date. Works a…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/johnisanerd/n8n-nodes-congress-trades-api",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T16:11:45Z",
+    "tags": [
+      "ai-tool",
+      "apify",
+      "congress-trades",
+      "congressional-trading",
+      "TypeScript"
+    ],
+    "heat": 0,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-santanderai-ralph",
+    "title": "SantanderAI/ralph",
+    "summary": "A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/SantanderAI/ralph",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T13:24:43Z",
+    "tags": [
+      "agent",
+      "agentic",
+      "ai",
+      "ai-agent",
+      "PowerShell"
+    ],
+    "heat": 81,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-luckeyfaraday-athena-loops",
+    "title": "luckeyfaraday/athena-loops",
+    "summary": "MIT-licensed, backend-agnostic AI agent orchestration loop in Python: orchestrator→worker→reviewer as a deterministic harness. Drive coding-agent backends throu…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/luckeyfaraday/athena-loops",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T12:57:55Z",
+    "tags": [
+      "agent-loop",
+      "agent-orchestration",
+      "agentic-workflows",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 36,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-satyam-10124-hacd-incubator-ai-issuance-skill",
+    "title": "Satyam-10124/hacd-incubator-ai-issuance-skill",
+    "summary": "AI-assisted issuance workflow for HACD Labs Incubator Cohort 2 — generate a complete Stack Token launch package in 10 minutes",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Satyam-10124/hacd-incubator-ai-issuance-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T11:29:24Z",
+    "tags": [
+      "ai-skill",
+      "hacash",
+      "hacd",
+      "incubator",
+      "Python"
+    ],
+    "heat": 20,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-aresyn-codex-control-plane-mcp",
+    "title": "aresyn/codex-control-plane-mcp",
+    "summary": "Durable MCP control plane for long-running Codex Desktop tasks",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/aresyn/codex-control-plane-mcp",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T10:02:02Z",
+    "tags": [
+      "agent-tools",
+      "agentic-workflows",
+      "ai-agents",
+      "automation",
+      "Python"
+    ],
+    "heat": 140,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-atian-create-xhs-profile-breakdown-skill",
+    "title": "atian-create/xhs-profile-breakdown-skill",
+    "summary": "Lightweight Xiaohongshu / RedNote profile breakdown skill for creator homepage clarity checks.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/atian-create/xhs-profile-breakdown-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T09:33:52Z",
+    "tags": [
+      "account-diagnosis",
+      "ai-skill",
+      "content-strategy",
+      "creator-tools"
+    ],
+    "heat": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ashayk003-nse-sentiment-analyzer",
+    "title": "AshayK003/nse-sentiment-analyzer",
+    "summary": "NSE Stock Sentiment Analyzer — Enter any NSE ticker & get live price + news sentiment in one dashboard. Streamlit + yfinance + VADER.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/AshayK003/nse-sentiment-analyzer",
+    "category": "ai-products",
+    "publishedAt": "2026-06-17T02:39:38Z",
+    "tags": [
+      "ai-tool",
+      "finance",
+      "indian-stocks",
+      "nifty50",
+      "Python"
+    ],
+    "heat": 7,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-rebel0789-codexpro",
+    "title": "rebel0789/codexpro",
+    "summary": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/rebel0789/codexpro",
+    "category": "ai-products",
+    "publishedAt": "2026-06-16T21:22:43Z",
+    "tags": [
+      "apps-sdk",
+      "chatgpt",
+      "cloudflare-tunnel",
+      "codex",
+      "JavaScript"
+    ],
+    "heat": 1141,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yolfinance-yolfi-agent",
+    "title": "yolfinance/yolfi-agent",
+    "summary": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yolfinance/yolfi-agent",
+    "category": "ai-products",
+    "publishedAt": "2026-06-16T15:43:27Z",
+    "tags": [
+      "ai-agents",
+      "checkout",
+      "crypto-payments",
+      "mcp",
+      "JavaScript"
+    ],
+    "heat": 214,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-alisa0808-vibe-creating-skill",
+    "title": "Alisa0808/vibe-creating-skill",
+    "summary": "Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portable Agent Skill (Claude Code, Codex, OpenClaw, Herme…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Alisa0808/vibe-creating-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-16T09:13:10Z",
+    "tags": [
+      "agent-skill",
+      "agent-skills",
+      "ai-video",
+      "claude-code",
+      "JavaScript"
+    ],
+    "heat": 93,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-agi-comming-functional-skill-creator",
+    "title": "AGI-comming/functional-skill-creator",
+    "summary": "fskill-creator turns your long-text SKILL into functions, making it modular, testable and trackable for better long-term maintenance and iteration",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/AGI-comming/functional-skill-creator",
+    "category": "ai-products",
+    "publishedAt": "2026-06-16T02:17:45Z",
+    "tags": [
+      "agent-skill",
+      "functional-programming",
+      "modular-skill",
+      "skill-creator",
+      "JavaScript"
+    ],
+    "heat": 305,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-voidful-awesome-agent-dataset",
+    "title": "voidful/awesome-agent-dataset",
+    "summary": "📚 Curated catalog of agent-training datasets + a toolkit that normalizes, deduplicates, and quality-tiers them into one schema. Produces 🤗 voidful/agent-sft.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/voidful/awesome-agent-dataset",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T23:17:15Z",
+    "tags": [
+      "agent",
+      "agent-traces",
+      "awesome-list",
+      "dataset",
+      "Python"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-colinvaughn-synaptic",
+    "title": "ColinVaughn/Synaptic",
+    "summary": "Auditable code intelligence for AI agents - map dependencies, predict change impact, select the right tests, and verify refactors before they ship.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/ColinVaughn/Synaptic",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T20:22:11Z",
+    "tags": [
+      "ai",
+      "call-graph",
+      "claude-skills",
+      "code-analysis",
+      "Rust"
+    ],
+    "heat": 16,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ferdinandobons-codedebrief",
+    "title": "ferdinandobons/CodeDebrief",
+    "summary": "Local-first static analysis that turns source code into deterministic, source-grounded workflow maps for coding agents via MCP.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/ferdinandobons/CodeDebrief",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T14:01:42Z",
+    "tags": [
+      "ai-agent",
+      "cli",
+      "code-comprehension",
+      "code-navigation",
+      "Python"
+    ],
+    "heat": 38,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-le600-lun-fang-yuan-skill",
+    "title": "le600-lun/fang-yuan-skill",
+    "summary": "方源思维操作系统 - 基于《蛊真人》800万字小说深度蒸馏的AI Skill，7大心智模型+8条决策启发式",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/le600-lun/fang-yuan-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T13:29:35Z",
+    "tags": [
+      "ai-skill",
+      "claude-code",
+      "decision-making",
+      "fang-yuan"
+    ],
+    "heat": 6,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-joeseesun-qiaomu-app-review-insights",
+    "title": "joeseesun/qiaomu-app-review-insights",
+    "summary": "把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/joeseesun/qiaomu-app-review-insights",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T06:55:04Z",
+    "tags": [
+      "agent-skill",
+      "app-reviews",
+      "app-store",
+      "app-store-reviews",
+      "TypeScript"
+    ],
+    "heat": 201,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-dongshuyan-compass-skills",
+    "title": "dongshuyan/compass-skills",
+    "summary": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/dongshuyan/compass-skills",
+    "category": "ai-products",
+    "publishedAt": "2026-06-15T06:28:04Z",
+    "tags": [
+      "agent-memory",
+      "agent-skill",
+      "agent-skills",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 513,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-egoist-machines-etchplan",
+    "title": "Egoist-Machines/etchplan",
+    "summary": "Compile an AI agent's repeated workflows into deterministic, auditable routines that replay for free, with a fallback to the agent.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Egoist-Machines/etchplan",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T23:02:36Z",
+    "tags": [
+      "agent-infrastructure",
+      "agent-traces",
+      "agentic-ai",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 11,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-linyeping-metis",
+    "title": "linyeping/Metis",
+    "summary": "一个会读写代码、操控终端与网页的桌面 AI 智能体（Electron + Python）。A desktop AI agent that reads your code, runs your terminal, and drives the web.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/linyeping/Metis",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T22:01:45Z",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 4,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ayubjon-toolspec-diff",
+    "title": "Ayubjon/toolspec-diff",
+    "summary": "Semver-aware breaking-change detector for LLM tool / function-calling schemas (OpenAI & Anthropic). Diff two tool-set versions and gate CI on incompatible chang…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Ayubjon/toolspec-diff",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T18:14:48Z",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "breaking-changes",
+      "ci",
+      "JavaScript"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-dososo-blcaptain-style-skill",
+    "title": "dososo/blcaptain-style-skill",
+    "summary": "中文图文卡片生成 Skill：一段内容 → 海报级图文组图（小红书 3:4 / 公众号封面）。1 引擎 + 3 视觉语言（静纸 Still Paper / 实证 Signal Proof / 图桥 Bridge Canvas），智能驱动 + 独家影像配方。",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/dososo/blcaptain-style-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T15:40:21Z",
+    "tags": [
+      "agent-skill",
+      "claude-skill",
+      "codex-skill",
+      "social-card",
+      "JavaScript"
+    ],
+    "heat": 106,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ayubjon-toolcall-guard",
+    "title": "Ayubjon/toolcall-guard",
+    "summary": "Validate, coerce and auto-repair LLM tool/function-call arguments against a JSON Schema — with a model-ready correction message for the agent retry loop. Zero d…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Ayubjon/toolcall-guard",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T15:15:07Z",
+    "tags": [
+      "agents",
+      "ai-tools",
+      "anthropic",
+      "function-calling",
+      "JavaScript"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ayubjon-chatlint",
+    "title": "Ayubjon/chatlint",
+    "summary": "Zero-dependency linter for LLM chat message arrays (OpenAI & Anthropic) — catch structural errors before you hit the API",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Ayubjon/chatlint",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T12:12:56Z",
+    "tags": [
+      "anthropic",
+      "chat-completions",
+      "cli",
+      "function-calling",
+      "JavaScript"
+    ],
+    "heat": 2,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-fivetaku-fablize",
+    "title": "fivetaku/fablize",
+    "summary": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus compariso…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/fivetaku/fablize",
+    "category": "ai-products",
+    "publishedAt": "2026-06-14T05:49:06Z",
+    "tags": [
+      "agentic",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "Python"
+    ],
+    "heat": 694,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ruvnet-metaharness",
+    "title": "ruvnet/metaharness",
+    "summary": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signe…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/ruvnet/metaharness",
+    "category": "ai-products",
+    "publishedAt": "2026-06-13T18:29:11Z",
+    "tags": [
+      "agent-harness",
+      "agent-harness-generator",
+      "agent-scaffolding",
+      "agentic-ai",
+      "TypeScript"
+    ],
+    "heat": 363,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-zexuanw958-svg-travel-plan-viz",
+    "title": "zexuanw958-svg/travel-plan-viz",
+    "summary": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/zexuanw958-svg/travel-plan-viz",
+    "category": "ai-products",
+    "publishedAt": "2026-06-13T10:40:30Z",
+    "tags": [
+      "agent-skill",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "JavaScript"
+    ],
+    "heat": 252,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-jia-ethan-pavedpath-code",
+    "title": "Jia-Ethan/pavedpath-code",
+    "summary": "PavedPath Code: reusable Skill for finding proven implementation paths from GitHub and open-source evidence",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Jia-Ethan/pavedpath-code",
+    "category": "ai-products",
+    "publishedAt": "2026-06-12T02:33:54Z",
+    "tags": [
+      "agent-skill",
+      "github-cli",
+      "open-source",
+      "pavedpath"
+    ],
+    "heat": 259,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-itsinseong-value-for-fable",
+    "title": "itsinseong/value-for-fable",
+    "summary": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/itsinseong/value-for-fable",
+    "category": "ai-products",
+    "publishedAt": "2026-06-11T19:54:14Z",
+    "tags": [
+      "agentic",
+      "ai",
+      "anthropic",
+      "claude",
+      "Python"
+    ],
+    "heat": 221,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-qodexcli-qodex",
+    "title": "QodeXcli/QodeX",
+    "summary": "QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM Studio) with deterministic guardrails, 100…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/QodeXcli/QodeX",
+    "category": "ai-products",
+    "publishedAt": "2026-06-11T16:51:26Z",
+    "tags": [
+      "agentic",
+      "agentic-ai",
+      "ai-agent",
+      "ai-coding-assistant",
+      "TypeScript"
+    ],
+    "heat": 33,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-g12789-mcp-quickstart",
+    "title": "G12789/mcp-quickstart",
+    "summary": "Forge a working, testable, publishable MCP server in 30s. TypeScript or Python, with example tools, the Inspector and tests included.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/G12789/mcp-quickstart",
+    "category": "ai-products",
+    "publishedAt": "2026-06-11T16:19:11Z",
+    "tags": [
+      "ai-agents",
+      "boilerplate",
+      "claude",
+      "cli",
+      "JavaScript"
+    ],
+    "heat": 95,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-asklear-klear-team-brain",
+    "title": "Asklear/Klear-Team-Brain",
+    "summary": "Turn your team's AI coding sessions, GitHub code, and docs into one shared, searchable memory — a self-hosted git truth store you query right from your editor o…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Asklear/Klear-Team-Brain",
+    "category": "ai-products",
+    "publishedAt": "2026-06-11T13:09:42Z",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "JavaScript"
+    ],
+    "heat": 79,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-manish5616-claude-code-devkit",
+    "title": "manish5616/claude-code-devkit",
+    "summary": "Claude Code plugin for codebase archaeology: a custom Python MCP server, sub-agent, slash command, skill, and safety hooks for exploring and documenting any Pyt…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/manish5616/claude-code-devkit",
+    "category": "ai-products",
+    "publishedAt": "2026-06-11T09:25:19Z",
+    "tags": [
+      "ai-tool",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "Python"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-thingctx-thingctx",
+    "title": "thingctx/thingctx",
+    "summary": "Drive any agent against any W3C WoT Thing from its description. No per-integration server.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/thingctx/thingctx",
+    "category": "ai-products",
+    "publishedAt": "2026-06-10T16:09:00Z",
+    "tags": [
+      "agent-tools",
+      "ai-agents",
+      "function-calling",
+      "json-ld",
+      "Python"
+    ],
+    "heat": 12,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-genlab-1c-prism",
+    "title": "genlab-1c/prism",
+    "summary": "Открытый бенчмарк LLM: какая нейросеть лучше пишет код 1С:Предприятие (BSL). Объективная оценка LLM по методике SMOP с реальным исполнением в 1С — Claude, GPT,…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/genlab-1c/prism",
+    "category": "ai-products",
+    "publishedAt": "2026-06-10T15:29:18Z",
+    "tags": [
+      "1c",
+      "1c-enterprise",
+      "agentic",
+      "ai",
+      "Python"
+    ],
+    "heat": 13,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-aws-devtools-labs-aws-blocks",
+    "title": "aws-devtools-labs/aws-blocks",
+    "summary": "Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/aws-devtools-labs/aws-blocks",
+    "category": "ai-products",
+    "publishedAt": "2026-06-09T21:42:12Z",
+    "tags": [
+      "agentic",
+      "ai-native",
+      "android",
+      "aws",
+      "TypeScript"
+    ],
+    "heat": 348,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ranfysvalle02-m-gate",
+    "title": "ranfysvalle02/m-gate",
+    "summary": "MongoDB powered MCP Gateway. A multi-tenant MCP (Model Context Protocol) gateway with auth, RBAC, guardrails, a WASM code sandbox, queryable encryption, and obs…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/ranfysvalle02/m-gate",
+    "category": "ai-products",
+    "publishedAt": "2026-06-09T13:50:19Z",
+    "tags": [
+      "agents",
+      "api",
+      "context",
+      "context-api",
+      "Python"
+    ],
+    "heat": 1,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-sfzxc-aipocket",
+    "title": "SFzxc/aipocket",
+    "summary": "Chrome extension wallet for user-owned AI API access",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/SFzxc/aipocket",
+    "category": "ai-products",
+    "publishedAt": "2026-06-09T09:12:50Z",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tool",
+      "anthropic",
+      "TypeScript"
+    ],
+    "heat": 14,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-yzfly-tokencode",
+    "title": "yzfly/TokenCode",
+    "summary": "为 Token 燃烧而生：token 越来越便宜，质量永远稀缺——与其省 token，不如把它当燃料烧。同一道题派最多 1000 个 agent 并行竞赛、裁判择优，用冗余换质量。Go 写的开源终端 Coding Agent，类 Claude Code，可接入任意模型，对团队友好。 | Born to burn tok…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/yzfly/TokenCode",
+    "category": "ai-models",
+    "publishedAt": "2026-06-09T03:39:21Z",
+    "tags": [
+      "agent-runtime",
+      "agentic",
+      "ai-agent",
+      "claude-code",
+      "Go"
+    ],
+    "heat": 30,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-serenakeyitan-awesome-agent-loops",
+    "title": "serenakeyitan/awesome-agent-loops",
+    "summary": "A curated collection of the best /loop, /goal, and /schedule uses for Claude Code & Codex — real commands sourced from Twitter/X. The awesome-list of agent loop…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/serenakeyitan/awesome-agent-loops",
+    "category": "ai-products",
+    "publishedAt": "2026-06-09T01:26:51Z",
+    "tags": [
+      "agentic",
+      "ai-agents",
+      "awesome",
+      "awesome-list"
+    ],
+    "heat": 178,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-monarchjuno-tradingcodex",
+    "title": "monarchjuno/tradingcodex",
+    "summary": "Turn Codex into your investment workflow team",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/monarchjuno/tradingcodex",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T13:26:18Z",
+    "tags": [
+      "agentic-workflow",
+      "ai-agents",
+      "codex",
+      "django",
+      "Python"
+    ],
+    "heat": 271,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-clarilayer-clarilayer",
+    "title": "clarilayer/clarilayer",
+    "summary": "Stop re-explaining your data to your AI every session. The individual-analyst context layer, delivered over MCP (Claude Code / Cursor / Codex).",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/clarilayer/clarilayer",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T13:17:43Z",
+    "tags": [
+      "ai-agents",
+      "analytics",
+      "claude-code",
+      "context-engineering",
+      "TypeScript"
+    ],
+    "heat": 130,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-chubbyguan-chubbyskills",
+    "title": "chubbyguan/chubbyskills",
+    "summary": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/chubbyguan/chubbyskills",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T09:22:13Z",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "chinese",
+      "claude-code",
+      "Python"
+    ],
+    "heat": 504,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-2417467487-hub-trend2video-pro",
+    "title": "2417467487-hub/Trend2Video-Pro",
+    "summary": "Trend-to-Video Agent Framework for publish-ready short video packages",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/2417467487-hub/Trend2Video-Pro",
+    "category": "ai-products",
+    "publishedAt": "2026-06-08T08:50:25Z",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "ai-video",
+      "chrome-extension",
+      "Python"
+    ],
+    "heat": 212,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-amarnath3003-mcpify",
+    "title": "amarnath3003/MCPify",
+    "summary": "MCPify is an AI enablement compiler that transforms existing applications into AI-native, agent-operable systems.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/amarnath3003/MCPify",
+    "category": "ai-products",
+    "publishedAt": "2026-06-06T11:31:43Z",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "hackathon",
+      "mcp",
+      "TypeScript"
+    ],
+    "heat": 75,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-apeironics-prompt-refine-skill",
+    "title": "Apeironics/prompt-refine-skill",
+    "summary": "Agent Skill that silently refines prompts for the currently running model",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Apeironics/prompt-refine-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T18:59:09Z",
+    "tags": [
+      "agent-skill",
+      "agent-skills",
+      "ai-tools",
+      "prompt-engineering",
+      "Python"
+    ],
+    "heat": 85,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-ethanxie-hub-sunzi-strategist",
+    "title": "EthanXie-Hub/sunzi-strategist",
+    "summary": "A Sun Tzu-based AI strategy skill for decisive unknowns, battlefield choice, opponent reactions, and stop-loss criteria.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/EthanXie-Hub/sunzi-strategist",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T12:28:49Z",
+    "tags": [
+      "ai-skill",
+      "codex",
+      "decision-making",
+      "open-source",
+      "HTML"
+    ],
+    "heat": 7,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-griffinwork40-agent-afk",
+    "title": "griffinwork40/agent-afk",
+    "summary": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace you check before anything ships.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/griffinwork40/agent-afk",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T10:42:23Z",
+    "tags": [
+      "afk",
+      "agent-framework",
+      "agents",
+      "ai",
+      "TypeScript"
+    ],
+    "heat": 39,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-sheep1433-noesis",
+    "title": "Sheep1433/Noesis",
+    "summary": "Noesis — Core Agent Framework for building autonomous AI workflows",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Sheep1433/Noesis",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T08:32:18Z",
+    "tags": [
+      "agent-framework",
+      "ai",
+      "autonomous-agents",
+      "python",
+      "Python"
+    ],
+    "heat": 11,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-forsy-ai-forsy-trace-skill",
+    "title": "Forsy-AI/forsy-trace-skill",
+    "summary": "Open skill for capturing AI agent work as structured traces.",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/Forsy-AI/forsy-trace-skill",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T08:31:53Z",
+    "tags": [
+      "agent-evaluation",
+      "agent-traces",
+      "agent-workflows",
+      "ai-agents",
+      "Python"
+    ],
+    "heat": 92,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "aiNote": null
+  },
+  {
+    "id": "gh-simonlin1212-globalpercent",
+    "title": "simonlin1212/globalpercent",
+    "summary": "全球宏观预期概率面板 (AI Skill) — Polymarket+Kalshi 双源 · 5端点 · 10模块 · 零鉴权 | Global-macro-probability panel skill for AI coding assistants (prediction-market data pipeline…",
+    "source": "GitHub",
+    "sourceUrl": "https://github.com/simonlin1212/globalpercent",
+    "category": "ai-products",
+    "publishedAt": "2026-06-05T01:50:57Z",
+    "tags": [
+      "ai-skill",
+      "claude-code",
+      "fastapi",
+      "kalshi",
+      "Python"
+    ],
+    "heat": 56,
+    "aiSelected": true,
+    "origin": "github",
+    "firstSeen": "2026-07-04T07:51:36.086Z",
     "aiNote": null
   }
 ]
