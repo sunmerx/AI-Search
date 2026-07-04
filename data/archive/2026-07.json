@@ -2220,7 +2220,7 @@
       "edge-extension",
       "JavaScript"
     ],
-    "heat": 454,
+    "heat": 455,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-07-01T23:45:11.271Z",
@@ -2559,7 +2559,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 159,
+    "heat": 160,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -4833,7 +4833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 201,
+    "heat": 202,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6693,7 +6693,7 @@
     "source": "Cursor",
     "sourceUrl": "https://www.cursor.com/changelog",
     "category": "ai-products",
-    "publishedAt": "2026-07-04T07:31:21.923Z",
+    "publishedAt": "2026-07-04T08:08:51.013Z",
     "tags": [
       "cursor",
       "IDE",
@@ -6701,8 +6701,8 @@
     ],
     "aiSelected": true,
     "origin": "deals",
-    "heat": 29,
-    "firstSeen": "2026-07-04T07:29:36.068Z",
+    "heat": 27,
+    "firstSeen": "2026-07-04T08:08:58.070Z",
     "aiNote": null
   },
   {
@@ -6735,7 +6735,7 @@
       "free",
       "HTML"
     ],
-    "heat": 24,
+    "heat": 25,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6756,7 +6756,7 @@
       "free",
       "HTML"
     ],
-    "heat": 25,
+    "heat": 20,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:59:26.130Z",
@@ -6794,7 +6794,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 94,
+    "heat": 99,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6931,7 +6931,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 63,
+    "heat": 65,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7027,7 +7027,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 204,
+    "heat": 205,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7048,7 +7048,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 18,
+    "heat": 24,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7144,7 +7144,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 15,
+    "heat": 29,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7165,7 +7165,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 13,
+    "heat": 10,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7226,7 +7226,7 @@
       "free",
       "Python"
     ],
-    "heat": 10,
+    "heat": 16,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7247,7 +7247,7 @@
       "free",
       "Python"
     ],
-    "heat": 15,
+    "heat": 23,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7268,7 +7268,7 @@
       "free",
       "Python"
     ],
-    "heat": 27,
+    "heat": 18,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7289,7 +7289,7 @@
       "free",
       "Python"
     ],
-    "heat": 12,
+    "heat": 29,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7310,7 +7310,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 11,
+    "heat": 25,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7331,7 +7331,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 29,
+    "heat": 19,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7478,7 +7478,7 @@
       "free",
       "HTML"
     ],
-    "heat": 11,
+    "heat": 26,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:31:24.664Z",
@@ -7518,7 +7518,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 21,
+    "heat": 25,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7538,7 +7538,7 @@
       "converters",
       "free"
     ],
-    "heat": 26,
+    "heat": 14,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7558,7 +7558,7 @@
       "free-tools",
       "free"
     ],
-    "heat": 19,
+    "heat": 21,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7809,7 +7809,7 @@
       "free-tools",
       "free"
     ],
-    "heat": 24,
+    "heat": 15,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7893,7 +7893,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 11,
+    "heat": 24,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7933,7 +7933,7 @@
       "free",
       "HTML"
     ],
-    "heat": 10,
+    "heat": 18,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
