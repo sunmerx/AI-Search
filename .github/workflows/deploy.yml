@@ -66,6 +66,7 @@ jobs:
 
       - name: Build static export
         env:
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
           NEXT_PUBLIC_ASK_AI_URL: ${{ vars.ASK_AI_URL }}
           DATA_SOURCE: local
         run: npm run build
