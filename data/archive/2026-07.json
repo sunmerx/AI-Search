@@ -2542,7 +2542,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 192,
+    "heat": 193,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -3262,7 +3262,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 133,
+    "heat": 134,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -4090,7 +4090,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 7,
+    "heat": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -4489,7 +4489,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 6,
+    "heat": 7,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-02T23:30:58.343Z",
@@ -4833,7 +4833,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 202,
+    "heat": 235,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -4850,7 +4850,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 62,
+    "heat": 63,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -4957,7 +4957,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 73,
+    "heat": 75,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -4974,11 +4974,11 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 55,
+    "heat": 56,
     "aiSelected": true,
     "origin": "hackernews",
-    "firstSeen": "2026-07-03T23:19:36.286Z",
-    "aiNote": "实时监控MCP协议流量，开源透明代理工具降低调试门槛。"
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
   },
   {
     "id": "hn-b4096d4baf",
@@ -4991,7 +4991,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 265,
+    "heat": 284,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5053,7 +5053,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 334,
+    "heat": 368,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5070,7 +5070,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 51,
+    "heat": 52,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5149,7 +5149,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 74,
+    "heat": 76,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5211,7 +5211,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 228,
+    "heat": 231,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5489,7 +5489,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 514,
+    "heat": 523,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5521,7 +5521,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 383,
+    "heat": 385,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -5555,7 +5555,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 121,
+    "heat": 122,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6094,7 +6094,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 5,
+    "heat": 6,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6148,7 +6148,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 22,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6166,7 +6166,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 18,
+    "heat": 20,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6220,7 +6220,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 63,
+    "heat": 66,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6256,7 +6256,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 24,
+    "heat": 25,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6292,7 +6292,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 7,
+    "heat": 9,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6310,7 +6310,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 12,
+    "heat": 13,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6406,7 +6406,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 15,
+    "heat": 16,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6460,7 +6460,7 @@
       "论文",
       "arXiv"
     ],
-    "heat": 33,
+    "heat": 34,
     "aiSelected": true,
     "origin": "hf-papers",
     "firstSeen": "2026-07-03T23:19:36.286Z",
@@ -6794,7 +6794,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 131,
+    "heat": 466,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6931,7 +6931,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 72,
+    "heat": 126,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -6993,7 +6993,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 129,
+    "heat": 161,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7010,7 +7010,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 53,
+    "heat": 57,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7027,7 +7027,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 210,
+    "heat": 283,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7065,7 +7065,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 226,
+    "heat": 282,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7082,7 +7082,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 94,
+    "heat": 126,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7103,7 +7103,7 @@
       "free",
       "Python"
     ],
-    "heat": 29,
+    "heat": 18,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7144,7 +7144,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 20,
+    "heat": 18,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7226,7 +7226,7 @@
       "free",
       "Python"
     ],
-    "heat": 26,
+    "heat": 23,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7247,7 +7247,7 @@
       "free",
       "Python"
     ],
-    "heat": 22,
+    "heat": 16,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7268,7 +7268,7 @@
       "free",
       "Python"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7310,7 +7310,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 12,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7331,7 +7331,7 @@
       "free",
       "TypeScript"
     ],
-    "heat": 12,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:29:36.068Z",
@@ -7491,7 +7491,7 @@
     "source": "Cursor",
     "sourceUrl": "https://www.cursor.com/changelog",
     "category": "ai-products",
-    "publishedAt": "2026-07-04T07:59:19.568Z",
+    "publishedAt": "2026-07-04T13:29:00.102Z",
     "tags": [
       "cursor",
       "IDE",
@@ -7500,7 +7500,7 @@
     "aiSelected": true,
     "origin": "deals",
     "heat": 29,
-    "firstSeen": "2026-07-04T07:51:36.086Z",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
     "aiNote": null
   },
   {
@@ -7518,7 +7518,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 23,
+    "heat": 22,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7538,7 +7538,7 @@
       "converters",
       "free"
     ],
-    "heat": 18,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7558,7 +7558,7 @@
       "free-tools",
       "free"
     ],
-    "heat": 28,
+    "heat": 11,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7809,7 +7809,7 @@
       "free-tools",
       "free"
     ],
-    "heat": 10,
+    "heat": 14,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7893,7 +7893,7 @@
       "free",
       "JavaScript"
     ],
-    "heat": 20,
+    "heat": 23,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -7933,7 +7933,7 @@
       "free",
       "HTML"
     ],
-    "heat": 15,
+    "heat": 16,
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T07:51:36.086Z",
@@ -9784,7 +9784,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 50,
+    "heat": 112,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-04T07:59:26.130Z",
@@ -9847,6 +9847,699 @@
     "aiSelected": true,
     "origin": "deals",
     "firstSeen": "2026-07-04T08:20:35.199Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-pricing-groq-pricing",
+    "title": "💳 Groq",
+    "summary": "免费 · 价格: $1, $1, $4",
+    "source": "Groq",
+    "sourceUrl": "https://console.groq.com/docs/rate-limits",
+    "category": "ai-products",
+    "publishedAt": "2026-07-04T13:29:00.477Z",
+    "tags": [
+      "pricing",
+      "free",
+      "deals"
+    ],
+    "heat": 15,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-pricing-devin-pricing",
+    "title": "💳 Devin Pricing",
+    "summary": "免费 · 价格: $0, $20, $200",
+    "source": "Devin",
+    "sourceUrl": "https://devin.ai/pricing",
+    "category": "ai-products",
+    "publishedAt": "2026-07-04T13:29:00.097Z",
+    "tags": [
+      "pricing",
+      "free",
+      "deals"
+    ],
+    "heat": 15,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-pricing-cursor-pricing",
+    "title": "💳 Cursor Pricing",
+    "summary": "免费 · 有额度 · 价格: $16, $32, $16",
+    "source": "Cursor",
+    "sourceUrl": "https://www.cursor.com/pricing",
+    "category": "ai-products",
+    "publishedAt": "2026-07-04T13:29:00.061Z",
+    "tags": [
+      "pricing",
+      "free",
+      "deals"
+    ],
+    "heat": 15,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-36f10d6a8d",
+    "title": "🆓 WilliamRamirez3382/gpt-api-gift-free",
+    "summary": "[免费/开源] DeepSeek Qwen 白送体验页，聚合 OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Llama, Qwen, Grok, Mistral, Cohere Command, Perplexity, Runway, Pika 等顶级模型…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/WilliamRamirez3382/gpt-api-gift-free",
+    "category": "ai-models",
+    "publishedAt": "2026-07-04T10:47:47Z",
+    "tags": [
+      "ai-gateway",
+      "ai-relay",
+      "aigc",
+      "free",
+      "HTML"
+    ],
+    "heat": 29,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-d898a18f4d",
+    "title": "🆓 washingmachinecare/appliance-error-code-api",
+    "summary": "[免费/开源] A free JSON API for washing machine diagnostic codes and resolution steps.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/washingmachinecare/appliance-error-code-api",
+    "category": "ai-products",
+    "publishedAt": "2026-07-04T10:44:32Z",
+    "tags": [
+      "api",
+      "appliance-repair",
+      "free-api",
+      "free",
+      "PHP"
+    ],
+    "heat": 18,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-f8a37c0471",
+    "title": "🆓 WilliamRamirez3382/free-gpt5-oppo-api",
+    "summary": "[免费/开源] 清爽低价 GPT API 入口，聚合 ChatGPT, OpenAI API, Claude API, Gemini API, DeepSeek V3, Llama, Qwen Max, Kimi, Doubao, ERNIE, Mistral, Grok 等顶级模型的免费 AI 中转、低价 AI AP…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/WilliamRamirez3382/free-gpt5-oppo-api",
+    "category": "ai-models",
+    "publishedAt": "2026-07-04T10:43:13Z",
+    "tags": [
+      "ai-gateway",
+      "ai-relay",
+      "aigc",
+      "free",
+      "HTML"
+    ],
+    "heat": 10,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-698085abac",
+    "title": "🆓 WilliamRamirez3382/fresh-llm-api-relay",
+    "summary": "[免费/开源] 顶级 AI 模型中转集合，聚合 OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Llama, Qwen, Grok, Mistral, Cohere Command, Perplexity, Runway, Pika 等顶级模型的免费 AI…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/WilliamRamirez3382/fresh-llm-api-relay",
+    "category": "ai-models",
+    "publishedAt": "2026-07-04T10:42:30Z",
+    "tags": [
+      "ai-gateway",
+      "ai-relay",
+      "aigc",
+      "free",
+      "HTML"
+    ],
+    "heat": 10,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-ef4e8772d1",
+    "title": "Pet projects are getting too big to pet",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://www.nnehdi.me/p/pet-projects-are-getting-too-big",
+    "category": "industry",
+    "publishedAt": "2026-07-03T20:13:09Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 40,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-1e5f39e297",
+    "title": "🆓 aitoken-hub/ai-api-free-tier",
+    "summary": "[免费/开源] Free AI API Tiers 2026: What You Actually Get — Compare free tiers across OpenAI, Anthropic, Google, Mistral, Cohere, and 60+ AI API providers with real…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/aitoken-hub/ai-api-free-tier",
+    "category": "ai-models",
+    "publishedAt": "2026-07-02T14:03:53Z",
+    "tags": [
+      "ai-api",
+      "ai-api-comparison",
+      "ai-cost-optimization",
+      "free"
+    ],
+    "heat": 26,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-1e91f52074",
+    "title": "🆓 aitoken-hub/free-ai-api-list",
+    "summary": "[免费/开源] Free and cheap AI API list 2026 — Curated list of free/budget LLM APIs. AI Token Hub: one key, 100+ models.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/aitoken-hub/free-ai-api-list",
+    "category": "ai-products",
+    "publishedAt": "2026-07-02T13:28:37Z",
+    "tags": [
+      "ai-api-list",
+      "budget-ai",
+      "cheap-ai-api",
+      "free"
+    ],
+    "heat": 10,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-5a05a704b0",
+    "title": "🆓 A-Kamronb3k/aws-static-site-cicd",
+    "summary": "[免费/开源] Static site on private S3 + CloudFront (OAC) with OIDC-based GitHub Actions CI/CD — $0 AWS Free Tier",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/A-Kamronb3k/aws-static-site-cicd",
+    "category": "ai-products",
+    "publishedAt": "2026-07-01T18:31:26Z",
+    "tags": [
+      "astro",
+      "aws",
+      "ci-cd",
+      "free",
+      "Astro"
+    ],
+    "heat": 28,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-94c5b6179e",
+    "title": "🆓 cvv-number/minimax-m3-desktop-app-free-api",
+    "summary": "[免费/开源] MiniMax-M3-Free — open-weight 428B MoE multimodal LLM. 1M-token context, native video understanding. 59% on SWE-bench Pro, rivals Claude & GPT-5.5 at 1/…",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/cvv-number/minimax-m3-desktop-app-free-api",
+    "category": "ai-models",
+    "publishedAt": "2026-07-01T17:39:24Z",
+    "tags": [
+      "ai-api-free",
+      "ai-desktop",
+      "ai-free",
+      "free",
+      "C#"
+    ],
+    "heat": 29,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-10eb5313ba",
+    "title": "🆓 apuslabs/open-free-llm-catalog",
+    "summary": "[免费/开源] Open catalog of free-tier LLM providers, models, limits, capabilities, and quirks.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/apuslabs/open-free-llm-catalog",
+    "category": "ai-products",
+    "publishedAt": "2026-07-01T08:09:40Z",
+    "tags": [
+      "catalog",
+      "free-tier",
+      "llm",
+      "free"
+    ],
+    "heat": 11,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-7fb8945161",
+    "title": "🆓 apuslabs/steadyroute",
+    "summary": "[免费/开源] Self-healing free LLM router for fragile, fast-changing model pools.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/apuslabs/steadyroute",
+    "category": "ai-products",
+    "publishedAt": "2026-07-01T08:09:40Z",
+    "tags": [
+      "ai-gateway",
+      "developer-tools",
+      "free-llm",
+      "free"
+    ],
+    "heat": 20,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-bff62e3e26",
+    "title": "🆓 gpt5free/free2ai-relay-077",
+    "summary": "[免费/开源] 低成本 AI API 与 GPT relay 资源导航，覆盖免费入口、OpenAI relay、ChatGPT proxy 和自动化接入场景。",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/gpt5free/free2ai-relay-077",
+    "category": "ai-models",
+    "publishedAt": "2026-06-30T12:12:03Z",
+    "tags": [
+      "ai",
+      "ai-api",
+      "ai-gateway",
+      "free",
+      "HTML"
+    ],
+    "heat": 14,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-2952ecc769",
+    "title": "🆓 StaryMoon/free-for-ai-builders-cn",
+    "summary": "[免费/开源] 面向中文 AI 开发者的免费额度、开源替代和试用友好工具索引。",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/StaryMoon/free-for-ai-builders-cn",
+    "category": "ai-products",
+    "publishedAt": "2026-06-30T04:45:17Z",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "awesome-list",
+      "free",
+      "Python"
+    ],
+    "heat": 12,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "deal-gh-deal-c6d7d9568b",
+    "title": "🆓 GFardad/llm-apipool",
+    "summary": "[免费/开源] 🪙 40+ Free LLM APIs → One OpenAI-compatible endpoint. CLI, TUI, Proxy, LangChain wrapper. Auto-rotate keys, handle rate limits, track usage.",
+    "source": "GitHub Deals",
+    "sourceUrl": "https://github.com/GFardad/llm-apipool",
+    "category": "ai-products",
+    "publishedAt": "2026-06-28T11:06:33Z",
+    "tags": [
+      "ai-proxy",
+      "api-gateway",
+      "fastapi",
+      "free",
+      "Python"
+    ],
+    "heat": 26,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "hn-399a7443dd",
+    "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+    "summary": "Hey HN. http://peerd.ai is an AI agent harness that lives entirely in your browser as a web extension. You don’t have to install a separate “AI browser”. You don’t have to bolt on…",
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/NotASithLord/peerd",
+    "category": "industry",
+    "publishedAt": "2026-06-23T15:05:00Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "heat": 75,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-62cba2f474",
+    "title": "💰 oniondas/Awesome-Hidden-AI-Credits-Free",
+    "summary": "[免费额度汇总] 💰 A curated list of hidden AI platforms and APIs offering massive free token allowances, daily credits, and generous free tiers for developers (10+ Bi…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/oniondas/Awesome-Hidden-AI-Credits-Free",
+    "category": "ai-products",
+    "publishedAt": "2026-06-13T17:58:57Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 11,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-02ed7d3951",
+    "title": "💰 Free-The-Ai/free-ai",
+    "summary": "[免费额度汇总] FreeTheAi (Free The AI): free OpenAI-compatible AI API with 50+ models, Discord key signup, streaming, tools, images, Messages, and Responses. No credi…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/Free-The-Ai/free-ai",
+    "category": "ai-products",
+    "publishedAt": "2026-04-21T22:20:06Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "TypeScript"
+    ],
+    "heat": 729,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-4f2aff160f",
+    "title": "💰 alistaitsacle/free-llm-api-keys",
+    "summary": "[免费额度汇总] Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "category": "ai-products",
+    "publishedAt": "2026-03-23T03:28:17Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "Python"
+    ],
+    "heat": 3077,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-dfb1df9f67",
+    "title": "💰 diegosouzapw/OmniRoute",
+    "summary": "[免费额度汇总] Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gem…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/diegosouzapw/OmniRoute",
+    "category": "ai-products",
+    "publishedAt": "2026-02-13T12:38:31Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "TypeScript"
+    ],
+    "heat": 11116,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-cbc20fb1ca",
+    "title": "💰 jwadow/kiro-gateway",
+    "summary": "[免费额度汇总] 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/jwadow/kiro-gateway",
+    "category": "ai-products",
+    "publishedAt": "2025-12-13T00:36:49Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "Python"
+    ],
+    "heat": 2080,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-c482f92a31",
+    "title": "💰 CelaDaniel/free-ai-resources-x",
+    "summary": "[免费额度汇总] 🌟 A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "category": "ai-products",
+    "publishedAt": "2025-10-17T17:37:17Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 558,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-0e82f66e5a",
+    "title": "💰 justlovemaki/AIClient2API",
+    "summary": "[免费额度汇总] Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model request…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/justlovemaki/AIClient2API",
+    "category": "ai-products",
+    "publishedAt": "2025-07-20T07:05:56Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "JavaScript"
+    ],
+    "heat": 8369,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-07e8279b5a",
+    "title": "💰 router-for-me/CLIProxyAPI",
+    "summary": "[免费额度汇总] Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/router-for-me/CLIProxyAPI",
+    "category": "ai-products",
+    "publishedAt": "2025-07-01T19:43:27Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "Go"
+    ],
+    "heat": 39143,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-63ceca67a2",
+    "title": "💰 for-the-zero/Free-LLM-Collection",
+    "summary": "[免费额度汇总] 免费大模型API合集 / Free LLM api Collection",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/for-the-zero/Free-LLM-Collection",
+    "category": "ai-products",
+    "publishedAt": "2025-04-04T13:37:21Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 319,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-cf6b5f1cc5",
+    "title": "💰 in-c0/updAPI",
+    "summary": "[免费额度汇总] Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, policies, and community resourc…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/in-c0/updAPI",
+    "category": "ai-products",
+    "publishedAt": "2025-01-03T10:25:50Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "JavaScript"
+    ],
+    "heat": 21,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-0a2475072b",
+    "title": "💰 cheahjs/free-llm-api-resources",
+    "summary": "[免费额度汇总] A list of free LLM inference resources accessible via API.",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/cheahjs/free-llm-api-resources",
+    "category": "ai-products",
+    "publishedAt": "2024-07-04T20:10:17Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "Python"
+    ],
+    "heat": 24787,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-2350c72c39",
+    "title": "💰 SamurAIGPT/AI-Youtube-Shorts-Generator",
+    "summary": "[免费额度汇总] Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Wh…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator",
+    "category": "ai-products",
+    "publishedAt": "2024-06-28T07:39:14Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "Python"
+    ],
+    "heat": 4107,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-45eb4ad79b",
+    "title": "💰 MarsX-dev/tools-for-makers",
+    "summary": "[免费额度汇总] List of tools for makers, founders and developers which got generous free tier and easy to use. Also, check out some of my projects → http://unicornpla…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/MarsX-dev/tools-for-makers",
+    "category": "ai-products",
+    "publishedAt": "2023-09-25T17:21:36Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 155,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-0ce5b53f4d",
+    "title": "💰 zukixa/cool-ai-stuff",
+    "summary": "[免费额度汇总] This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/zukixa/cool-ai-stuff",
+    "category": "ai-products",
+    "publishedAt": "2023-09-02T23:24:06Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 1207,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-83b327227f",
+    "title": "💰 chatanywhere/GPT_API_free",
+    "summary": "[免费额度汇总] Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/chatanywhere/GPT_API_free",
+    "category": "ai-products",
+    "publishedAt": "2023-04-23T12:42:08Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 38666,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-59db5ee912",
+    "title": "💰 wdhdev/free-for-life",
+    "summary": "[免费额度汇总] A huge list of great stuff you can get for free!",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/wdhdev/free-for-life",
+    "category": "ai-products",
+    "publishedAt": "2023-01-28T10:22:02Z",
+    "tags": [
+      "free",
+      "credits",
+      "api",
+      "HTML"
+    ],
+    "heat": 1607,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
+    "aiNote": null
+  },
+  {
+    "id": "credit-credit-d5c49bf7bc",
+    "title": "💰 ncasias/fb",
+    "summary": "[免费额度汇总] <html lang=\"en\" id=\"facebook\" class=\"no_svg no_js\"> <head><meta charset=\"utf-8\" /><meta name=\"referrer\" content=\"default\" id=\"meta_referrer\" /><script>…",
+    "source": "GitHub Free Credits",
+    "sourceUrl": "https://github.com/ncasias/fb",
+    "category": "ai-products",
+    "publishedAt": "2021-03-18T19:49:32Z",
+    "tags": [
+      "free",
+      "credits",
+      "api"
+    ],
+    "heat": 19,
+    "aiSelected": true,
+    "origin": "deals",
+    "firstSeen": "2026-07-04T13:29:06.738Z",
     "aiNote": null
   }
 ]
