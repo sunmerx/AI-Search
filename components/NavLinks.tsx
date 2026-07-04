@@ -13,6 +13,7 @@ export default function NavLinks() {
       <Link href="/daily" className="hover:text-brand-600">{t("nav.daily")}</Link>
       <Link href="/weekly" className="hover:text-brand-600">{t("nav.weekly")}</Link>
       <Link href="/trends" className="hover:text-brand-600">{t("nav.trends")}</Link>
+      <Link href="/deals" className="hover:text-brand-600 text-amber-600 dark:text-amber-500 font-medium">{t("nav.deals")}</Link>
       <a
         href="https://github.com/keyuchen-del/AI-Search"
         target="_blank"
