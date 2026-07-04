@@ -8,6 +8,7 @@ const dict: Record<string, Record<Locale, string>> = {
   "nav.trends": { zh: "趋势", en: "Trends" },
   "nav.topics": { zh: "话题", en: "Topics" },
   "nav.deals": { zh: "优惠", en: "Deals" },
+  "nav.platforms": { zh: "平台", en: "Platforms" },
   "site.subtitle": { zh: "AI 行业资讯聚合", en: "AI News Aggregator" },
 
   // Search

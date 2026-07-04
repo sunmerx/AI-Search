@@ -248,6 +248,132 @@ async function fetchPricingDeals(): Promise<AIItem[]> {
   return out;
 }
 
+/* ── Product Hunt AI category (new AI product launches) ── */
+
+interface PHPost {
+  id: number;
+  name: string;
+  tagline: string;
+  url: string;
+  votesCount: number;
+  createdAt: string;
+}
+
+interface PHResponse {
+  posts: { edges: { node: PHPost }[] };
+}
+
+async function fetchProductHunt(): Promise<AIItem[]> {
+  const out: AIItem[] = [];
+  try {
+    const query = `{ posts(first: 10, order: VOTES, topic: "ai") { edges { node { id name tagline url votesCount createdAt } } } }`;
+    const resp = await fetch("https://api.producthunt.com/v2/api/graphql", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Host: "api.producthunt.com",
+      } as Record<string, string>,
+      body: JSON.stringify({ query }),
+    });
+    if (!resp.ok) throw new Error(`PH HTTP ${resp.status}`);
+    const data = (await resp.json()) as { data?: PHResponse };
+    const posts = data?.data?.posts?.edges?.map((e) => e.node) || [];
+    for (const p of posts.slice(0, 8)) {
+      out.push({
+        id: `ph-${p.id}`,
+        title: `🚀 ${p.name}`,
+        summary: truncate(p.tagline, 160),
+        source: "Product Hunt",
+        sourceUrl: p.url,
+        category: "ai-products",
+        publishedAt: p.createdAt,
+        tags: ["producthunt", "新产品"],
+        heat: p.votesCount,
+        aiSelected: true,
+        origin: "deals",
+      });
+    }
+  } catch (e) {
+    console.warn("[deals] Product Hunt fetch failed:", e);
+  }
+  return out;
+}
+
+/* ── Reddit free AI resources ── */
+
+async function fetchRedditFreeAI(): Promise<AIItem[]> {
+  const out: AIItem[] = [];
+  const subs = [
+    { name: "r/FreeAI", url: "https://www.reddit.com/r/FreeAI/hot/.json?limit=10" },
+    { name: "r/LocalLLaMA", url: "https://www.reddit.com/r/LocalLLaMA/hot/.json?limit=10" },
+  ];
+  for (const sub of subs) {
+    try {
+      const data = await getJson<{ data: { children: { data: { id: string; title: string; selftext: string; url: string; score: number; created_utc: number } }[] } }>(sub.url);
+      const posts = data?.data?.children?.map((c) => c.data) || [];
+      for (const p of posts.slice(0, 5)) {
+        const isDeal = /free|免费|credit|grant|trial|额度|优惠|白嫖/i.test(p.title + " " + p.selftext.slice(0, 200));
+        if (!isDeal) continue;
+        out.push({
+          id: `reddit-${sub.name}-${p.id}`,
+          title: `💬 ${p.title}`,
+          summary: truncate(p.selftext, 160) || null,
+          source: `Reddit ${sub.name}`,
+          sourceUrl: `https://reddit.com${p.url}`,
+          category: "ai-products",
+          publishedAt: new Date(p.created_utc * 1000).toISOString(),
+          tags: ["reddit", "free"],
+          heat: p.score,
+          aiSelected: true,
+          origin: "deals",
+        });
+      }
+    } catch (e) {
+      console.warn(`[deals] Reddit ${sub.name} fetch failed:`, e);
+    }
+  }
+  return out;
+}
+
+/* ── Hacker News Show (AI-related) ── */
+
+interface HNItem {
+  objectID: string;
+  title: string;
+  url: string;
+  points: number;
+  created_at: string;
+}
+
+async function fetchHNShow(): Promise<AIItem[]> {
+  const out: AIItem[] = [];
+  try {
+    const data = await getJson<{ hits: HNItem[] }>(
+      "https://hn.algolia.com/api/v1/search?query=ai&tags=show_hn&hitsPerPage=15"
+    );
+    for (const h of data.hits || []) {
+      if (!h.title) continue;
+      out.push({
+        id: `hn-show-${h.objectID}`,
+        title: `📢 ${h.title}`,
+        summary: null,
+        source: "HN Show",
+        sourceUrl: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+        category: "ai-products",
+        publishedAt: h.created_at,
+        tags: ["hackernews", "show"],
+        heat: h.points || 0,
+        aiSelected: true,
+        origin: "deals",
+      });
+    }
+  } catch (e) {
+    console.warn("[deals] HN Show fetch failed:", e);
+  }
+  return out;
+}
+
 /* ── Adapter ── */
 
 export const deals: SourceAdapter = {
@@ -260,6 +386,9 @@ export const deals: SourceAdapter = {
       fetchHFFreeModels(),
       fetchFreeCreditRepos(),
       fetchPricingDeals(),
+      fetchProductHunt(),
+      fetchRedditFreeAI(),
+      fetchHNShow(),
     ]);
     const all: AIItem[] = [];
     for (const r of results) {
